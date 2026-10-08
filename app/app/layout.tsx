@@ -7,6 +7,8 @@ const jetbrains = JetBrains_Mono({ subsets: ["latin"], variable: "--font-jetbrai
 const instrument = Instrument_Serif({ subsets: ["latin"], weight: "400", style: ["italic", "normal"], variable: "--font-instrument" });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://india-budget-promised-vs-spent.vercel.app"),
+  twitter: { card: "summary_large_image" },
   title: "Promised vs Spent",
   description:
     "Twenty years of India's Union Budget: what the government announced, and what it actually spent. Read from 32 official budget documents.",
