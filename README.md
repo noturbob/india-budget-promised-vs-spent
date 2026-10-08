@@ -1,15 +1,100 @@
-# Promised vs Spent: India's Union Budget, 2003-04 to 2026-27
+<div align="center">
 
-**Question:** how far does what the Union Government actually spends drift from what it announces in the
-Budget, which ministries and schemes drift the most, and has that changed between governments?
+# Promised vs Spent
 
-**Status:** data, analysis and story app done. Run the app: `cd app && pnpm install && pnpm dev`.
+**What India's Union Government promised in its Budgets, and what it actually spent, 2005 to 2025.**
 
-## What's in this folder
+Twenty years of budgets, read line by line from 32 official documents,<br>
+then told as a story that ends with the bill.
+
+### [**Read the story →**](https://india-budget-promised-vs-spent.vercel.app)
+
+<a href="https://india-budget-promised-vs-spent.vercel.app"><img src="docs/preview/hero.jpg" alt="Promised vs Spent: the opening screen, with a receipt for the 2026-27 budget" width="100%"></a>
+
+</div>
+
+---
+
+Every February the Finance Minister announces what the government will spend. Two years later the audited
+accounts show what it actually spent. The two numbers rarely match, and the gap is printed in plain sight
+in the government's own documents, if you are willing to read a few thousand pages of them.
+
+This project does that reading. It extracts every ministry and scheme from the Budget documents of 2005-06
+to 2026-27, links each year's promise to its revised estimate and its audited actual, and asks three
+questions: **how far does spending drift from the budget, where does it drift most, and has that changed
+between governments?** The question is framed neutrally: the same yardstick is applied to every government.
+
+## What it found
+
+All money in ₹ crore; 1 lakh crore = ₹1,00,000 crore.
+
+1. **Over twenty years the totals almost match.** From 2005-06 to 2024-25 the Budgets promised
+   **₹417.7 lakh crore** and the government spent **₹423.5 lakh crore**, 1.4% more. The years that ran far
+   over were crises: 2008-09 (+18%, the financial crisis) and 2020-21 (+15%, COVID).
+2. **Inside the ministries, the money moves a lot.** From 2016-17 to 2024-25, **₹17.1 lakh crore** promised
+   to ministries was never spent, while **₹22.6 lakh crore** was spent beyond their budgets.
+3. **Underspending has become more common.** Before 2020, about 1 in 5 schemes spent less than three
+   quarters of its budget. Since COVID it has been about 1 in 3.
+4. **The plan's funding side misses too.** Over twenty years, asset sales (disinvestment) brought in
+   ₹5.5 lakh crore less than budgeted, tax ₹4.4 lakh crore less, and ₹1.9 lakh crore of planned capital
+   investment was never made. The government borrowed ₹14.8 lakh crore more than it planned.
+5. **2024-25, traced rupee by rupee.** The budget promised ₹48.2 lakh crore and ₹46.5 lakh crore was spent:
+   ₹1.7 lakh crore less. The biggest shortfalls were rural tap water (Jal Jeevan Mission: ₹70,163 crore
+   budgeted, ₹22,615 crore spent) and urban housing (PMAY-Urban: ₹30,171 crore budgeted, ₹5,815 crore spent).
+6. **So did money go missing? No, and that's the point.** A budget line is permission to spend, not cash in a
+   ministry's account. Unspent money is never paid out; the government simply borrows less. What the budget
+   can't show is whether the money that *was* spent was delivered well. That is where the record goes thin.
+
+## A look inside
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/preview/gap.jpg" alt="The gap between budget and actual spending, year by year"><br><sub><b>The gap.</b> Each year's actual spending against its budget, drawn as you scroll, with each government in turn.</sub></td>
+    <td width="50%"><img src="docs/preview/ministries-sankey.jpg" alt="Sankey diagram of every ministry's budget flowing into its spending"><br><sub><b>Where every ministry's money went.</b> A Sankey from budget to spending; unspent money drains to one pool. Click any ministry.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="docs/preview/the-bill.jpg" alt="The grand total, printed as a bill"><br><sub><b>The bill.</b> Twenty years added up: budgeted, spent, never spent, and spent beyond budget.</sub></td>
+    <td width="50%"><img src="docs/preview/waterfall.jpg" alt="Waterfall chart tracing the 2024-25 shortfall"><br><sub><b>Where did ₹1.7 lakh crore go?</b> A two-part waterfall: where spending fell short, then how the books balanced.</sub></td>
+  </tr>
+</table>
+
+## How it works
+
+```mermaid
+flowchart LR
+  A["32 official PDFs & pages<br>indiabudget.gov.in"] --> B["pipeline/<br>download · checksum · extract"]
+  B --> C["data/processed/<br>macro_totals · scheme_lines"]
+  C --> D["analysis/<br>link BE → RE → Actual<br>per ministry & scheme"]
+  D --> E["app/data/story.json"]
+  E --> F["Story app<br>Next.js + GSAP"]
+```
+
+- **Nothing is typed in by hand** except one page that has no text layer, and that transcription says how it
+  was checked. Every other number is extracted from the original files, which are kept unedited in
+  `data/raw/` with their URLs and SHA-256 checksums.
+- **The pipeline refuses to produce wrong numbers.** Every statement must satisfy the budget's own accounting
+  identities, every ministry must add up to its printed total, and the two kinds of document must agree with
+  each other to the crore. If any check fails, no CSV is written. The full list is below.
+- **The story app reads one file,** `app/data/story.json`, so every figure on the site can be traced back to
+  a line of analysis code and a page of a government PDF.
+
+**Built with:** Python (standard library only) and `pdftotext` for the pipeline; Next.js, TypeScript,
+Tailwind CSS and GSAP for the story.
+
+## Run it yourself
+
+```bash
+pipeline/run_all.sh                                   # Python 3.10+ and poppler's pdftotext; no pip packages
+python3 analysis/panels.py && python3 analysis/findings.py
+cd app && pnpm install && pnpm dev
+```
+
+## Project structure
 
 ```
 02-india-budget/
 ├── README.md                   you are here
+├── docs/preview/               screenshots used in this README
 ├── pipeline/                   code; run in order, or all at once with run_all.sh
 │   ├── sources.py              every external file: URL and what it is used for
 │   ├── 01_download.py          fetches sources into data/raw/, writes MANIFEST.csv
