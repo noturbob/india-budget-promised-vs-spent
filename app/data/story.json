@@ -1,0 +1,6485 @@
+{
+ "macro": [
+  {
+   "fy": "2005-06",
+   "government": "UPA-1",
+   "capital_expenditure": {
+    "be": 67832.0,
+    "re": 68410.0,
+    "actual": 66362.0
+   },
+   "fiscal_deficit": {
+    "be": 151144.0,
+    "re": 146175.0,
+    "actual": 146435.0
+   },
+   "interest_payments": {
+    "be": 133945.0,
+    "re": 130032.0,
+    "actual": 132630.0
+   },
+   "non_tax_revenue": {
+    "be": 77734.0,
+    "re": 74335.0,
+    "actual": 77198.0
+   },
+   "other_receipts": {
+    "be": null,
+    "re": 2356.0,
+    "actual": 1581.0
+   },
+   "primary_deficit": {
+    "be": 17199.0,
+    "re": 16143.0,
+    "actual": 13805.0
+   },
+   "recoveries_of_loans": {
+    "be": 12000.0,
+    "re": 11700.0,
+    "actual": 10645.0
+   },
+   "revenue_deficit": {
+    "be": 95312.0,
+    "re": 91821.0,
+    "actual": 92299.0
+   },
+   "revenue_expenditure": {
+    "be": 446512.0,
+    "re": 440295.0,
+    "actual": 439761.0
+   },
+   "revenue_receipts": {
+    "be": 351200.0,
+    "re": 348474.0,
+    "actual": 347462.0
+   },
+   "tax_revenue_net": {
+    "be": 273466.0,
+    "re": 274139.0,
+    "actual": 270264.0
+   },
+   "total_expenditure": {
+    "be": 514344.0,
+    "re": 508705.0,
+    "actual": 506123.0
+   }
+  },
+  {
+   "fy": "2006-07",
+   "government": "UPA-1",
+   "capital_expenditure": {
+    "be": 75799.0,
+    "re": 74870.0,
+    "actual": 68778.0
+   },
+   "fiscal_deficit": {
+    "be": 148686.0,
+    "re": 152328.0,
+    "actual": 142573.0
+   },
+   "interest_payments": {
+    "be": 139823.0,
+    "re": 146192.0,
+    "actual": 150272.0
+   },
+   "non_tax_revenue": {
+    "be": 76260.0,
+    "re": 77360.0,
+    "actual": 83205.0
+   },
+   "other_receipts": {
+    "be": 3840.0,
+    "re": 528.0,
+    "actual": 534.0
+   },
+   "primary_deficit": {
+    "be": 8863.0,
+    "re": 6136.0,
+    "actual": -7699.0
+   },
+   "recoveries_of_loans": {
+    "be": 8000.0,
+    "re": 5450.0,
+    "actual": 5893.0
+   },
+   "revenue_deficit": {
+    "be": 84727.0,
+    "re": 83436.0,
+    "actual": 80222.0
+   },
+   "revenue_expenditure": {
+    "be": 488192.0,
+    "re": 506767.0,
+    "actual": 514609.0
+   },
+   "revenue_receipts": {
+    "be": 403465.0,
+    "re": 423331.0,
+    "actual": 434387.0
+   },
+   "tax_revenue_net": {
+    "be": 327205.0,
+    "re": 345971.0,
+    "actual": 351182.0
+   },
+   "total_expenditure": {
+    "be": 563991.0,
+    "re": 581637.0,
+    "actual": 583387.0
+   }
+  },
+  {
+   "fy": "2007-08",
+   "government": "UPA-1",
+   "capital_expenditure": {
+    "be": 122621.0,
+    "re": 120787.0,
+    "actual": 118238.0
+   },
+   "fiscal_deficit": {
+    "be": 150948.0,
+    "re": 143653.0,
+    "actual": 126912.0
+   },
+   "interest_payments": {
+    "be": 158995.0,
+    "re": 171971.0,
+    "actual": 171030.0
+   },
+   "non_tax_revenue": {
+    "be": 82550.0,
+    "re": 93325.0,
+    "actual": 102317.0
+   },
+   "other_receipts": {
+    "be": 41651.0,
+    "re": 36125.0,
+    "actual": 38795.0
+   },
+   "primary_deficit": {
+    "be": -8047.0,
+    "re": -28318.0,
+    "actual": -44118.0
+   },
+   "recoveries_of_loans": {
+    "be": 1500.0,
+    "re": 4497.0,
+    "actual": 5100.0
+   },
+   "revenue_deficit": {
+    "be": 71478.0,
+    "re": 63488.0,
+    "actual": 52569.0
+   },
+   "revenue_expenditure": {
+    "be": 557900.0,
+    "re": 588586.0,
+    "actual": 594433.0
+   },
+   "revenue_receipts": {
+    "be": 486422.0,
+    "re": 525098.0,
+    "actual": 541864.0
+   },
+   "tax_revenue_net": {
+    "be": 403872.0,
+    "re": 431773.0,
+    "actual": 439547.0
+   },
+   "total_expenditure": {
+    "be": 680521.0,
+    "re": 709373.0,
+    "actual": 712671.0
+   }
+  },
+  {
+   "fy": "2008-09",
+   "government": "UPA-1",
+   "capital_expenditure": {
+    "be": 92765.0,
+    "re": 97507.0,
+    "actual": 90158.0
+   },
+   "fiscal_deficit": {
+    "be": 133287.0,
+    "re": 326515.0,
+    "actual": 336992.0
+   },
+   "interest_payments": {
+    "be": 190807.0,
+    "re": 192694.0,
+    "actual": 192204.0
+   },
+   "non_tax_revenue": {
+    "be": 95785.0,
+    "re": 96203.0,
+    "actual": 96940.0
+   },
+   "other_receipts": {
+    "be": 10165.0,
+    "re": 2567.0,
+    "actual": 566.0
+   },
+   "primary_deficit": {
+    "be": -57520.0,
+    "re": 133821.0,
+    "actual": 144788.0
+   },
+   "recoveries_of_loans": {
+    "be": 4497.0,
+    "re": 9698.0,
+    "actual": 6139.0
+   },
+   "revenue_deficit": {
+    "be": 55184.0,
+    "re": 241273.0,
+    "actual": 253539.0
+   },
+   "revenue_expenditure": {
+    "be": 658119.0,
+    "re": 803446.0,
+    "actual": 793798.0
+   },
+   "revenue_receipts": {
+    "be": 602935.0,
+    "re": 562173.0,
+    "actual": 540259.0
+   },
+   "tax_revenue_net": {
+    "be": 507150.0,
+    "re": 465970.0,
+    "actual": 443319.0
+   },
+   "total_expenditure": {
+    "be": 750884.0,
+    "re": 900953.0,
+    "actual": 883956.0
+   }
+  },
+  {
+   "fy": "2009-10",
+   "government": "UPA-2",
+   "capital_expenditure": {
+    "be": 123606.0,
+    "re": 115192.0,
+    "actual": 112678.0
+   },
+   "fiscal_deficit": {
+    "be": 400996.0,
+    "re": 414041.0,
+    "actual": 418482.0
+   },
+   "interest_payments": {
+    "be": 225511.0,
+    "re": 219500.0,
+    "actual": 213093.0
+   },
+   "non_tax_revenue": {
+    "be": 140279.0,
+    "re": 112191.0,
+    "actual": 116275.0
+   },
+   "other_receipts": {
+    "be": 1120.0,
+    "re": 25958.0,
+    "actual": 24581.0
+   },
+   "primary_deficit": {
+    "be": 175485.0,
+    "re": 194541.0,
+    "actual": 205389.0
+   },
+   "recoveries_of_loans": {
+    "be": 4225.0,
+    "re": 4254.0,
+    "actual": 8613.0
+   },
+   "revenue_deficit": {
+    "be": 282735.0,
+    "re": 329061.0,
+    "actual": 338998.0
+   },
+   "revenue_expenditure": {
+    "be": 897232.0,
+    "re": 906355.0,
+    "actual": 911809.0
+   },
+   "revenue_receipts": {
+    "be": 614497.0,
+    "re": 577294.0,
+    "actual": 572811.0
+   },
+   "tax_revenue_net": {
+    "be": 474218.0,
+    "re": 465103.0,
+    "actual": 456536.0
+   },
+   "total_expenditure": {
+    "be": 1020838.0,
+    "re": 1021547.0,
+    "actual": 1024487.0
+   }
+  },
+  {
+   "fy": "2010-11",
+   "government": "UPA-2",
+   "capital_expenditure": {
+    "be": 150025.0,
+    "re": 162899.0,
+    "actual": 156605.0
+   },
+   "fiscal_deficit": {
+    "be": 381408.0,
+    "re": 400998.0,
+    "actual": 373591.0
+   },
+   "interest_payments": {
+    "be": 248664.0,
+    "re": 240757.0,
+    "actual": 234022.0
+   },
+   "non_tax_revenue": {
+    "be": 148118.0,
+    "re": 220148.0,
+    "actual": 218602.0
+   },
+   "other_receipts": {
+    "be": 40000.0,
+    "re": 22744.0,
+    "actual": 22846.0
+   },
+   "primary_deficit": {
+    "be": 132744.0,
+    "re": 160241.0,
+    "actual": 139569.0
+   },
+   "recoveries_of_loans": {
+    "be": 5129.0,
+    "re": 9001.0,
+    "actual": 12420.0
+   },
+   "revenue_deficit": {
+    "be": 276512.0,
+    "re": 269844.0,
+    "actual": 252252.0
+   },
+   "revenue_expenditure": {
+    "be": 958724.0,
+    "re": 1053677.0,
+    "actual": 1040723.0
+   },
+   "revenue_receipts": {
+    "be": 682212.0,
+    "re": 783833.0,
+    "actual": 788471.0
+   },
+   "tax_revenue_net": {
+    "be": 534094.0,
+    "re": 563685.0,
+    "actual": 569869.0
+   },
+   "total_expenditure": {
+    "be": 1108749.0,
+    "re": 1216576.0,
+    "actual": 1197328.0
+   }
+  },
+  {
+   "fy": "2011-12",
+   "government": "UPA-2",
+   "capital_expenditure": {
+    "be": 160567.0,
+    "re": 156780.0,
+    "actual": 158580.0
+   },
+   "fiscal_deficit": {
+    "be": 412817.0,
+    "re": 521980.0,
+    "actual": 515990.0
+   },
+   "interest_payments": {
+    "be": 267986.0,
+    "re": 275618.0,
+    "actual": 273150.0
+   },
+   "non_tax_revenue": {
+    "be": 125435.0,
+    "re": 124737.0,
+    "actual": 121672.0
+   },
+   "other_receipts": {
+    "be": 40000.0,
+    "re": 15493.0,
+    "actual": 18088.0
+   },
+   "primary_deficit": {
+    "be": 144831.0,
+    "re": 246362.0,
+    "actual": 242840.0
+   },
+   "recoveries_of_loans": {
+    "be": 15020.0,
+    "re": 14258.0,
+    "actual": 18850.0
+   },
+   "revenue_deficit": {
+    "be": 307270.0,
+    "re": 394951.0,
+    "actual": 394348.0
+   },
+   "revenue_expenditure": {
+    "be": 1097162.0,
+    "re": 1161940.0,
+    "actual": 1145785.0
+   },
+   "revenue_receipts": {
+    "be": 789892.0,
+    "re": 766989.0,
+    "actual": 751437.0
+   },
+   "tax_revenue_net": {
+    "be": 664457.0,
+    "re": 642252.0,
+    "actual": 629765.0
+   },
+   "total_expenditure": {
+    "be": 1257729.0,
+    "re": 1318720.0,
+    "actual": 1304365.0
+   }
+  },
+  {
+   "fy": "2012-13",
+   "government": "UPA-2",
+   "capital_expenditure": {
+    "be": 204816.0,
+    "re": 167753.0,
+    "actual": 166858.0
+   },
+   "fiscal_deficit": {
+    "be": 513590.0,
+    "re": 520925.0,
+    "actual": 490190.0
+   },
+   "interest_payments": {
+    "be": 319759.0,
+    "re": 316674.0,
+    "actual": 313170.0
+   },
+   "non_tax_revenue": {
+    "be": 164614.0,
+    "re": 129713.0,
+    "actual": 137355.0
+   },
+   "other_receipts": {
+    "be": 30000.0,
+    "re": 24000.0,
+    "actual": 25890.0
+   },
+   "primary_deficit": {
+    "be": 193831.0,
+    "re": 204251.0,
+    "actual": 177020.0
+   },
+   "recoveries_of_loans": {
+    "be": 11650.0,
+    "re": 14073.0,
+    "actual": 15060.0
+   },
+   "revenue_deficit": {
+    "be": 350424.0,
+    "re": 391245.0,
+    "actual": 364282.0
+   },
+   "revenue_expenditure": {
+    "be": 1286109.0,
+    "re": 1263072.0,
+    "actual": 1243514.0
+   },
+   "revenue_receipts": {
+    "be": 935685.0,
+    "re": 871828.0,
+    "actual": 879232.0
+   },
+   "tax_revenue_net": {
+    "be": 771071.0,
+    "re": 742115.0,
+    "actual": 741877.0
+   },
+   "total_expenditure": {
+    "be": 1490925.0,
+    "re": 1430825.0,
+    "actual": 1410372.0
+   }
+  },
+  {
+   "fy": "2013-14",
+   "government": "UPA-2",
+   "capital_expenditure": {
+    "be": 229129.0,
+    "re": 190894.0,
+    "actual": 187675.0
+   },
+   "fiscal_deficit": {
+    "be": 542499.0,
+    "re": 524539.0,
+    "actual": 502858.0
+   },
+   "interest_payments": {
+    "be": 370684.0,
+    "re": 380066.0,
+    "actual": 374254.0
+   },
+   "non_tax_revenue": {
+    "be": 172252.0,
+    "re": 193226.0,
+    "actual": 198870.0
+   },
+   "other_receipts": {
+    "be": 55814.0,
+    "re": 25841.0,
+    "actual": 29368.0
+   },
+   "primary_deficit": {
+    "be": 171814.0,
+    "re": 144473.0,
+    "actual": 128604.0
+   },
+   "recoveries_of_loans": {
+    "be": 10654.0,
+    "re": 10802.0,
+    "actual": 12497.0
+   },
+   "revenue_deficit": {
+    "be": 379838.0,
+    "re": 370288.0,
+    "actual": 357048.0
+   },
+   "revenue_expenditure": {
+    "be": 1436169.0,
+    "re": 1399540.0,
+    "actual": 1371772.0
+   },
+   "revenue_receipts": {
+    "be": 1056331.0,
+    "re": 1029252.0,
+    "actual": 1014724.0
+   },
+   "tax_revenue_net": {
+    "be": 884078.0,
+    "re": 836026.0,
+    "actual": 815854.0
+   },
+   "total_expenditure": {
+    "be": 1665297.0,
+    "re": 1590434.0,
+    "actual": 1559447.0
+   }
+  },
+  {
+   "fy": "2014-15",
+   "government": "NDA-1",
+   "capital_expenditure": {
+    "be": 226781.0,
+    "re": 192378.0,
+    "actual": 196681.0
+   },
+   "fiscal_deficit": {
+    "be": 531177.0,
+    "re": 512628.0,
+    "actual": 510725.0
+   },
+   "interest_payments": {
+    "be": 427011.0,
+    "re": 411354.0,
+    "actual": 402444.0
+   },
+   "non_tax_revenue": {
+    "be": 212505.0,
+    "re": 217831.0,
+    "actual": 197857.0
+   },
+   "other_receipts": {
+    "be": 63425.0,
+    "re": 31350.0,
+    "actual": 37737.0
+   },
+   "primary_deficit": {
+    "be": 104166.0,
+    "re": 101274.0,
+    "actual": 108281.0
+   },
+   "recoveries_of_loans": {
+    "be": 10527.0,
+    "re": 10886.0,
+    "actual": 13738.0
+   },
+   "revenue_deficit": {
+    "be": 378348.0,
+    "re": 362486.0,
+    "actual": 365519.0
+   },
+   "revenue_expenditure": {
+    "be": 1568111.0,
+    "re": 1488780.0,
+    "actual": 1466992.0
+   },
+   "revenue_receipts": {
+    "be": 1189763.0,
+    "re": 1126294.0,
+    "actual": 1101472.0
+   },
+   "tax_revenue_net": {
+    "be": 977258.0,
+    "re": 908463.0,
+    "actual": 903615.0
+   },
+   "total_expenditure": {
+    "be": 1794892.0,
+    "re": 1681158.0,
+    "actual": 1663673.0
+   }
+  },
+  {
+   "fy": "2015-16",
+   "government": "NDA-1",
+   "capital_expenditure": {
+    "be": 241430.0,
+    "re": 237718.0,
+    "actual": 253022.0
+   },
+   "fiscal_deficit": {
+    "be": 555649.0,
+    "re": 535090.0,
+    "actual": 532791.0
+   },
+   "interest_payments": {
+    "be": 456145.0,
+    "re": 442620.0,
+    "actual": 441659.0
+   },
+   "non_tax_revenue": {
+    "be": 221733.0,
+    "re": 258576.0,
+    "actual": 251260.0
+   },
+   "other_receipts": {
+    "be": 69500.0,
+    "re": 25312.0,
+    "actual": 42132.0
+   },
+   "primary_deficit": {
+    "be": 99504.0,
+    "re": 92469.0,
+    "actual": 91132.0
+   },
+   "recoveries_of_loans": {
+    "be": 10753.0,
+    "re": 18905.0,
+    "actual": 20835.0
+   },
+   "revenue_deficit": {
+    "be": 394472.0,
+    "re": 341589.0,
+    "actual": 342736.0
+   },
+   "revenue_expenditure": {
+    "be": 1536047.0,
+    "re": 1547673.0,
+    "actual": 1537761.0
+   },
+   "revenue_receipts": {
+    "be": 1141575.0,
+    "re": 1206084.0,
+    "actual": 1195025.0
+   },
+   "tax_revenue_net": {
+    "be": 919842.0,
+    "re": 947508.0,
+    "actual": 943765.0
+   },
+   "total_expenditure": {
+    "be": 1777477.0,
+    "re": 1785391.0,
+    "actual": 1790783.0
+   }
+  },
+  {
+   "fy": "2016-17",
+   "government": "NDA-1",
+   "capital_expenditure": {
+    "be": 247023.0,
+    "re": 279847.0,
+    "actual": 284610.0
+   },
+   "fiscal_deficit": {
+    "be": 533904.0,
+    "re": 534274.0,
+    "actual": 535618.0
+   },
+   "interest_payments": {
+    "be": 492670.0,
+    "re": 483069.0,
+    "actual": 480714.0
+   },
+   "non_tax_revenue": {
+    "be": 322921.0,
+    "re": 334770.0,
+    "actual": 272831.0
+   },
+   "other_receipts": {
+    "be": 56500.0,
+    "re": 45500.0,
+    "actual": 47743.0
+   },
+   "primary_deficit": {
+    "be": 41234.0,
+    "re": 51205.0,
+    "actual": 54904.0
+   },
+   "recoveries_of_loans": {
+    "be": 10634.0,
+    "re": 11071.0,
+    "actual": 17630.0
+   },
+   "revenue_deficit": {
+    "be": 354015.0,
+    "re": 310998.0,
+    "actual": 316381.0
+   },
+   "revenue_expenditure": {
+    "be": 1731037.0,
+    "re": 1734560.0,
+    "actual": 1690584.0
+   },
+   "revenue_receipts": {
+    "be": 1377022.0,
+    "re": 1423562.0,
+    "actual": 1374203.0
+   },
+   "tax_revenue_net": {
+    "be": 1054101.0,
+    "re": 1088792.0,
+    "actual": 1101372.0
+   },
+   "total_expenditure": {
+    "be": 1978060.0,
+    "re": 2014407.0,
+    "actual": 1975194.0
+   }
+  },
+  {
+   "fy": "2017-18",
+   "government": "NDA-1",
+   "capital_expenditure": {
+    "be": 309801.0,
+    "re": 273445.0,
+    "actual": 263140.0
+   },
+   "fiscal_deficit": {
+    "be": 546532.0,
+    "re": 594849.0,
+    "actual": 591062.0
+   },
+   "interest_payments": {
+    "be": 523078.0,
+    "re": 530843.0,
+    "actual": 528952.0
+   },
+   "non_tax_revenue": {
+    "be": 288757.0,
+    "re": 235974.0,
+    "actual": 192745.0
+   },
+   "other_receipts": {
+    "be": 72500.0,
+    "re": 100000.0,
+    "actual": 100045.0
+   },
+   "primary_deficit": {
+    "be": 23454.0,
+    "re": 64006.0,
+    "actual": 62110.0
+   },
+   "recoveries_of_loans": {
+    "be": 11932.0,
+    "re": 17473.0,
+    "actual": 15633.0
+   },
+   "revenue_deficit": {
+    "be": 321163.0,
+    "re": 438877.0,
+    "actual": 443600.0
+   },
+   "revenue_expenditure": {
+    "be": 1836934.0,
+    "re": 1944305.0,
+    "actual": 1878833.0
+   },
+   "revenue_receipts": {
+    "be": 1515771.0,
+    "re": 1505428.0,
+    "actual": 1435233.0
+   },
+   "tax_revenue_net": {
+    "be": 1227014.0,
+    "re": 1269454.0,
+    "actual": 1242488.0
+   },
+   "total_expenditure": {
+    "be": 2146735.0,
+    "re": 2217750.0,
+    "actual": 2141973.0
+   }
+  },
+  {
+   "fy": "2018-19",
+   "government": "NDA-1",
+   "capital_expenditure": {
+    "be": 300441.0,
+    "re": 316623.0,
+    "actual": 307714.0
+   },
+   "fiscal_deficit": {
+    "be": 624276.0,
+    "re": 634398.0,
+    "actual": 649418.0
+   },
+   "interest_payments": {
+    "be": 575795.0,
+    "re": 587570.0,
+    "actual": 582648.0
+   },
+   "non_tax_revenue": {
+    "be": 245089.0,
+    "re": 245276.0,
+    "actual": 235705.0
+   },
+   "other_receipts": {
+    "be": 80000.0,
+    "re": 80000.0,
+    "actual": 94727.0
+   },
+   "primary_deficit": {
+    "be": 48481.0,
+    "re": 46828.0,
+    "actual": 66770.0
+   },
+   "recoveries_of_loans": {
+    "be": 12199.0,
+    "re": 13155.0,
+    "actual": 18052.0
+   },
+   "revenue_deficit": {
+    "be": 416034.0,
+    "re": 410930.0,
+    "actual": 454483.0
+   },
+   "revenue_expenditure": {
+    "be": 2141772.0,
+    "re": 2140612.0,
+    "actual": 2007399.0
+   },
+   "revenue_receipts": {
+    "be": 1725738.0,
+    "re": 1729682.0,
+    "actual": 1552916.0
+   },
+   "tax_revenue_net": {
+    "be": 1480649.0,
+    "re": 1484406.0,
+    "actual": 1317211.0
+   },
+   "total_expenditure": {
+    "be": 2442213.0,
+    "re": 2457235.0,
+    "actual": 2315113.0
+   }
+  },
+  {
+   "fy": "2019-20",
+   "government": "NDA-2",
+   "capital_expenditure": {
+    "be": 338569.0,
+    "re": 348907.0,
+    "actual": 335726.0
+   },
+   "fiscal_deficit": {
+    "be": 703760.0,
+    "re": 766846.0,
+    "actual": 933651.0
+   },
+   "interest_payments": {
+    "be": 660471.0,
+    "re": 625105.0,
+    "actual": 612070.0
+   },
+   "non_tax_revenue": {
+    "be": 313179.0,
+    "re": 345514.0,
+    "actual": 327157.0
+   },
+   "other_receipts": {
+    "be": 105000.0,
+    "re": 65000.0,
+    "actual": 50304.0
+   },
+   "primary_deficit": {
+    "be": 43289.0,
+    "re": 141741.0,
+    "actual": 321581.0
+   },
+   "recoveries_of_loans": {
+    "be": 14828.0,
+    "re": 16605.0,
+    "actual": 18316.0
+   },
+   "revenue_deficit": {
+    "be": 485019.0,
+    "re": 499544.0,
+    "actual": 666545.0
+   },
+   "revenue_expenditure": {
+    "be": 2447780.0,
+    "re": 2349645.0,
+    "actual": 2350604.0
+   },
+   "revenue_receipts": {
+    "be": 1962761.0,
+    "re": 1850101.0,
+    "actual": 1684059.0
+   },
+   "tax_revenue_net": {
+    "be": 1649582.0,
+    "re": 1504587.0,
+    "actual": 1356902.0
+   },
+   "total_expenditure": {
+    "be": 2786349.0,
+    "re": 2698552.0,
+    "actual": 2686330.0
+   }
+  },
+  {
+   "fy": "2020-21",
+   "government": "NDA-2",
+   "capital_expenditure": {
+    "be": 412085.0,
+    "re": 439163.0,
+    "actual": 426317.0
+   },
+   "fiscal_deficit": {
+    "be": 796337.0,
+    "re": 1848655.0,
+    "actual": 1818291.0
+   },
+   "interest_payments": {
+    "be": 708203.0,
+    "re": 692900.0,
+    "actual": 679869.0
+   },
+   "non_tax_revenue": {
+    "be": 385017.0,
+    "re": 210652.0,
+    "actual": 207633.0
+   },
+   "other_receipts": {
+    "be": 210000.0,
+    "re": 32000.0,
+    "actual": 37897.0
+   },
+   "primary_deficit": {
+    "be": 88134.0,
+    "re": 1155755.0,
+    "actual": 1138422.0
+   },
+   "recoveries_of_loans": {
+    "be": 14967.0,
+    "re": 14497.0,
+    "actual": 19729.0
+   },
+   "revenue_deficit": {
+    "be": 609219.0,
+    "re": 1455989.0,
+    "actual": 1449599.0
+   },
+   "revenue_expenditure": {
+    "be": 2630145.0,
+    "re": 3011142.0,
+    "actual": 3083519.0
+   },
+   "revenue_receipts": {
+    "be": 2020926.0,
+    "re": 1555153.0,
+    "actual": 1633920.0
+   },
+   "tax_revenue_net": {
+    "be": 1635909.0,
+    "re": 1344501.0,
+    "actual": 1426287.0
+   },
+   "total_expenditure": {
+    "be": 3042230.0,
+    "re": 3450305.0,
+    "actual": 3509836.0
+   }
+  },
+  {
+   "fy": "2021-22",
+   "government": "NDA-2",
+   "capital_expenditure": {
+    "be": 554236.0,
+    "re": 602711.0,
+    "actual": 592874.0
+   },
+   "fiscal_deficit": {
+    "be": 1506812.0,
+    "re": 1591089.0,
+    "actual": 1584521.0
+   },
+   "interest_payments": {
+    "be": 809701.0,
+    "re": 813791.0,
+    "actual": 805499.0
+   },
+   "non_tax_revenue": {
+    "be": 243028.0,
+    "re": 313791.0,
+    "actual": 365112.0
+   },
+   "other_receipts": {
+    "be": 175000.0,
+    "re": 78000.0,
+    "actual": 14638.0
+   },
+   "primary_deficit": {
+    "be": 697111.0,
+    "re": 777298.0,
+    "actual": 779022.0
+   },
+   "recoveries_of_loans": {
+    "be": 13000.0,
+    "re": 21975.0,
+    "actual": 24737.0
+   },
+   "revenue_deficit": {
+    "be": 1140576.0,
+    "re": 1088352.0,
+    "actual": 1031021.0
+   },
+   "revenue_expenditure": {
+    "be": 2929000.0,
+    "re": 3167289.0,
+    "actual": 3200926.0
+   },
+   "revenue_receipts": {
+    "be": 1788424.0,
+    "re": 2078936.0,
+    "actual": 2169905.0
+   },
+   "tax_revenue_net": {
+    "be": 1545396.0,
+    "re": 1765145.0,
+    "actual": 1804793.0
+   },
+   "total_expenditure": {
+    "be": 3483236.0,
+    "re": 3770000.0,
+    "actual": 3793801.0
+   }
+  },
+  {
+   "fy": "2022-23",
+   "government": "NDA-2",
+   "capital_expenditure": {
+    "be": 750246.0,
+    "re": 728274.0,
+    "actual": 740025.0
+   },
+   "fiscal_deficit": {
+    "be": 1661196.0,
+    "re": 1755319.0,
+    "actual": 1737755.0
+   },
+   "interest_payments": {
+    "be": 940651.0,
+    "re": 940651.0,
+    "actual": 928517.0
+   },
+   "non_tax_revenue": {
+    "be": 269651.0,
+    "re": 261751.0,
+    "actual": 285421.0
+   },
+   "other_receipts": {
+    "be": 65000.0,
+    "re": 60000.0,
+    "actual": 46035.0
+   },
+   "primary_deficit": {
+    "be": 720545.0,
+    "re": 814668.0,
+    "actual": 809238.0
+   },
+   "recoveries_of_loans": {
+    "be": 14291.0,
+    "re": 23500.0,
+    "actual": 26161.0
+   },
+   "revenue_deficit": {
+    "be": 990241.0,
+    "re": 1110546.0,
+    "actual": 1069926.0
+   },
+   "revenue_expenditure": {
+    "be": 3194663.0,
+    "re": 3458959.0,
+    "actual": 3453132.0
+   },
+   "revenue_receipts": {
+    "be": 2204422.0,
+    "re": 2348413.0,
+    "actual": 2383206.0
+   },
+   "tax_revenue_net": {
+    "be": 1934771.0,
+    "re": 2086662.0,
+    "actual": 2097786.0
+   },
+   "total_expenditure": {
+    "be": 3944909.0,
+    "re": 4187232.0,
+    "actual": 4193157.0
+   }
+  },
+  {
+   "fy": "2023-24",
+   "government": "NDA-2",
+   "capital_expenditure": {
+    "be": 1000961.0,
+    "re": 950246.0,
+    "actual": 949195.0
+   },
+   "fiscal_deficit": {
+    "be": 1786816.0,
+    "re": 1734773.0,
+    "actual": 1654643.0
+   },
+   "interest_payments": {
+    "be": 1079971.0,
+    "re": 1055427.0,
+    "actual": 1063872.0
+   },
+   "non_tax_revenue": {
+    "be": 301650.0,
+    "re": 375795.0,
+    "actual": 401785.0
+   },
+   "other_receipts": {
+    "be": 61000.0,
+    "re": 30000.0,
+    "actual": 33122.0
+   },
+   "primary_deficit": {
+    "be": 706845.0,
+    "re": 679346.0,
+    "actual": 590771.0
+   },
+   "recoveries_of_loans": {
+    "be": 23000.0,
+    "re": 26000.0,
+    "actual": 26646.0
+   },
+   "revenue_deficit": {
+    "be": 869855.0,
+    "re": 840527.0,
+    "actual": 765216.0
+   },
+   "revenue_expenditure": {
+    "be": 3502136.0,
+    "re": 3540239.0,
+    "actual": 3494252.0
+   },
+   "revenue_receipts": {
+    "be": 2632281.0,
+    "re": 2699713.0,
+    "actual": 2729036.0
+   },
+   "tax_revenue_net": {
+    "be": 2330631.0,
+    "re": 2323918.0,
+    "actual": 2327251.0
+   },
+   "total_expenditure": {
+    "be": 4503097.0,
+    "re": 4490486.0,
+    "actual": 4443447.0
+   }
+  },
+  {
+   "fy": "2024-25",
+   "government": "NDA-3",
+   "capital_expenditure": {
+    "be": 1111111.0,
+    "re": 1018429.0,
+    "actual": 1051953.0
+   },
+   "fiscal_deficit": {
+    "be": 1613312.0,
+    "re": 1569527.0,
+    "actual": 1574431.0
+   },
+   "interest_payments": {
+    "be": 1162940.0,
+    "re": 1137940.0,
+    "actual": 1115575.0
+   },
+   "non_tax_revenue": {
+    "be": 545701.0,
+    "re": 531000.0,
+    "actual": 536580.0
+   },
+   "other_receipts": {
+    "be": 50000.0,
+    "re": 33000.0,
+    "actual": 17202.0
+   },
+   "primary_deficit": {
+    "be": 450372.0,
+    "re": 431587.0,
+    "actual": 458856.0
+   },
+   "recoveries_of_loans": {
+    "be": 28000.0,
+    "re": 26000.0,
+    "actual": 24617.0
+   },
+   "revenue_deficit": {
+    "be": 580201.0,
+    "re": 610098.0,
+    "actual": 564296.0
+   },
+   "revenue_expenditure": {
+    "be": 3709401.0,
+    "re": 3698058.0,
+    "actual": 3600914.0
+   },
+   "revenue_receipts": {
+    "be": 3129200.0,
+    "re": 3087960.0,
+    "actual": 3036619.0
+   },
+   "tax_revenue_net": {
+    "be": 2583499.0,
+    "re": 2556960.0,
+    "actual": 2500039.0
+   },
+   "total_expenditure": {
+    "be": 4820512.0,
+    "re": 4716487.0,
+    "actual": 4652867.0
+   }
+  },
+  {
+   "fy": "2025-26",
+   "government": "NDA-3",
+   "capital_expenditure": {
+    "be": 1121090.0,
+    "re": 1095755.0,
+    "actual": null
+   },
+   "fiscal_deficit": {
+    "be": 1568936.0,
+    "re": 1558492.0,
+    "actual": null
+   },
+   "interest_payments": {
+    "be": 1276338.0,
+    "re": 1274338.0,
+    "actual": null
+   },
+   "non_tax_revenue": {
+    "be": 583000.0,
+    "re": 667662.0,
+    "actual": null
+   },
+   "other_receipts": {
+    "be": 47000.0,
+    "re": 33837.0,
+    "actual": null
+   },
+   "primary_deficit": {
+    "be": 292598.0,
+    "re": 284154.0,
+    "actual": null
+   },
+   "recoveries_of_loans": {
+    "be": 29000.0,
+    "re": 30190.0,
+    "actual": null
+   },
+   "revenue_deficit": {
+    "be": 523846.0,
+    "re": 526764.0,
+    "actual": null
+   },
+   "revenue_expenditure": {
+    "be": 3944255.0,
+    "re": 3869087.0,
+    "actual": null
+   },
+   "revenue_receipts": {
+    "be": 3420409.0,
+    "re": 3342323.0,
+    "actual": null
+   },
+   "tax_revenue_net": {
+    "be": 2837409.0,
+    "re": 2674661.0,
+    "actual": null
+   },
+   "total_expenditure": {
+    "be": 5065345.0,
+    "re": 4964842.0,
+    "actual": null
+   }
+  },
+  {
+   "fy": "2026-27",
+   "government": "NDA-3",
+   "capital_expenditure": {
+    "be": 1221821.0,
+    "re": null,
+    "actual": null
+   },
+   "fiscal_deficit": {
+    "be": 1695768.0,
+    "re": null,
+    "actual": null
+   },
+   "interest_payments": {
+    "be": 1403972.0,
+    "re": null,
+    "actual": null
+   },
+   "non_tax_revenue": {
+    "be": 666228.0,
+    "re": null,
+    "actual": null
+   },
+   "other_receipts": {
+    "be": 80000.0,
+    "re": null,
+    "actual": null
+   },
+   "primary_deficit": {
+    "be": 291796.0,
+    "re": null,
+    "actual": null
+   },
+   "recoveries_of_loans": {
+    "be": 38397.0,
+    "re": null,
+    "actual": null
+   },
+   "revenue_deficit": {
+    "be": 592344.0,
+    "re": null,
+    "actual": null
+   },
+   "revenue_expenditure": {
+    "be": 4125494.0,
+    "re": null,
+    "actual": null
+   },
+   "revenue_receipts": {
+    "be": 3533150.0,
+    "re": null,
+    "actual": null
+   },
+   "tax_revenue_net": {
+    "be": 2866922.0,
+    "re": null,
+    "actual": null
+   },
+   "total_expenditure": {
+    "be": 5347315.0,
+    "re": null,
+    "actual": null
+   }
+  }
+ ],
+ "terms": {
+  "UPA-1": {
+   "years": [
+    "2005-06",
+    "2006-07",
+    "2007-08",
+    "2008-09"
+   ],
+   "total_median_dev": 0.04081691741667637,
+   "capex_median_dev": -0.031923778472351505,
+   "tax_median_dev": 0.03078463452738278,
+   "fiscal_deficit_median_dev": -0.03613460326653695,
+   "capex_short_years": 4,
+   "disinvestment_missed_years": 3,
+   "disinvestment_be": 55656.0,
+   "disinvestment_actual": 41476.0
+  },
+  "UPA-2": {
+   "years": [
+    "2009-10",
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2013-14"
+   ],
+   "total_median_dev": 0.0035745142716081535,
+   "capex_median_dev": -0.08840994773716482,
+   "tax_median_dev": -0.03786162363777135,
+   "fiscal_deficit_median_dev": -0.020495112845037355,
+   "capex_short_years": 3,
+   "disinvestment_missed_years": 4,
+   "disinvestment_be": 166934.0,
+   "disinvestment_actual": 120773.0
+  },
+  "NDA-1": {
+   "years": [
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19"
+   ],
+   "total_median_dev": -0.0022182523692957368,
+   "capex_median_dev": 0.02420774794385583,
+   "tax_median_dev": 0.012611103051799022,
+   "fiscal_deficit_median_dev": 0.0032103149629896244,
+   "capex_short_years": 2,
+   "disinvestment_missed_years": 3,
+   "disinvestment_be": 341925.0,
+   "disinvestment_actual": 322384.0
+  },
+  "NDA-2": {
+   "years": [
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24"
+   ],
+   "total_median_dev": 0.06292870127042227,
+   "capex_median_dev": -0.008397106645912644,
+   "tax_median_dev": -0.001450251026438809,
+   "fiscal_deficit_median_dev": 0.0515717952870034,
+   "capex_short_years": 1,
+   "disinvestment_missed_years": 5,
+   "disinvestment_be": 616000.0,
+   "disinvestment_actual": 181996.0
+  },
+  "NDA-3": {
+   "years": [
+    "2024-25"
+   ],
+   "total_median_dev": -0.034777426132327816,
+   "capex_median_dev": -0.053242205324220526,
+   "tax_median_dev": -0.03230502508419786,
+   "fiscal_deficit_median_dev": -0.024100112067597546,
+   "capex_short_years": 1,
+   "disinvestment_missed_years": 1,
+   "disinvestment_be": 50000.0,
+   "disinvestment_actual": 17202.0
+  }
+ },
+ "ministries": [
+  {
+   "ministry": "Ministry of Development of North Eastern Region",
+   "be": 31411.19,
+   "re": 27677.4,
+   "actual": 20123.850000000002,
+   "use": 0.640658631525899,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Minority Affairs",
+   "be": 38563.84,
+   "re": 32863.95,
+   "actual": 24801.219999999998,
+   "use": 0.6431211207182688,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Skill Development and Entrepreneurship",
+   "be": 28033.38,
+   "re": 23852.129999999997,
+   "actual": 20649.49,
+   "use": 0.7366036489356618,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Fisheries, Animal Husbandry and Dairying",
+   "be": 35025.560000000005,
+   "re": 30290.86,
+   "actual": 25907.38,
+   "use": 0.7396706862074438,
+   "years": 7
+  },
+  {
+   "ministry": "Ministry of Heavy Industries",
+   "be": 25704.64,
+   "re": 22885.0,
+   "actual": 19103.34,
+   "use": 0.7431864441594981,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Electronics and Information Technology",
+   "be": 89427.44999999998,
+   "re": 78657.15,
+   "actual": 67490.09999999999,
+   "use": 0.7546910931710565,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Statistics and Programme Implementation",
+   "be": 42787.07000000001,
+   "re": 39305.49,
+   "actual": 33666.85,
+   "use": 0.786846353349271,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Social Justice and Empowerment",
+   "be": 98573.33,
+   "re": 91513.98999999999,
+   "actual": 81340.4,
+   "use": 0.8251765462321299,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Tribal Affairs",
+   "be": 71900.45,
+   "re": 60328.61,
+   "actual": 60040.77,
+   "use": 0.8350541616916166,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of New and Renewable Energy",
+   "be": 68638.77,
+   "re": 60930.740000000005,
+   "actual": 58352.19,
+   "use": 0.8501345522362944,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Earth Sciences",
+   "be": 20099.01,
+   "re": 19021.38,
+   "actual": 17134.28,
+   "use": 0.8524937297906713,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Environment, Forests and Climate Change",
+   "be": 25965.6,
+   "re": 23706.27,
+   "actual": 22149.99,
+   "use": 0.8530513448562714,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Youth Affairs and Sports",
+   "be": 23273.78,
+   "re": 22186.23,
+   "actual": 19859.559999999998,
+   "use": 0.8533018701732163,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Micro, Small and Medium Enterprises",
+   "be": 112480.38,
+   "re": 101945.8,
+   "actual": 97026.1,
+   "use": 0.862604660475009,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Jal Shakti",
+   "be": 488298.8499999999,
+   "re": 421889.58,
+   "actual": 422071.2200000001,
+   "use": 0.8643707024909032,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Science and Technology",
+   "be": 123691.22,
+   "re": 112172.53,
+   "actual": 107621.82999999999,
+   "use": 0.8700846349482202,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Ayush",
+   "be": 21823.35,
+   "re": 20744.82,
+   "actual": 19033.34,
+   "use": 0.8721548249924966,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Women and Child Development",
+   "be": 224523.01,
+   "re": 206572.94,
+   "actual": 197877.86999999997,
+   "use": 0.8813255710405805,
+   "years": 9
+  },
+  {
+   "ministry": "Department of Space",
+   "be": 106574.75,
+   "re": 97007.92000000001,
+   "actual": 95063.16,
+   "use": 0.891985765859174,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Agriculture and Farmers Welfare",
+   "be": 952887.9800000001,
+   "re": 922097.8399999999,
+   "actual": 851086.3300000001,
+   "use": 0.8931651441337313,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Information and Broadcasting",
+   "be": 38418.58,
+   "re": 36593.259999999995,
+   "actual": 34906.72,
+   "use": 0.9085895418310619,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Textiles",
+   "be": 51135.47,
+   "re": 49425.66,
+   "actual": 46588.01,
+   "use": 0.9110703392381062,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Power",
+   "be": 145500.47,
+   "re": 133634.6,
+   "actual": 133412.31,
+   "use": 0.9169201309109173,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Culture",
+   "be": 26631.62,
+   "re": 25463.420000000002,
+   "actual": 24488.260000000002,
+   "use": 0.9195182268296109,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Education",
+   "be": 862284.77,
+   "re": 850691.0,
+   "actual": 817880.7400000001,
+   "use": 0.9485042163043191,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Labour and Employment",
+   "be": 110333.93999999999,
+   "re": 107602.86,
+   "actual": 105171.07,
+   "use": 0.9532068736057102,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Petroleum and Natural Gas",
+   "be": 257042.85,
+   "re": 256558.81000000006,
+   "actual": 248753.19999999995,
+   "use": 0.9677499296323548,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Finance",
+   "be": 11006211.319999998,
+   "re": 10872813.280000007,
+   "actual": 10762025.880000003,
+   "use": 0.9778138513880545,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Communications",
+   "be": 665181.8500000001,
+   "re": 633503.9199999999,
+   "actual": 665177.35,
+   "use": 0.9999932349326728,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Housing and Urban Affairs",
+   "be": 470593.67,
+   "re": 454113.23000000004,
+   "actual": 475398.93,
+   "use": 1.0102110595750258,
+   "years": 8
+  },
+  {
+   "ministry": "Ministry of Home Affairs",
+   "be": 1345155.1600000004,
+   "re": 1381808.59,
+   "actual": 1360075.2800000003,
+   "use": 1.0110917464718345,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Health and Family Welfare",
+   "be": 613575.8300000001,
+   "re": 632202.8099999999,
+   "actual": 625777.12,
+   "use": 1.0198855453611984,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of External Affairs",
+   "be": 155313.09999999998,
+   "re": 162442.14,
+   "actual": 158813.53,
+   "use": 1.02253789281136,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Commerce and Industry",
+   "be": 103688.28000000001,
+   "re": 110973.31999999998,
+   "actual": 106436.15999999999,
+   "use": 1.0265013557945022,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Defence",
+   "be": 4226369.86,
+   "re": 4410483.53,
+   "actual": 4392672.640000001,
+   "use": 1.0393488467665724,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Road Transport and Highways",
+   "be": 1234358.6099999999,
+   "re": 1281957.63,
+   "actual": 1284042.46,
+   "use": 1.0402507420432707,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Railways",
+   "be": 1042404.5800000001,
+   "re": 1105292.47,
+   "actual": 1126213.67,
+   "use": 1.0803997714591775,
+   "years": 9
+  },
+  {
+   "ministry": "Department of Atomic Energy",
+   "be": 164305.48,
+   "re": 173761.48,
+   "actual": 178625.38,
+   "use": 1.0871541229178723,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Rural Development",
+   "be": 1164802.37,
+   "re": 1332482.0699999998,
+   "actual": 1324413.71,
+   "use": 1.1370286875360667,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Consumer Affairs, Food and Public Distribution",
+   "be": 1694336.5299999998,
+   "re": 2077258.9400000002,
+   "actual": 2062747.8499999999,
+   "use": 1.2174369220499544,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Law and Justice",
+   "be": 40069.06,
+   "re": 47761.32000000001,
+   "actual": 49519.66000000001,
+   "use": 1.235857791522936,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Chemicals and Fertilisers",
+   "be": 899461.0900000001,
+   "re": 1171856.6,
+   "actual": 1200183.51,
+   "use": 1.3343362190353336,
+   "years": 9
+  },
+  {
+   "ministry": "Ministry of Civil Aviation",
+   "be": 39555.42,
+   "re": 111290.76999999999,
+   "actual": 110000.8,
+   "use": 2.780928631272276,
+   "years": 9
+  }
+ ],
+ "explorer": {
+  "Ministry of Agriculture and Farmers Welfare": [
+   {
+    "fy": "2016-17",
+    "be": 44485.200000000004,
+    "re": 48072.5,
+    "actual": 44499.71000000001
+   },
+   {
+    "fy": "2017-18",
+    "be": 51026.0,
+    "re": 50263.74,
+    "actual": 46361.74
+   },
+   {
+    "fy": "2018-19",
+    "be": 54500.0,
+    "re": 75752.73,
+    "actual": 53620.44
+   },
+   {
+    "fy": "2019-20",
+    "be": 138563.97,
+    "re": 109750.17,
+    "actual": 101774.98999999999
+   },
+   {
+    "fy": "2020-21",
+    "be": 142762.34999999998,
+    "re": 124520.3,
+    "actual": 115826.6
+   },
+   {
+    "fy": "2021-22",
+    "be": 131531.19,
+    "re": 126807.86,
+    "actual": 122835.56999999999
+   },
+   {
+    "fy": "2022-23",
+    "be": 132513.62,
+    "re": 118913.42,
+    "actual": 108276.73
+   },
+   {
+    "fy": "2023-24",
+    "be": 125035.79,
+    "re": 126665.56000000001,
+    "actual": 118146.55
+   },
+   {
+    "fy": "2024-25",
+    "be": 132469.86000000002,
+    "re": 141351.56,
+    "actual": 139744.0
+   }
+  ],
+  "Department of Atomic Energy": [
+   {
+    "fy": "2016-17",
+    "be": 11682.48,
+    "re": 11962.5,
+    "actual": 12894.09
+   },
+   {
+    "fy": "2017-18",
+    "be": 12461.2,
+    "re": 13209.94,
+    "actual": 15081.67
+   },
+   {
+    "fy": "2018-19",
+    "be": 13971.41,
+    "re": 16965.25,
+    "actual": 17418.36
+   },
+   {
+    "fy": "2019-20",
+    "be": 16925.51,
+    "re": 17425.51,
+    "actual": 19804.69
+   },
+   {
+    "fy": "2020-21",
+    "be": 18228.94,
+    "re": 14274.96,
+    "actual": 15196.24
+   },
+   {
+    "fy": "2021-22",
+    "be": 18264.89,
+    "re": 22707.21,
+    "actual": 22613.26
+   },
+   {
+    "fy": "2022-23",
+    "be": 22723.58,
+    "re": 25965.67,
+    "actual": 24641.61
+   },
+   {
+    "fy": "2023-24",
+    "be": 25078.49,
+    "re": 26799.78,
+    "actual": 25882.88
+   },
+   {
+    "fy": "2024-25",
+    "be": 24968.98,
+    "re": 24450.66,
+    "actual": 25092.58
+   }
+  ],
+  "Ministry of Ayush": [
+   {
+    "fy": "2016-17",
+    "be": 1326.2,
+    "re": 1307.36,
+    "actual": 1246.34
+   },
+   {
+    "fy": "2017-18",
+    "be": 1428.65,
+    "re": 1557.8,
+    "actual": 1531.3
+   },
+   {
+    "fy": "2018-19",
+    "be": 1626.37,
+    "re": 1692.77,
+    "actual": 1553.98
+   },
+   {
+    "fy": "2019-20",
+    "be": 1939.76,
+    "re": 1857.0,
+    "actual": 1784.16
+   },
+   {
+    "fy": "2020-21",
+    "be": 2122.08,
+    "re": 2322.08,
+    "actual": 2126.46
+   },
+   {
+    "fy": "2021-22",
+    "be": 2970.3,
+    "re": 2664.42,
+    "actual": 2359.08
+   },
+   {
+    "fy": "2022-23",
+    "be": 3050.0,
+    "re": 2845.75,
+    "actual": 2448.23
+   },
+   {
+    "fy": "2023-24",
+    "be": 3647.5,
+    "re": 3000.0,
+    "actual": 2671.74
+   },
+   {
+    "fy": "2024-25",
+    "be": 3712.49,
+    "re": 3497.64,
+    "actual": 3312.05
+   }
+  ],
+  "Ministry of Chemicals and Fertilisers": [
+   {
+    "fy": "2016-17",
+    "be": 70452.80999999998,
+    "re": 70425.25,
+    "actual": 65528.57
+   },
+   {
+    "fy": "2017-18",
+    "be": 70578.45000000001,
+    "re": 65933.51,
+    "actual": 67158.22
+   },
+   {
+    "fy": "2018-19",
+    "be": 70586.56999999999,
+    "re": 70684.18000000001,
+    "actual": 71413.64
+   },
+   {
+    "fy": "2019-20",
+    "be": 80534.15999999999,
+    "re": 80967.51,
+    "actual": 82062.87999999999
+   },
+   {
+    "fy": "2020-21",
+    "be": 71896.92,
+    "re": 135558.81000000003,
+    "actual": 129509.98999999999
+   },
+   {
+    "fy": "2021-22",
+    "be": 80714.94,
+    "re": 141735.38999999998,
+    "actual": 154788.99999999997
+   },
+   {
+    "fy": "2022-23",
+    "be": 107715.37999999999,
+    "re": 227680.84,
+    "actual": 253563.19
+   },
+   {
+    "fy": "2023-24",
+    "be": 178481.99000000002,
+    "re": 192217.87000000002,
+    "actual": 191165.29
+   },
+   {
+    "fy": "2024-25",
+    "be": 168499.87,
+    "re": 186653.24,
+    "actual": 184992.73
+   }
+  ],
+  "Ministry of Civil Aviation": [
+   {
+    "fy": "2016-17",
+    "be": 2590.68,
+    "re": 3452.33,
+    "actual": 3405.76
+   },
+   {
+    "fy": "2017-18",
+    "be": 2702.0,
+    "re": 2710.31,
+    "actual": 2663.99
+   },
+   {
+    "fy": "2018-19",
+    "be": 6602.86,
+    "re": 9700.0,
+    "actual": 9599.0
+   },
+   {
+    "fy": "2019-20",
+    "be": 4500.0,
+    "re": 3700.0,
+    "actual": 3646.72
+   },
+   {
+    "fy": "2020-21",
+    "be": 3797.71,
+    "re": 4131.63,
+    "actual": 4088.57
+   },
+   {
+    "fy": "2021-22",
+    "be": 3224.67,
+    "re": 72652.0,
+    "actual": 71918.14
+   },
+   {
+    "fy": "2022-23",
+    "be": 10667.0,
+    "re": 9363.7,
+    "actual": 9320.85
+   },
+   {
+    "fy": "2023-24",
+    "be": 3113.36,
+    "re": 2922.12,
+    "actual": 2757.14
+   },
+   {
+    "fy": "2024-25",
+    "be": 2357.14,
+    "re": 2658.68,
+    "actual": 2600.63
+   }
+  ],
+  "Ministry of Coal": [
+   {
+    "fy": "2016-17",
+    "be": 361.0,
+    "re": 556.36,
+    "actual": 538.12
+   },
+   {
+    "fy": "2017-18",
+    "be": 745.1,
+    "re": 742.61,
+    "actual": 722.21
+   },
+   {
+    "fy": "2018-19",
+    "be": 770.91,
+    "re": 781.85,
+    "actual": 708.34
+   },
+   {
+    "fy": "2019-20",
+    "be": 1159.05,
+    "re": 933.6,
+    "actual": 822.99
+   },
+   {
+    "fy": "2020-21",
+    "be": 882.61,
+    "re": 627.58,
+    "actual": 571.64
+   },
+   {
+    "fy": "2021-22",
+    "be": 534.88,
+    "re": 644.09,
+    "actual": 573.68
+   },
+   {
+    "fy": "2022-23",
+    "be": 393.24,
+    "re": 117.88,
+    "actual": 103.46
+   },
+   {
+    "fy": "2023-24",
+    "be": 192.32,
+    "re": 189.04,
+    "actual": 178.18
+   },
+   {
+    "fy": "2024-25",
+    "be": 192.55,
+    "re": 141.21,
+    "actual": 135.67
+   }
+  ],
+  "Ministry of Commerce and Industry": [
+   {
+    "fy": "2016-17",
+    "be": 7389.35,
+    "re": 6579.0,
+    "actual": 6481.3
+   },
+   {
+    "fy": "2017-18",
+    "be": 8074.7,
+    "re": 11093.6,
+    "actual": 9589.01
+   },
+   {
+    "fy": "2018-19",
+    "be": 11391.93,
+    "re": 12335.529999999999,
+    "actual": 12163.73
+   },
+   {
+    "fy": "2019-20",
+    "be": 11893.83,
+    "re": 13709.32,
+    "actual": 13286.14
+   },
+   {
+    "fy": "2020-21",
+    "be": 12824.869999999999,
+    "re": 12183.060000000001,
+    "actual": 10684.51
+   },
+   {
+    "fy": "2021-22",
+    "be": 12768.25,
+    "re": 15803.0,
+    "actual": 15559.75
+   },
+   {
+    "fy": "2022-23",
+    "be": 14421.0,
+    "re": 13181.01,
+    "actual": 13000.8
+   },
+   {
+    "fy": "2023-24",
+    "be": 13455.21,
+    "re": 12453.8,
+    "actual": 12371.779999999999
+   },
+   {
+    "fy": "2024-25",
+    "be": 11469.14,
+    "re": 13635.0,
+    "actual": 13299.14
+   }
+  ],
+  "Ministry of Communications": [
+   {
+    "fy": "2016-17",
+    "be": 27439.4,
+    "re": 34788.7,
+    "actual": 36269.24
+   },
+   {
+    "fy": "2017-18",
+    "be": 36237.47,
+    "re": 36308.009999999995,
+    "actual": 36979.29
+   },
+   {
+    "fy": "2018-19",
+    "be": 39551.46,
+    "re": 32654.01,
+    "actual": 35395.14
+   },
+   {
+    "fy": "2019-20",
+    "be": 38637.46,
+    "re": 35748.98,
+    "actual": 43939.12
+   },
+   {
+    "fy": "2020-21",
+    "be": 81957.07,
+    "re": 61059.630000000005,
+    "actual": 60902.92
+   },
+   {
+    "fy": "2021-22",
+    "be": 75265.22,
+    "re": 54517.08,
+    "actual": 51544.55
+   },
+   {
+    "fy": "2022-23",
+    "be": 105406.82,
+    "re": 105477.55,
+    "actual": 140975.65
+   },
+   {
+    "fy": "2023-24",
+    "be": 123393.05,
+    "re": 122748.61,
+    "actual": 111339.11
+   },
+   {
+    "fy": "2024-25",
+    "be": 137293.9,
+    "re": 150201.35,
+    "actual": 147832.33
+   }
+  ],
+  "Ministry of Consumer Affairs, Food and Public Distribution": [
+   {
+    "fy": "2016-17",
+    "be": 141391.61,
+    "re": 143987.56,
+    "actual": 122399.29
+   },
+   {
+    "fy": "2017-18",
+    "be": 154231.69,
+    "re": 149608.1,
+    "actual": 109577.73999999999
+   },
+   {
+    "fy": "2018-19",
+    "be": 175944.27000000002,
+    "re": 179655.33,
+    "actual": 108847.79
+   },
+   {
+    "fy": "2019-20",
+    "be": 194512.71000000002,
+    "re": 117290.39,
+    "actual": 117095.78
+   },
+   {
+    "fy": "2020-21",
+    "be": 124535.43,
+    "re": 450686.62999999995,
+    "actual": 566797.1699999999
+   },
+   {
+    "fy": "2021-22",
+    "be": 256948.4,
+    "re": 304453.64,
+    "actual": 306571.3
+   },
+   {
+    "fy": "2022-23",
+    "be": 217684.46,
+    "re": 296523.38,
+    "actual": 283954.01
+   },
+   {
+    "fy": "2023-24",
+    "be": 205764.6,
+    "re": 222233.90000000002,
+    "actual": 232496.03
+   },
+   {
+    "fy": "2024-25",
+    "be": 223323.36,
+    "re": 212820.01,
+    "actual": 215008.74
+   }
+  ],
+  "Ministry of Corporate Affairs": [
+   {
+    "fy": "2016-17",
+    "be": 344.43,
+    "re": 384.57,
+    "actual": 394.81
+   },
+   {
+    "fy": "2017-18",
+    "be": 448.04,
+    "re": 520.84,
+    "actual": 510.83
+   },
+   {
+    "fy": "2018-19",
+    "be": 564.15,
+    "re": 594.98,
+    "actual": 591.5
+   },
+   {
+    "fy": "2019-20",
+    "be": 586.34,
+    "re": 576.0,
+    "actual": 563.05
+   },
+   {
+    "fy": "2020-21",
+    "be": 727.62,
+    "re": 680.0,
+    "actual": 652.58
+   },
+   {
+    "fy": "2021-22",
+    "be": 712.13,
+    "re": 659.75,
+    "actual": 628.36
+   },
+   {
+    "fy": "2022-23",
+    "be": 733.02,
+    "re": 630.36,
+    "actual": 568.61
+   },
+   {
+    "fy": "2023-24",
+    "be": 756.19,
+    "re": 617.43,
+    "actual": 583.6
+   },
+   {
+    "fy": "2024-25",
+    "be": 2667.06,
+    "re": 1078.43,
+    "actual": 679.91
+   }
+  ],
+  "Ministry of Culture": [
+   {
+    "fy": "2016-17",
+    "be": 2500.0,
+    "re": 2488.63,
+    "actual": 2296.53
+   },
+   {
+    "fy": "2017-18",
+    "be": 2738.47,
+    "re": 2666.94,
+    "actual": 2520.27
+   },
+   {
+    "fy": "2018-19",
+    "be": 2843.32,
+    "re": 2800.0,
+    "actual": 2592.2
+   },
+   {
+    "fy": "2019-20",
+    "be": 3042.35,
+    "re": 2547.0,
+    "actual": 2494.82
+   },
+   {
+    "fy": "2020-21",
+    "be": 3149.86,
+    "re": 2211.85,
+    "actual": 2135.18
+   },
+   {
+    "fy": "2021-22",
+    "be": 2687.99,
+    "re": 2665.0,
+    "actual": 2543.76
+   },
+   {
+    "fy": "2022-23",
+    "be": 3009.05,
+    "re": 3363.07,
+    "actual": 3275.49
+   },
+   {
+    "fy": "2023-24",
+    "be": 3399.65,
+    "re": 3460.0,
+    "actual": 3385.22
+   },
+   {
+    "fy": "2024-25",
+    "be": 3260.93,
+    "re": 3260.93,
+    "actual": 3244.79
+   }
+  ],
+  "Ministry of Defence": [
+   {
+    "fy": "2016-17",
+    "be": 340921.98,
+    "re": 345106.09,
+    "actual": 351549.79
+   },
+   {
+    "fy": "2017-18",
+    "be": 359854.12,
+    "re": 374003.85,
+    "actual": 379702.34
+   },
+   {
+    "fy": "2018-19",
+    "be": 404364.71,
+    "re": 405193.85000000003,
+    "actual": 403457.27
+   },
+   {
+    "fy": "2019-20",
+    "be": 431010.79,
+    "re": 448820.10000000003,
+    "actual": 452996.43999999994
+   },
+   {
+    "fy": "2020-21",
+    "be": 471378.0,
+    "re": 484736.06,
+    "actual": 485680.54000000004
+   },
+   {
+    "fy": "2021-22",
+    "be": 478195.62,
+    "re": 502883.54000000004,
+    "actual": 500680.88
+   },
+   {
+    "fy": "2022-23",
+    "be": 525166.15,
+    "re": 584791.1,
+    "actual": 573098.09
+   },
+   {
+    "fy": "2023-24",
+    "be": 593537.64,
+    "re": 623888.94,
+    "actual": 609504.28
+   },
+   {
+    "fy": "2024-25",
+    "be": 621940.85,
+    "re": 641060.0,
+    "actual": 636003.01
+   }
+  ],
+  "Ministry of Development of North Eastern Region": [
+   {
+    "fy": "2016-17",
+    "be": 2430.01,
+    "re": 2524.42,
+    "actual": 2495.84
+   },
+   {
+    "fy": "2017-18",
+    "be": 2682.45,
+    "re": 2682.45,
+    "actual": 2513.96
+   },
+   {
+    "fy": "2018-19",
+    "be": 3000.0,
+    "re": 2629.48,
+    "actual": 1960.62
+   },
+   {
+    "fy": "2019-20",
+    "be": 3000.0,
+    "re": 2670.0,
+    "actual": 2657.87
+   },
+   {
+    "fy": "2020-21",
+    "be": 3048.73,
+    "re": 1860.0,
+    "actual": 1853.66
+   },
+   {
+    "fy": "2021-22",
+    "be": 2658.0,
+    "re": 2658.0,
+    "actual": 2653.44
+   },
+   {
+    "fy": "2022-23",
+    "be": 2800.0,
+    "re": 2755.05,
+    "actual": 989.95
+   },
+   {
+    "fy": "2023-24",
+    "be": 5892.0,
+    "re": 5892.0,
+    "actual": 1627.89
+   },
+   {
+    "fy": "2024-25",
+    "be": 5900.0,
+    "re": 4006.0,
+    "actual": 3370.62
+   }
+  ],
+  "Ministry of Jal Shakti": [
+   {
+    "fy": "2016-17",
+    "be": 20210.91,
+    "re": 21267.26,
+    "actual": 21189.83
+   },
+   {
+    "fy": "2017-18",
+    "be": 26897.79,
+    "re": 31671.18,
+    "actual": 29252.24
+   },
+   {
+    "fy": "2018-19",
+    "be": 31216.6,
+    "re": 27605.49,
+    "actual": 25833.620000000003
+   },
+   {
+    "fy": "2019-20",
+    "be": 28261.59,
+    "re": 25878.21,
+    "actual": 25682.86
+   },
+   {
+    "fy": "2020-21",
+    "be": 30478.489999999998,
+    "re": 24285.59,
+    "actual": 23199.39
+   },
+   {
+    "fy": "2021-22",
+    "be": 69053.01999999999,
+    "re": 69045.6,
+    "actual": 83466.85
+   },
+   {
+    "fy": "2022-23",
+    "be": 86189.0,
+    "re": 74029.12,
+    "actual": 71617.56
+   },
+   {
+    "fy": "2023-24",
+    "be": 97277.67,
+    "re": 96549.56999999999,
+    "actual": 95108.97
+   },
+   {
+    "fy": "2024-25",
+    "be": 98713.78,
+    "re": 51557.56,
+    "actual": 46719.9
+   }
+  ],
+  "Ministry of Earth Sciences": [
+   {
+    "fy": "2016-17",
+    "be": 1672.45,
+    "re": 1576.14,
+    "actual": 1361.28
+   },
+   {
+    "fy": "2017-18",
+    "be": 1719.48,
+    "re": 1597.69,
+    "actual": 1541.47
+   },
+   {
+    "fy": "2018-19",
+    "be": 1800.0,
+    "re": 1800.0,
+    "actual": 1726.1
+   },
+   {
+    "fy": "2019-20",
+    "be": 1901.76,
+    "re": 1809.74,
+    "actual": 1711.87
+   },
+   {
+    "fy": "2020-21",
+    "be": 2070.0,
+    "re": 1300.0,
+    "actual": 1274.54
+   },
+   {
+    "fy": "2021-22",
+    "be": 1897.13,
+    "re": 2369.54,
+    "actual": 2184.43
+   },
+   {
+    "fy": "2022-23",
+    "be": 2653.51,
+    "re": 2056.47,
+    "actual": 1568.86
+   },
+   {
+    "fy": "2023-24",
+    "be": 3319.88,
+    "re": 2879.02,
+    "actual": 2394.56
+   },
+   {
+    "fy": "2024-25",
+    "be": 3064.8,
+    "re": 3632.78,
+    "actual": 3371.17
+   }
+  ],
+  "Ministry of Electronics and Information Technology": [
+   {
+    "fy": "2016-17",
+    "be": 3328.82,
+    "re": 3558.93,
+    "actual": 3444.45
+   },
+   {
+    "fy": "2017-18",
+    "be": 4039.0,
+    "re": 4039.0,
+    "actual": 3999.89
+   },
+   {
+    "fy": "2018-19",
+    "be": 6000.0,
+    "re": 6381.0,
+    "actual": 6251.94
+   },
+   {
+    "fy": "2019-20",
+    "be": 6654.0,
+    "re": 5839.46,
+    "actual": 5651.97
+   },
+   {
+    "fy": "2020-21",
+    "be": 6899.03,
+    "re": 5550.0,
+    "actual": 5396.3
+   },
+   {
+    "fy": "2021-22",
+    "be": 9720.66,
+    "re": 9581.25,
+    "actual": 8118.65
+   },
+   {
+    "fy": "2022-23",
+    "be": 14300.0,
+    "re": 11719.95,
+    "actual": 8199.25
+   },
+   {
+    "fy": "2023-24",
+    "be": 16549.04,
+    "re": 14421.25,
+    "actual": 12766.34
+   },
+   {
+    "fy": "2024-25",
+    "be": 21936.9,
+    "re": 17566.31,
+    "actual": 13661.31
+   }
+  ],
+  "Ministry of Environment, Forests and Climate Change": [
+   {
+    "fy": "2016-17",
+    "be": 2250.34,
+    "re": 2327.51,
+    "actual": 2277.89
+   },
+   {
+    "fy": "2017-18",
+    "be": 2675.42,
+    "re": 2675.42,
+    "actual": 2626.61
+   },
+   {
+    "fy": "2018-19",
+    "be": 2675.42,
+    "re": 2675.42,
+    "actual": 2585.57
+   },
+   {
+    "fy": "2019-20",
+    "be": 2954.72,
+    "re": 2657.94,
+    "actual": 2537.71
+   },
+   {
+    "fy": "2020-21",
+    "be": 3100.0,
+    "re": 2015.0,
+    "actual": 1966.92
+   },
+   {
+    "fy": "2021-22",
+    "be": 2869.93,
+    "re": 2520.0,
+    "actual": 2432.68
+   },
+   {
+    "fy": "2022-23",
+    "be": 3030.0,
+    "re": 2478.0,
+    "actual": 2389.3
+   },
+   {
+    "fy": "2023-24",
+    "be": 3079.4,
+    "re": 3231.02,
+    "actual": 3113.61
+   },
+   {
+    "fy": "2024-25",
+    "be": 3330.37,
+    "re": 3125.96,
+    "actual": 2219.7
+   }
+  ],
+  "Ministry of External Affairs": [
+   {
+    "fy": "2016-17",
+    "be": 14662.66,
+    "re": 13426.0,
+    "actual": 12753.34
+   },
+   {
+    "fy": "2017-18",
+    "be": 14798.55,
+    "re": 13690.0,
+    "actual": 13737.51
+   },
+   {
+    "fy": "2018-19",
+    "be": 15011.0,
+    "re": 15582.0,
+    "actual": 15514.47
+   },
+   {
+    "fy": "2019-20",
+    "be": 17884.78,
+    "re": 17372.27,
+    "actual": 17245.54
+   },
+   {
+    "fy": "2020-21",
+    "be": 17346.71,
+    "re": 15000.0,
+    "actual": 14329.23
+   },
+   {
+    "fy": "2021-22",
+    "be": 18154.73,
+    "re": 16000.0,
+    "actual": 14145.6
+   },
+   {
+    "fy": "2022-23",
+    "be": 17250.0,
+    "re": 16972.79,
+    "actual": 16660.96
+   },
+   {
+    "fy": "2023-24",
+    "be": 18050.0,
+    "re": 29121.88,
+    "actual": 28914.51
+   },
+   {
+    "fy": "2024-25",
+    "be": 22154.67,
+    "re": 25277.2,
+    "actual": 25512.37
+   }
+  ],
+  "Ministry of Finance": [
+   {
+    "fy": "2016-17",
+    "be": 723460.84,
+    "re": 717607.99,
+    "actual": 713623.65
+   },
+   {
+    "fy": "2017-18",
+    "be": 740168.99,
+    "re": 802063.96,
+    "actual": 770363.77
+   },
+   {
+    "fy": "2018-19",
+    "be": 894706.82,
+    "re": 865578.35,
+    "actual": 834781.28
+   },
+   {
+    "fy": "2019-20",
+    "be": 1005985.0800000001,
+    "re": 997518.45,
+    "actual": 1003201.59
+   },
+   {
+    "fy": "2020-21",
+    "be": 1168937.34,
+    "re": 1164408.67,
+    "actual": 1141633.28
+   },
+   {
+    "fy": "2021-22",
+    "be": 1386295.11,
+    "re": 1414067.23,
+    "actual": 1383611.26
+   },
+   {
+    "fy": "2022-23",
+    "be": 1538779.45,
+    "re": 1479377.54,
+    "actual": 1494247.4300000002
+   },
+   {
+    "fy": "2023-24",
+    "be": 1689719.17,
+    "re": 1627173.42,
+    "actual": 1647226.52
+   },
+   {
+    "fy": "2024-25",
+    "be": 1858158.52,
+    "re": 1805017.6700000002,
+    "actual": 1773337.1
+   }
+  ],
+  "Ministry of Food Processing Industries": [
+   {
+    "fy": "2016-17",
+    "be": 636.02,
+    "re": 729.0,
+    "actual": 713.0
+   },
+   {
+    "fy": "2017-18",
+    "be": 800.0,
+    "re": 715.18,
+    "actual": 684.07
+   },
+   {
+    "fy": "2018-19",
+    "be": 1400.0,
+    "re": 1000.0,
+    "actual": 716.7
+   },
+   {
+    "fy": "2019-20",
+    "be": 1196.6,
+    "re": 1042.79,
+    "actual": 830.0
+   },
+   {
+    "fy": "2020-21",
+    "be": 1232.94,
+    "re": 1247.42,
+    "actual": 1145.52
+   },
+   {
+    "fy": "2021-22",
+    "be": 1308.66,
+    "re": 1304.12,
+    "actual": 1146.4
+   },
+   {
+    "fy": "2022-23",
+    "be": 2941.99,
+    "re": 1901.59,
+    "actual": 1409.94
+   },
+   {
+    "fy": "2023-24",
+    "be": 3287.65,
+    "re": 2911.95,
+    "actual": 2262.68
+   },
+   {
+    "fy": "2024-25",
+    "be": 3290.0,
+    "re": 2796.79,
+    "actual": 2304.07
+   }
+  ],
+  "Ministry of Health and Family Welfare": [
+   {
+    "fy": "2016-17",
+    "be": 38206.350000000006,
+    "re": 39688.130000000005,
+    "actual": 38994.9
+   },
+   {
+    "fy": "2017-18",
+    "be": 48852.51,
+    "re": 53294.24,
+    "actual": 53113.57
+   },
+   {
+    "fy": "2018-19",
+    "be": 54600.0,
+    "re": 56045.23,
+    "actual": 54681.829999999994
+   },
+   {
+    "fy": "2019-20",
+    "be": 64559.12,
+    "re": 64609.12,
+    "actual": 64257.79
+   },
+   {
+    "fy": "2020-21",
+    "be": 67111.8,
+    "re": 82928.3,
+    "actual": 80693.92
+   },
+   {
+    "fy": "2021-22",
+    "be": 73931.77,
+    "re": 86000.65,
+    "actual": 84470.46
+   },
+   {
+    "fy": "2022-23",
+    "be": 86200.65,
+    "re": 79145.4,
+    "actual": 75731.06
+   },
+   {
+    "fy": "2023-24",
+    "be": 89155.0,
+    "re": 80517.62,
+    "actual": 83149.48999999999
+   },
+   {
+    "fy": "2024-25",
+    "be": 90958.62999999999,
+    "re": 89974.12,
+    "actual": 90684.09999999999
+   }
+  ],
+  "Ministry of Heavy Industries": [
+   {
+    "fy": "2016-17",
+    "be": 1320.42,
+    "re": 3098.34,
+    "actual": 3603.03
+   },
+   {
+    "fy": "2017-18",
+    "be": 2619.38,
+    "re": 1126.26,
+    "actual": 1070.45
+   },
+   {
+    "fy": "2018-19",
+    "be": 1146.17,
+    "re": 1057.78,
+    "actual": 1055.3200000000002
+   },
+   {
+    "fy": "2019-20",
+    "be": 1389.64,
+    "re": 1331.25,
+    "actual": 1295.3
+   },
+   {
+    "fy": "2020-21",
+    "be": 1514.13,
+    "re": 917.84,
+    "actual": 883.01
+   },
+   {
+    "fy": "2021-22",
+    "be": 995.27,
+    "re": 1181.0,
+    "actual": 1167.58
+   },
+   {
+    "fy": "2022-23",
+    "be": 3306.0,
+    "re": 3220.33,
+    "actual": 2706.27
+   },
+   {
+    "fy": "2023-24",
+    "be": 6171.63,
+    "re": 6391.51,
+    "actual": 4674.41
+   },
+   {
+    "fy": "2024-25",
+    "be": 7242.0,
+    "re": 4560.69,
+    "actual": 2647.97
+   }
+  ],
+  "Ministry of Home Affairs": [
+   {
+    "fy": "2016-17",
+    "be": 88005.77999999998,
+    "re": 92170.04999999999,
+    "actual": 91618.16000000002
+   },
+   {
+    "fy": "2017-18",
+    "be": 97187.17,
+    "re": 102390.81,
+    "actual": 101762.76999999999
+   },
+   {
+    "fy": "2018-19",
+    "be": 105684.86,
+    "re": 111350.64,
+    "actual": 110371.93000000002
+   },
+   {
+    "fy": "2019-20",
+    "be": 119025.28,
+    "re": 139108.18999999997,
+    "actual": 134977.65
+   },
+   {
+    "fy": "2020-21",
+    "be": 167250.33,
+    "re": 149387.82,
+    "actual": 144257.64
+   },
+   {
+    "fy": "2021-22",
+    "be": 166546.94000000003,
+    "re": 173083.12000000002,
+    "actual": 168791.3
+   },
+   {
+    "fy": "2022-23",
+    "be": 185776.55000000002,
+    "re": 193911.53,
+    "actual": 186838.73999999996
+   },
+   {
+    "fy": "2023-24",
+    "be": 196034.94000000003,
+    "re": 200035.19000000003,
+    "actual": 196871.89
+   },
+   {
+    "fy": "2024-25",
+    "be": 219643.31,
+    "re": 220371.24000000002,
+    "actual": 224585.19999999998
+   }
+  ],
+  "Ministry of Education": [
+   {
+    "fy": "2016-17",
+    "be": 72394.0,
+    "re": 73599.24,
+    "actual": 72015.76000000001
+   },
+   {
+    "fy": "2017-18",
+    "be": 79685.95,
+    "re": 81868.70999999999,
+    "actual": 80214.67000000001
+   },
+   {
+    "fy": "2018-19",
+    "be": 85010.29000000001,
+    "re": 83625.86,
+    "actual": 80344.84
+   },
+   {
+    "fy": "2019-20",
+    "be": 94853.64,
+    "re": 94853.64,
+    "actual": 89436.56
+   },
+   {
+    "fy": "2020-21",
+    "be": 99311.51999999999,
+    "re": 85089.07,
+    "actual": 84219.4
+   },
+   {
+    "fy": "2021-22",
+    "be": 93224.31,
+    "re": 88001.51999999999,
+    "actual": 80352.42000000001
+   },
+   {
+    "fy": "2022-23",
+    "be": 104277.72,
+    "re": 99881.13,
+    "actual": 97196.36
+   },
+   {
+    "fy": "2023-24",
+    "be": 112899.47,
+    "re": 129718.28,
+    "actual": 123364.95999999999
+   },
+   {
+    "fy": "2024-25",
+    "be": 120627.87,
+    "re": 114053.54999999999,
+    "actual": 110735.76999999999
+   }
+  ],
+  "Ministry of Information and Broadcasting": [
+   {
+    "fy": "2016-17",
+    "be": 4083.63,
+    "re": 4161.0,
+    "actual": 3656.24
+   },
+   {
+    "fy": "2017-18",
+    "be": 4409.0,
+    "re": 3605.11,
+    "actual": 3487.44
+   },
+   {
+    "fy": "2018-19",
+    "be": 4088.98,
+    "re": 4088.98,
+    "actual": 4000.8
+   },
+   {
+    "fy": "2019-20",
+    "be": 4375.21,
+    "re": 4064.76,
+    "actual": 4028.82
+   },
+   {
+    "fy": "2020-21",
+    "be": 4375.21,
+    "re": 3650.25,
+    "actual": 3376.62
+   },
+   {
+    "fy": "2021-22",
+    "be": 4071.23,
+    "re": 3764.69,
+    "actual": 3724.2
+   },
+   {
+    "fy": "2022-23",
+    "be": 3980.77,
+    "re": 4182.0,
+    "actual": 4020.18
+   },
+   {
+    "fy": "2023-24",
+    "be": 4692.0,
+    "re": 4449.76,
+    "actual": 4310.6
+   },
+   {
+    "fy": "2024-25",
+    "be": 4342.55,
+    "re": 4626.71,
+    "actual": 4301.82
+   }
+  ],
+  "Ministry of Labour and Employment": [
+   {
+    "fy": "2016-17",
+    "be": 6242.6,
+    "re": 5174.08,
+    "actual": 4743.19
+   },
+   {
+    "fy": "2017-18",
+    "be": 7188.38,
+    "re": 6580.9,
+    "actual": 6515.55
+   },
+   {
+    "fy": "2018-19",
+    "be": 7700.0,
+    "re": 9749.58,
+    "actual": 9285.77
+   },
+   {
+    "fy": "2019-20",
+    "be": 11184.09,
+    "re": 11184.09,
+    "actual": 10083.75
+   },
+   {
+    "fy": "2020-21",
+    "be": 12065.49,
+    "re": 13719.56,
+    "actual": 12920.37
+   },
+   {
+    "fy": "2021-22",
+    "be": 13306.5,
+    "re": 14248.72,
+    "actual": 24033.91
+   },
+   {
+    "fy": "2022-23",
+    "be": 16893.68,
+    "re": 16117.65,
+    "actual": 14794.89
+   },
+   {
+    "fy": "2023-24",
+    "be": 13221.73,
+    "re": 12521.06,
+    "actual": 11385.62
+   },
+   {
+    "fy": "2024-25",
+    "be": 22531.47,
+    "re": 18307.22,
+    "actual": 11408.02
+   }
+  ],
+  "Ministry of Law and Justice": [
+   {
+    "fy": "2016-17",
+    "be": 5411.400000000001,
+    "re": 4451.29,
+    "actual": 3995.56
+   },
+   {
+    "fy": "2017-18",
+    "be": 4536.66,
+    "re": 4634.72,
+    "actual": 4566.45
+   },
+   {
+    "fy": "2018-19",
+    "be": 4905.35,
+    "re": 6826.8,
+    "actual": 6466.28
+   },
+   {
+    "fy": "2019-20",
+    "be": 3611.25,
+    "re": 3756.59,
+    "actual": 3655.01
+   },
+   {
+    "fy": "2020-21",
+    "be": 2778.61,
+    "re": 2142.46,
+    "actual": 2078.79
+   },
+   {
+    "fy": "2021-22",
+    "be": 3229.94,
+    "re": 4820.86,
+    "actual": 4621.39
+   },
+   {
+    "fy": "2022-23",
+    "be": 4054.94,
+    "re": 4051.17,
+    "actual": 6830.2
+   },
+   {
+    "fy": "2023-24",
+    "be": 4752.58,
+    "re": 9473.560000000001,
+    "actual": 9228.84
+   },
+   {
+    "fy": "2024-25",
+    "be": 6788.33,
+    "re": 7603.870000000001,
+    "actual": 8077.14
+   }
+  ],
+  "Ministry of Micro, Small and Medium Enterprises": [
+   {
+    "fy": "2016-17",
+    "be": 3464.77,
+    "re": 5462.71,
+    "actual": 3626.41
+   },
+   {
+    "fy": "2017-18",
+    "be": 6481.96,
+    "re": 6481.96,
+    "actual": 6202.12
+   },
+   {
+    "fy": "2018-19",
+    "be": 6552.61,
+    "re": 6552.61,
+    "actual": 6509.47
+   },
+   {
+    "fy": "2019-20",
+    "be": 7011.29,
+    "re": 7011.29,
+    "actual": 6697.63
+   },
+   {
+    "fy": "2020-21",
+    "be": 7572.2,
+    "re": 5664.22,
+    "actual": 5455.27
+   },
+   {
+    "fy": "2021-22",
+    "be": 15699.65,
+    "re": 15699.65,
+    "actual": 14980.01
+   },
+   {
+    "fy": "2022-23",
+    "be": 21422.0,
+    "re": 15628.71,
+    "actual": 23540.94
+   },
+   {
+    "fy": "2023-24",
+    "be": 22137.95,
+    "re": 22137.95,
+    "actual": 21783.28
+   },
+   {
+    "fy": "2024-25",
+    "be": 22137.95,
+    "re": 17306.7,
+    "actual": 8230.97
+   }
+  ],
+  "Ministry of Mines": [
+   {
+    "fy": "2016-17",
+    "be": 1213.49,
+    "re": 1083.0,
+    "actual": 1074.83
+   },
+   {
+    "fy": "2017-18",
+    "be": 1213.49,
+    "re": 1313.49,
+    "actual": 1267.36
+   },
+   {
+    "fy": "2018-19",
+    "be": 1669.52,
+    "re": 1350.02,
+    "actual": 1306.39
+   },
+   {
+    "fy": "2019-20",
+    "be": 1675.55,
+    "re": 1528.22,
+    "actual": 1397.07
+   },
+   {
+    "fy": "2020-21",
+    "be": 1701.4,
+    "re": 1370.68,
+    "actual": 1347.87
+   },
+   {
+    "fy": "2021-22",
+    "be": 1466.82,
+    "re": 1480.0,
+    "actual": 4237.53
+   },
+   {
+    "fy": "2022-23",
+    "be": 1508.0,
+    "re": 1689.95,
+    "actual": 1579.16
+   },
+   {
+    "fy": "2023-24",
+    "be": 1911.6,
+    "re": 2836.52,
+    "actual": 2816.16
+   },
+   {
+    "fy": "2024-25",
+    "be": 1941.06,
+    "re": 3133.0,
+    "actual": 3096.41
+   }
+  ],
+  "Ministry of Minority Affairs": [
+   {
+    "fy": "2016-17",
+    "be": 3827.25,
+    "re": 3827.25,
+    "actual": 2832.46
+   },
+   {
+    "fy": "2017-18",
+    "be": 4195.48,
+    "re": 4195.48,
+    "actual": 4057.18
+   },
+   {
+    "fy": "2018-19",
+    "be": 4700.0,
+    "re": 4700.0,
+    "actual": 3564.17
+   },
+   {
+    "fy": "2019-20",
+    "be": 4700.0,
+    "re": 4700.0,
+    "actual": 4431.65
+   },
+   {
+    "fy": "2020-21",
+    "be": 5029.0,
+    "re": 4005.0,
+    "actual": 3920.29
+   },
+   {
+    "fy": "2021-22",
+    "be": 4810.77,
+    "re": 4346.45,
+    "actual": 4323.63
+   },
+   {
+    "fy": "2022-23",
+    "be": 5020.5,
+    "re": 2612.66,
+    "actual": 802.69
+   },
+   {
+    "fy": "2023-24",
+    "be": 3097.6,
+    "re": 2608.93,
+    "actual": 154.17
+   },
+   {
+    "fy": "2024-25",
+    "be": 3183.24,
+    "re": 1868.18,
+    "actual": 714.98
+   }
+  ],
+  "Ministry of New and Renewable Energy": [
+   {
+    "fy": "2016-17",
+    "be": 5035.79,
+    "re": 4360.13,
+    "actual": 3828.96
+   },
+   {
+    "fy": "2017-18",
+    "be": 5472.84,
+    "re": 4080.0,
+    "actual": 3644.62
+   },
+   {
+    "fy": "2018-19",
+    "be": 5146.63,
+    "re": 5146.63,
+    "actual": 4224.62
+   },
+   {
+    "fy": "2019-20",
+    "be": 5254.83,
+    "re": 3891.74,
+    "actual": 3308.83
+   },
+   {
+    "fy": "2020-21",
+    "be": 5753.0,
+    "re": 3591.0,
+    "actual": 2643.3
+   },
+   {
+    "fy": "2021-22",
+    "be": 5753.0,
+    "re": 7681.8,
+    "actual": 6582.95
+   },
+   {
+    "fy": "2022-23",
+    "be": 6900.68,
+    "re": 7033.0,
+    "actual": 7563.37
+   },
+   {
+    "fy": "2023-24",
+    "be": 10222.0,
+    "re": 7848.0,
+    "actual": 7928.89
+   },
+   {
+    "fy": "2024-25",
+    "be": 19100.0,
+    "re": 17298.44,
+    "actual": 18626.65
+   }
+  ],
+  "Ministry of Panchayati Raj": [
+   {
+    "fy": "2016-17",
+    "be": 768.33,
+    "re": 675.15,
+    "actual": 673.98
+   },
+   {
+    "fy": "2017-18",
+    "be": 790.79,
+    "re": 719.21,
+    "actual": 700.28
+   },
+   {
+    "fy": "2018-19",
+    "be": 825.17,
+    "re": 716.26,
+    "actual": 686.18
+   },
+   {
+    "fy": "2019-20",
+    "be": 871.37,
+    "re": 500.0,
+    "actual": 498.27
+   },
+   {
+    "fy": "2020-21",
+    "be": 900.94,
+    "re": 690.0,
+    "actual": 686.26
+   },
+   {
+    "fy": "2021-22",
+    "be": 913.43,
+    "re": 868.38,
+    "actual": 864.83
+   },
+   {
+    "fy": "2022-23",
+    "be": 868.57,
+    "re": 905.77,
+    "actual": 901.18
+   },
+   {
+    "fy": "2023-24",
+    "be": 1016.42,
+    "re": 984.0,
+    "actual": 980.49
+   },
+   {
+    "fy": "2024-25",
+    "be": 1183.64,
+    "re": 880.0,
+    "actual": 850.23
+   }
+  ],
+  "Ministry of Personnel, Public Grievances and Pensions": [
+   {
+    "fy": "2016-17",
+    "be": 1477.68,
+    "re": 1285.68,
+    "actual": 1277.98
+   },
+   {
+    "fy": "2017-18",
+    "be": 1450.68,
+    "re": 1591.03,
+    "actual": 1562.76
+   },
+   {
+    "fy": "2018-19",
+    "be": 1559.61,
+    "re": 1581.0,
+    "actual": 1457.1200000000001
+   },
+   {
+    "fy": "2019-20",
+    "be": 1762.1399999999999,
+    "re": 1741.65,
+    "actual": 1698.6499999999999
+   },
+   {
+    "fy": "2020-21",
+    "be": 1793.54,
+    "re": 1813.96,
+    "actual": 1675.0
+   },
+   {
+    "fy": "2021-22",
+    "be": 2097.2400000000002,
+    "re": 1988.63,
+    "actual": 1910.77
+   },
+   {
+    "fy": "2022-23",
+    "be": 2379.14,
+    "re": 2363.83,
+    "actual": 2319.83
+   },
+   {
+    "fy": "2023-24",
+    "be": 2252.2,
+    "re": 2541.43,
+    "actual": 2397.15
+   },
+   {
+    "fy": "2024-25",
+    "be": 2379.87,
+    "re": 2627.46,
+    "actual": 2549.76
+   }
+  ],
+  "Ministry of Petroleum and Natural Gas": [
+   {
+    "fy": "2016-17",
+    "be": 29160.62,
+    "re": 30241.76,
+    "actual": 30231.29
+   },
+   {
+    "fy": "2017-18",
+    "be": 29157.57,
+    "re": 33195.43,
+    "actual": 33192.06
+   },
+   {
+    "fy": "2018-19",
+    "be": 31100.55,
+    "re": 32464.74,
+    "actual": 32370.8
+   },
+   {
+    "fy": "2019-20",
+    "be": 42901.49,
+    "re": 42901.49,
+    "actual": 42812.2
+   },
+   {
+    "fy": "2020-21",
+    "be": 42901.0,
+    "re": 42901.0,
+    "actual": 42189.88
+   },
+   {
+    "fy": "2021-22",
+    "be": 15943.78,
+    "re": 8846.13,
+    "actual": 5753.63
+   },
+   {
+    "fy": "2022-23",
+    "be": 8939.86,
+    "re": 33883.55,
+    "actual": 30912.71
+   },
+   {
+    "fy": "2023-24",
+    "be": 41007.72,
+    "re": 14757.01,
+    "actual": 14328.3
+   },
+   {
+    "fy": "2024-25",
+    "be": 15930.26,
+    "re": 17367.7,
+    "actual": 16962.33
+   }
+  ],
+  "Ministry of Planning": [
+   {
+    "fy": "2016-17",
+    "be": 293.14,
+    "re": 283.41,
+    "actual": 225.38
+   },
+   {
+    "fy": "2017-18",
+    "be": 252.52,
+    "re": 279.79,
+    "actual": 258.15
+   },
+   {
+    "fy": "2018-19",
+    "be": 339.65,
+    "re": 486.51,
+    "actual": 446.77
+   },
+   {
+    "fy": "2019-20",
+    "be": 583.4,
+    "re": 579.74,
+    "actual": 568.98
+   },
+   {
+    "fy": "2020-21",
+    "be": 650.0,
+    "re": 770.0,
+    "actual": 748.68
+   },
+   {
+    "fy": "2021-22",
+    "be": 1062.77,
+    "re": 1070.78,
+    "actual": 1064.13
+   },
+   {
+    "fy": "2022-23",
+    "be": 321.42,
+    "re": 1031.53,
+    "actual": 847.14
+   },
+   {
+    "fy": "2023-24",
+    "be": 824.39,
+    "re": 514.19,
+    "actual": 287.9
+   },
+   {
+    "fy": "2024-25",
+    "be": 837.26,
+    "re": 1001.02,
+    "actual": 280.43
+   }
+  ],
+  "Ministry of Power": [
+   {
+    "fy": "2016-17",
+    "be": 12252.71,
+    "re": 10475.95,
+    "actual": 11009.37
+   },
+   {
+    "fy": "2017-18",
+    "be": 13881.14,
+    "re": 14914.93,
+    "actual": 13975.0
+   },
+   {
+    "fy": "2018-19",
+    "be": 15046.92,
+    "re": 15625.19,
+    "actual": 15575.84
+   },
+   {
+    "fy": "2019-20",
+    "be": 15874.82,
+    "re": 15874.82,
+    "actual": 15321.88
+   },
+   {
+    "fy": "2020-21",
+    "be": 15874.82,
+    "re": 10835.13,
+    "actual": 10581.92
+   },
+   {
+    "fy": "2021-22",
+    "be": 15322.0,
+    "re": 15322.0,
+    "actual": 21594.93
+   },
+   {
+    "fy": "2022-23",
+    "be": 16074.74,
+    "re": 13106.58,
+    "actual": 9312.98
+   },
+   {
+    "fy": "2023-24",
+    "be": 20671.32,
+    "re": 17635.0,
+    "actual": 16326.61
+   },
+   {
+    "fy": "2024-25",
+    "be": 20502.0,
+    "re": 19845.0,
+    "actual": 19713.78
+   }
+  ],
+  "The President, Parliament, Union Public Service Commission and The Secretariat of The Vice President": [
+   {
+    "fy": "2016-17",
+    "be": 1275.6999999999998,
+    "re": 1323.66,
+    "actual": 1222.24
+   },
+   {
+    "fy": "2017-18",
+    "be": 1352.1499999999999,
+    "re": 1345.3999999999999,
+    "actual": 1249.82
+   },
+   {
+    "fy": "2018-19",
+    "be": 1526.1399999999999,
+    "re": 1579.0400000000002,
+    "actual": 1432.52
+   },
+   {
+    "fy": "2019-20",
+    "be": 1593.25,
+    "re": 1569.26,
+    "actual": 1411.18
+   },
+   {
+    "fy": "2020-21",
+    "be": 1641.0,
+    "re": 1426.11,
+    "actual": 1265.3
+   },
+   {
+    "fy": "2021-22",
+    "be": 1687.5700000000002,
+    "re": 1499.48,
+    "actual": 1353.3500000000001
+   },
+   {
+    "fy": "2022-23",
+    "be": 1649.63,
+    "re": 1652.18,
+    "actual": 1508.1
+   },
+   {
+    "fy": "2023-24",
+    "be": 1785.86,
+    "re": 1744.3999999999999,
+    "actual": 1636.0100000000002
+   },
+   {
+    "fy": "2024-25",
+    "be": 1884.92,
+    "re": 1846.46,
+    "actual": 1669.74
+   }
+  ],
+  "Ministry of Railways": [
+   {
+    "fy": "2016-17",
+    "be": 45000.0,
+    "re": 46155.0,
+    "actual": 45231.63
+   },
+   {
+    "fy": "2017-18",
+    "be": 55000.0,
+    "re": 41813.8,
+    "actual": 45231.35
+   },
+   {
+    "fy": "2018-19",
+    "be": 55088.0,
+    "re": 55135.0,
+    "actual": 54912.67
+   },
+   {
+    "fy": "2019-20",
+    "be": 68018.67,
+    "re": 69967.37,
+    "actual": 69972.13
+   },
+   {
+    "fy": "2020-21",
+    "be": 72215.63,
+    "re": 111233.63,
+    "actual": 112159.32
+   },
+   {
+    "fy": "2021-22",
+    "be": 110054.64,
+    "re": 120056.12,
+    "actual": 135242.14
+   },
+   {
+    "fy": "2022-23",
+    "be": 140367.13,
+    "re": 162311.9,
+    "actual": 162410.12
+   },
+   {
+    "fy": "2023-24",
+    "be": 241267.51,
+    "re": 243271.84,
+    "actual": 245791.3
+   },
+   {
+    "fy": "2024-25",
+    "be": 255393.0,
+    "re": 255347.81,
+    "actual": 255263.01
+   }
+  ],
+  "Ministry of Road Transport and Highways": [
+   {
+    "fy": "2016-17",
+    "be": 57976.0,
+    "re": 52447.0,
+    "actual": 52232.46
+   },
+   {
+    "fy": "2017-18",
+    "be": 64900.0,
+    "re": 61000.0,
+    "actual": 61014.76
+   },
+   {
+    "fy": "2018-19",
+    "be": 71000.0,
+    "re": 78625.5,
+    "actual": 77301.29
+   },
+   {
+    "fy": "2019-20",
+    "be": 83015.97,
+    "re": 83015.97,
+    "actual": 78248.72
+   },
+   {
+    "fy": "2020-21",
+    "be": 91823.22,
+    "re": 101823.22,
+    "actual": 99159.09
+   },
+   {
+    "fy": "2021-22",
+    "be": 118101.0,
+    "re": 131149.07,
+    "actual": 123550.6
+   },
+   {
+    "fy": "2022-23",
+    "be": 199107.71,
+    "re": 217026.62,
+    "actual": 217089.47
+   },
+   {
+    "fy": "2023-24",
+    "be": 270434.71,
+    "re": 276351.45,
+    "actual": 275985.72
+   },
+   {
+    "fy": "2024-25",
+    "be": 278000.0,
+    "re": 280518.8,
+    "actual": 299460.35
+   }
+  ],
+  "Ministry of Rural Development": [
+   {
+    "fy": "2016-17",
+    "be": 87765.16,
+    "re": 97760.03,
+    "actual": 96727.81
+   },
+   {
+    "fy": "2017-18",
+    "be": 107758.24,
+    "re": 110874.34,
+    "actual": 110333.49
+   },
+   {
+    "fy": "2018-19",
+    "be": 114915.31999999999,
+    "re": 114400.02,
+    "actual": 113705.72
+   },
+   {
+    "fy": "2019-20",
+    "be": 119874.43000000001,
+    "re": 124549.0,
+    "actual": 123621.71
+   },
+   {
+    "fy": "2020-21",
+    "be": 122398.43000000001,
+    "re": 198628.68,
+    "actual": 197592.69
+   },
+   {
+    "fy": "2021-22",
+    "be": 133689.5,
+    "re": 155042.59,
+    "actual": 161643.33
+   },
+   {
+    "fy": "2022-23",
+    "be": 138203.63,
+    "re": 182381.8,
+    "actual": 177839.71000000002
+   },
+   {
+    "fy": "2023-24",
+    "be": 159964.23,
+    "re": 172967.5,
+    "actual": 163642.49000000002
+   },
+   {
+    "fy": "2024-25",
+    "be": 180233.43,
+    "re": 175878.11,
+    "actual": 179306.76
+   }
+  ],
+  "Ministry of Science and Technology": [
+   {
+    "fy": "2016-17",
+    "be": 10353.0,
+    "re": 10447.75,
+    "actual": 10143.06
+   },
+   {
+    "fy": "2017-18",
+    "be": 11485.380000000001,
+    "re": 11616.52,
+    "actual": 11445.98
+   },
+   {
+    "fy": "2018-19",
+    "be": 12322.279999999999,
+    "re": 12099.16,
+    "actual": 11840.419999999998
+   },
+   {
+    "fy": "2019-20",
+    "be": 13056.240000000002,
+    "re": 12745.27,
+    "actual": 12637.43
+   },
+   {
+    "fy": "2020-21",
+    "be": 14473.29,
+    "re": 11551.86,
+    "actual": 11351.48
+   },
+   {
+    "fy": "2021-22",
+    "be": 14794.03,
+    "re": 13498.720000000001,
+    "actual": 13113.98
+   },
+   {
+    "fy": "2022-23",
+    "be": 14217.46,
+    "re": 13039.5,
+    "actual": 12333.14
+   },
+   {
+    "fy": "2023-24",
+    "be": 16361.42,
+    "re": 12701.63,
+    "actual": 11558.58
+   },
+   {
+    "fy": "2024-25",
+    "be": 16628.12,
+    "re": 14472.119999999999,
+    "actual": 13197.759999999998
+   }
+  ],
+  "Ministry of Ports, Shipping and Waterways": [
+   {
+    "fy": "2016-17",
+    "be": 1531.0,
+    "re": 1454.0,
+    "actual": 1329.68
+   },
+   {
+    "fy": "2017-18",
+    "be": 1773.0,
+    "re": 1568.21,
+    "actual": 1489.28
+   },
+   {
+    "fy": "2018-19",
+    "be": 1881.13,
+    "re": 1938.76,
+    "actual": 1813.22
+   },
+   {
+    "fy": "2019-20",
+    "be": 1902.56,
+    "re": 1523.4,
+    "actual": 1569.08
+   },
+   {
+    "fy": "2020-21",
+    "be": 1800.0,
+    "re": 1433.65,
+    "actual": 1387.7
+   },
+   {
+    "fy": "2021-22",
+    "be": 1702.35,
+    "re": 1585.37,
+    "actual": 1527.55
+   },
+   {
+    "fy": "2022-23",
+    "be": 1709.5,
+    "re": 1793.37,
+    "actual": 1687.7
+   },
+   {
+    "fy": "2023-24",
+    "be": 2218.74,
+    "re": 2395.12,
+    "actual": 2230.63
+   },
+   {
+    "fy": "2024-25",
+    "be": 2377.49,
+    "re": 2858.54,
+    "actual": 2837.58
+   }
+  ],
+  "Ministry of Skill Development and Entrepreneurship": [
+   {
+    "fy": "2016-17",
+    "be": 1804.28,
+    "re": 2173.0,
+    "actual": 1553.09
+   },
+   {
+    "fy": "2017-18",
+    "be": 3016.14,
+    "re": 2356.22,
+    "actual": 2198.02
+   },
+   {
+    "fy": "2018-19",
+    "be": 3400.0,
+    "re": 2820.06,
+    "actual": 2618.98
+   },
+   {
+    "fy": "2019-20",
+    "be": 2989.21,
+    "re": 2531.04,
+    "actual": 2404.98
+   },
+   {
+    "fy": "2020-21",
+    "be": 3002.21,
+    "re": 2723.86,
+    "actual": 2625.41
+   },
+   {
+    "fy": "2021-22",
+    "be": 2785.23,
+    "re": 2785.23,
+    "actual": 2121.14
+   },
+   {
+    "fy": "2022-23",
+    "be": 2999.0,
+    "re": 1901.71,
+    "actual": 1371.0
+   },
+   {
+    "fy": "2023-24",
+    "be": 3517.31,
+    "re": 3260.18,
+    "actual": 2982.17
+   },
+   {
+    "fy": "2024-25",
+    "be": 4520.0,
+    "re": 3300.83,
+    "actual": 2774.7
+   }
+  ],
+  "Ministry of Social Justice and Empowerment": [
+   {
+    "fy": "2016-17",
+    "be": 7349.51,
+    "re": 7352.950000000001,
+    "actual": 7288.65
+   },
+   {
+    "fy": "2017-18",
+    "be": 7763.0,
+    "re": 7863.0,
+    "actual": 7669.490000000001
+   },
+   {
+    "fy": "2018-19",
+    "be": 8820.0,
+    "re": 11033.25,
+    "actual": 11079.61
+   },
+   {
+    "fy": "2019-20",
+    "be": 10089.9,
+    "re": 9985.0,
+    "actual": 9724.94
+   },
+   {
+    "fy": "2020-21",
+    "be": 11428.96,
+    "re": 9107.56,
+    "actual": 8917.55
+   },
+   {
+    "fy": "2021-22",
+    "be": 11689.390000000001,
+    "re": 11224.31,
+    "actual": 8442.36
+   },
+   {
+    "fy": "2022-23",
+    "be": 13134.93,
+    "re": 12675.92,
+    "actual": 8399.34
+   },
+   {
+    "fy": "2023-24",
+    "be": 14072.17,
+    "re": 11078.33,
+    "actual": 9703.61
+   },
+   {
+    "fy": "2024-25",
+    "be": 14225.470000000001,
+    "re": 11193.67,
+    "actual": 10114.85
+   }
+  ],
+  "Department of Space": [
+   {
+    "fy": "2016-17",
+    "be": 7509.14,
+    "re": 8045.28,
+    "actual": 7988.87
+   },
+   {
+    "fy": "2017-18",
+    "be": 9093.71,
+    "re": 9155.52,
+    "actual": 9127.16
+   },
+   {
+    "fy": "2018-19",
+    "be": 10783.42,
+    "re": 11200.0,
+    "actual": 11188.37
+   },
+   {
+    "fy": "2019-20",
+    "be": 12473.26,
+    "re": 13139.26,
+    "actual": 13017.61
+   },
+   {
+    "fy": "2020-21",
+    "be": 13479.47,
+    "re": 9500.0,
+    "actual": 9474.41
+   },
+   {
+    "fy": "2021-22",
+    "be": 13949.09,
+    "re": 12642.0,
+    "actual": 12473.84
+   },
+   {
+    "fy": "2022-23",
+    "be": 13700.0,
+    "re": 10530.04,
+    "actual": 10139.43
+   },
+   {
+    "fy": "2023-24",
+    "be": 12543.91,
+    "re": 11070.07,
+    "actual": 10704.07
+   },
+   {
+    "fy": "2024-25",
+    "be": 13042.75,
+    "re": 11725.75,
+    "actual": 10949.4
+   }
+  ],
+  "Ministry of Statistics and Programme Implementation": [
+   {
+    "fy": "2016-17",
+    "be": 4752.83,
+    "re": 4759.82,
+    "actual": 4268.72
+   },
+   {
+    "fy": "2017-18",
+    "be": 4795.74,
+    "re": 4783.0,
+    "actual": 4301.1
+   },
+   {
+    "fy": "2018-19",
+    "be": 4859.0,
+    "re": 4928.62,
+    "actual": 4874.74
+   },
+   {
+    "fy": "2019-20",
+    "be": 5231.06,
+    "re": 5231.06,
+    "actual": 4910.42
+   },
+   {
+    "fy": "2020-21",
+    "be": 5444.0,
+    "re": 1394.0,
+    "actual": 2423.26
+   },
+   {
+    "fy": "2021-22",
+    "be": 1409.13,
+    "re": 3737.0,
+    "actual": 2689.0
+   },
+   {
+    "fy": "2022-23",
+    "be": 5398.08,
+    "re": 5177.09,
+    "actual": 3712.43
+   },
+   {
+    "fy": "2023-24",
+    "be": 5443.4,
+    "re": 3961.01,
+    "actual": 2467.9
+   },
+   {
+    "fy": "2024-25",
+    "be": 5453.83,
+    "re": 5333.89,
+    "actual": 4019.28
+   }
+  ],
+  "Ministry of Textiles": [
+   {
+    "fy": "2016-17",
+    "be": 4594.82,
+    "re": 6286.1,
+    "actual": 6150.35
+   },
+   {
+    "fy": "2017-18",
+    "be": 6226.5,
+    "re": 6250.8,
+    "actual": 5916.65
+   },
+   {
+    "fy": "2018-19",
+    "be": 7147.73,
+    "re": 6943.26,
+    "actual": 6661.47
+   },
+   {
+    "fy": "2019-20",
+    "be": 4831.48,
+    "re": 4831.48,
+    "actual": 4428.1
+   },
+   {
+    "fy": "2020-21",
+    "be": 3514.79,
+    "re": 3300.0,
+    "actual": 3109.45
+   },
+   {
+    "fy": "2021-22",
+    "be": 3631.64,
+    "re": 11449.32,
+    "actual": 11059.81
+   },
+   {
+    "fy": "2022-23",
+    "be": 12382.14,
+    "re": 3579.61,
+    "actual": 3309.15
+   },
+   {
+    "fy": "2023-24",
+    "be": 4389.34,
+    "re": 3443.09,
+    "actual": 3015.24
+   },
+   {
+    "fy": "2024-25",
+    "be": 4417.03,
+    "re": 3342.0,
+    "actual": 2937.79
+   }
+  ],
+  "Ministry of Tourism": [
+   {
+    "fy": "2016-17",
+    "be": 1590.32,
+    "re": 1670.93,
+    "actual": 1631.19
+   },
+   {
+    "fy": "2017-18",
+    "be": 1840.77,
+    "re": 1776.4,
+    "actual": 1765.7
+   },
+   {
+    "fy": "2018-19",
+    "be": 2150.0,
+    "re": 2113.48,
+    "actual": 2090.62
+   },
+   {
+    "fy": "2019-20",
+    "be": 2189.22,
+    "re": 1416.0,
+    "actual": 1363.42
+   },
+   {
+    "fy": "2020-21",
+    "be": 2499.83,
+    "re": 1260.0,
+    "actual": 1096.82
+   },
+   {
+    "fy": "2021-22",
+    "be": 2026.77,
+    "re": 969.8,
+    "actual": 782.01
+   },
+   {
+    "fy": "2022-23",
+    "be": 2400.0,
+    "re": 1343.13,
+    "actual": 681.71
+   },
+   {
+    "fy": "2023-24",
+    "be": 2400.0,
+    "re": 1692.1,
+    "actual": 801.82
+   },
+   {
+    "fy": "2024-25",
+    "be": 2479.62,
+    "re": 850.36,
+    "actual": 164.07
+   }
+  ],
+  "Ministry of Tribal Affairs": [
+   {
+    "fy": "2016-17",
+    "be": 4826.5,
+    "re": 4826.5,
+    "actual": 4816.92
+   },
+   {
+    "fy": "2017-18",
+    "be": 5329.32,
+    "re": 5329.32,
+    "actual": 5316.63
+   },
+   {
+    "fy": "2018-19",
+    "be": 6000.0,
+    "re": 6000.0,
+    "actual": 5994.14
+   },
+   {
+    "fy": "2019-20",
+    "be": 6894.96,
+    "re": 7340.16,
+    "actual": 7327.57
+   },
+   {
+    "fy": "2020-21",
+    "be": 7411.0,
+    "re": 5508.0,
+    "actual": 5494.51
+   },
+   {
+    "fy": "2021-22",
+    "be": 7524.87,
+    "re": 6181.3,
+    "actual": 6173.97
+   },
+   {
+    "fy": "2022-23",
+    "be": 8451.92,
+    "re": 7301.0,
+    "actual": 7273.53
+   },
+   {
+    "fy": "2023-24",
+    "be": 12461.88,
+    "re": 7605.0,
+    "actual": 7511.64
+   },
+   {
+    "fy": "2024-25",
+    "be": 13000.0,
+    "re": 10237.33,
+    "actual": 10131.86
+   }
+  ],
+  "Ministry of Women and Child Development": [
+   {
+    "fy": "2016-17",
+    "be": 17408.12,
+    "re": 17640.35,
+    "actual": 16873.52
+   },
+   {
+    "fy": "2017-18",
+    "be": 22094.67,
+    "re": 21236.81,
+    "actual": 20396.36
+   },
+   {
+    "fy": "2018-19",
+    "be": 24700.0,
+    "re": 24758.62,
+    "actual": 23025.59
+   },
+   {
+    "fy": "2019-20",
+    "be": 29164.9,
+    "re": 26184.5,
+    "actual": 23164.67
+   },
+   {
+    "fy": "2020-21",
+    "be": 30007.1,
+    "re": 21008.31,
+    "actual": 19231.06
+   },
+   {
+    "fy": "2021-22",
+    "be": 24435.0,
+    "re": 23200.0,
+    "actual": 21654.57
+   },
+   {
+    "fy": "2022-23",
+    "be": 25172.28,
+    "re": 23912.69,
+    "actual": 23994.05
+   },
+   {
+    "fy": "2023-24",
+    "be": 25448.75,
+    "re": 25448.68,
+    "actual": 24695.56
+   },
+   {
+    "fy": "2024-25",
+    "be": 26092.19,
+    "re": 23182.98,
+    "actual": 24842.49
+   }
+  ],
+  "Ministry of Youth Affairs and Sports": [
+   {
+    "fy": "2016-17",
+    "be": 1592.0,
+    "re": 1608.1,
+    "actual": 1573.74
+   },
+   {
+    "fy": "2017-18",
+    "be": 1943.21,
+    "re": 1938.16,
+    "actual": 1689.08
+   },
+   {
+    "fy": "2018-19",
+    "be": 2196.35,
+    "re": 2002.72,
+    "actual": 1723.01
+   },
+   {
+    "fy": "2019-20",
+    "be": 2216.92,
+    "re": 2776.92,
+    "actual": 2636.06
+   },
+   {
+    "fy": "2020-21",
+    "be": 2826.92,
+    "re": 1800.15,
+    "actual": 1748.45
+   },
+   {
+    "fy": "2021-22",
+    "be": 2596.14,
+    "re": 2757.02,
+    "actual": 2250.19
+   },
+   {
+    "fy": "2022-23",
+    "be": 3062.6,
+    "re": 2673.35,
+    "actual": 2545.7
+   },
+   {
+    "fy": "2023-24",
+    "be": 3397.32,
+    "re": 3396.96,
+    "actual": 2982.6
+   },
+   {
+    "fy": "2024-25",
+    "be": 3442.32,
+    "re": 3232.85,
+    "actual": 2710.73
+   }
+  ],
+  "Ministry of Housing and Urban Affairs": [
+   {
+    "fy": "2017-18",
+    "be": 40617.84,
+    "re": 40753.84,
+    "actual": 40061.02
+   },
+   {
+    "fy": "2018-19",
+    "be": 41765.13,
+    "re": 42965.13,
+    "actual": 40611.87
+   },
+   {
+    "fy": "2019-20",
+    "be": 48032.17,
+    "re": 42266.72,
+    "actual": 42054.36
+   },
+   {
+    "fy": "2020-21",
+    "be": 50039.9,
+    "re": 46790.99,
+    "actual": 46700.96
+   },
+   {
+    "fy": "2021-22",
+    "be": 54581.0,
+    "re": 73850.26,
+    "actual": 106840.46
+   },
+   {
+    "fy": "2022-23",
+    "be": 76549.46,
+    "re": 74545.64,
+    "actual": 77310.23
+   },
+   {
+    "fy": "2023-24",
+    "be": 76431.6,
+    "re": 69270.72,
+    "actual": 68564.88
+   },
+   {
+    "fy": "2024-25",
+    "be": 82576.57,
+    "re": 63669.93,
+    "actual": 53255.15
+   }
+  ],
+  "Ministry of Fisheries, Animal Husbandry and Dairying": [
+   {
+    "fy": "2018-19",
+    "be": 3100.0,
+    "re": 3273.01,
+    "actual": 3170.8
+   },
+   {
+    "fy": "2019-20",
+    "be": 3737.0,
+    "re": 3490.0,
+    "actual": 3363.11
+   },
+   {
+    "fy": "2020-21",
+    "be": 4114.13,
+    "re": 3556.81,
+    "actual": 3346.17
+   },
+   {
+    "fy": "2021-22",
+    "be": 4322.82,
+    "re": 4121.04,
+    "actual": 3943.08
+   },
+   {
+    "fy": "2022-23",
+    "be": 6037.3099999999995,
+    "re": 4729.35,
+    "actual": 3609.9900000000002
+   },
+   {
+    "fy": "2023-24",
+    "be": 6576.620000000001,
+    "re": 5614.93,
+    "actual": 4487.92
+   },
+   {
+    "fy": "2024-25",
+    "be": 7137.68,
+    "re": 5505.72,
+    "actual": 3986.3100000000004
+   }
+  ]
+ },
+ "flagships": [
+  {
+   "name": "PLI & semiconductor incentives (electronics)",
+   "be": 26048.04,
+   "actual": 13027.869999999999,
+   "use": 0.5001478038270826,
+   "series": [
+    {
+     "fy": "2022-23",
+     "be": 5300.0,
+     "re": 2403.0,
+     "actual": 1667.96
+    },
+    {
+     "fy": "2023-24",
+     "be": 7645.04,
+     "re": 6063.24,
+     "actual": 4965.51
+    },
+    {
+     "fy": "2024-25",
+     "be": 13103.0,
+     "re": 9593.47,
+     "actual": 6394.4
+    }
+   ],
+   "worst": {
+    "fy": "2022-23",
+    "be": 5300.0,
+    "re": 2403.0,
+    "actual": 1667.96
+   }
+  },
+  {
+   "name": "Scholarships for minority students",
+   "be": 19509.0,
+   "actual": 12295.71,
+   "use": 0.6302583423035522,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 1949.0,
+     "re": 2045.62,
+     "actual": 1044.83
+    },
+    {
+     "fy": "2017-18",
+     "be": 2053.54,
+     "re": 2176.98,
+     "actual": 2088.17
+    },
+    {
+     "fy": "2018-19",
+     "be": 2453.0,
+     "re": 2451.0,
+     "actual": 1697.79
+    },
+    {
+     "fy": "2019-20",
+     "be": 2362.74,
+     "re": 2248.99,
+     "actual": 2148.83
+    },
+    {
+     "fy": "2020-21",
+     "be": 2530.0,
+     "re": 2420.0,
+     "actual": 2342.37
+    },
+    {
+     "fy": "2021-22",
+     "be": 2381.0,
+     "re": 2339.35,
+     "actual": 2249.9
+    },
+    {
+     "fy": "2022-23",
+     "be": 2515.0,
+     "re": 1584.49,
+     "actual": 257.35
+    },
+    {
+     "fy": "2023-24",
+     "be": 1689.0,
+     "re": 1500.0,
+     "actual": 428.74
+    },
+    {
+     "fy": "2024-25",
+     "be": 1575.72,
+     "re": 517.2,
+     "actual": 37.73
+    }
+   ],
+   "worst": {
+    "fy": "2024-25",
+    "be": 1575.72,
+    "re": 517.2,
+    "actual": 37.73
+   }
+  },
+  {
+   "name": "Namami Gange (clean Ganga)",
+   "be": 16895.72,
+   "actual": 12256.57,
+   "use": 0.725424545387826,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 0.0,
+     "re": 0.0,
+     "actual": 1675.0
+    },
+    {
+     "fy": "2017-18",
+     "be": 2300.0,
+     "re": 2300.0,
+     "actual": 700.0
+    },
+    {
+     "fy": "2018-19",
+     "be": 2300.0,
+     "re": 750.0,
+     "actual": 687.5
+    },
+    {
+     "fy": "2019-20",
+     "be": 750.0,
+     "re": 353.42,
+     "actual": 353.4
+    },
+    {
+     "fy": "2020-21",
+     "be": 800.01,
+     "re": 500.0,
+     "actual": 500.0
+    },
+    {
+     "fy": "2021-22",
+     "be": 600.01,
+     "re": 1400.0,
+     "actual": 1394.03
+    },
+    {
+     "fy": "2022-23",
+     "be": 2800.0,
+     "re": 2500.0,
+     "actual": 2047.98
+    },
+    {
+     "fy": "2023-24",
+     "be": 4000.0,
+     "re": 2400.0,
+     "actual": 1922.32
+    },
+    {
+     "fy": "2024-25",
+     "be": 3345.7,
+     "re": 3000.0,
+     "actual": 2976.34
+    }
+   ],
+   "worst": {
+    "fy": "2018-19",
+    "be": 2300.0,
+    "re": 750.0,
+    "actual": 687.5
+   }
+  },
+  {
+   "name": "Ayushman Bharat \u2013 PMJAY (health insurance)",
+   "be": 43343.020000000004,
+   "actual": 32312.260000000002,
+   "use": 0.7455008903394365,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 0.0,
+     "re": 0.0,
+     "actual": 465.58
+    },
+    {
+     "fy": "2017-18",
+     "be": 1000.0,
+     "re": 470.52,
+     "actual": 455.98
+    },
+    {
+     "fy": "2018-19",
+     "be": 2000.0,
+     "re": 2700.0,
+     "actual": 2224.47
+    },
+    {
+     "fy": "2019-20",
+     "be": 6556.0,
+     "re": 3314.0,
+     "actual": 3256.61
+    },
+    {
+     "fy": "2020-21",
+     "be": 6429.0,
+     "re": 3129.0,
+     "actual": 2681.03
+    },
+    {
+     "fy": "2021-22",
+     "be": 6401.0,
+     "re": 3200.0,
+     "actual": 3115.55
+    },
+    {
+     "fy": "2022-23",
+     "be": 6457.0,
+     "re": 6427.0,
+     "actual": 6185.8
+    },
+    {
+     "fy": "2023-24",
+     "be": 7200.01,
+     "re": 6881.21,
+     "actual": 6748.6
+    },
+    {
+     "fy": "2024-25",
+     "be": 7300.01,
+     "re": 7608.63,
+     "actual": 7178.64
+    }
+   ],
+   "worst": {
+    "fy": "2020-21",
+    "be": 6429.0,
+    "re": 3129.0,
+    "actual": 2681.03
+   }
+  },
+  {
+   "name": "Skill India (PMKVY)",
+   "be": 23453.36,
+   "actual": 17735.03,
+   "use": 0.7561829093997618,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 1770.83,
+     "re": 2139.68,
+     "actual": 1521.94
+    },
+    {
+     "fy": "2017-18",
+     "be": 2924.26,
+     "re": 2303.22,
+     "actual": 2149.95
+    },
+    {
+     "fy": "2018-19",
+     "be": 3273.34,
+     "re": 2765.34,
+     "actual": 2562.75
+    },
+    {
+     "fy": "2019-20",
+     "be": 2676.65,
+     "re": 2247.0,
+     "actual": 2112.68
+    },
+    {
+     "fy": "2020-21",
+     "be": 2726.03,
+     "re": 2461.0,
+     "actual": 2372.63
+    },
+    {
+     "fy": "2021-22",
+     "be": 2505.0,
+     "re": 2453.47,
+     "actual": 1844.36
+    },
+    {
+     "fy": "2022-23",
+     "be": 2613.24,
+     "re": 1611.6,
+     "actual": 1119.39
+    },
+    {
+     "fy": "2023-24",
+     "be": 2278.37,
+     "re": 1733.33,
+     "actual": 1733.33
+    },
+    {
+     "fy": "2024-25",
+     "be": 2685.64,
+     "re": 2318.0,
+     "actual": 2318.0
+    }
+   ],
+   "worst": {
+    "fy": "2022-23",
+    "be": 2613.24,
+    "re": 1611.6,
+    "actual": 1119.39
+   }
+  },
+  {
+   "name": "Swachh Bharat Mission (rural + urban)",
+   "be": 116499.57,
+   "actual": 89175.64,
+   "use": 0.7654589626382311,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 11300.0,
+     "re": 12800.02,
+     "actual": 12619.34
+    },
+    {
+     "fy": "2017-18",
+     "be": 16248.27,
+     "re": 19248.27,
+     "actual": 19427.02
+    },
+    {
+     "fy": "2018-19",
+     "be": 17843.1,
+     "re": 16978.03,
+     "actual": 15374.27
+    },
+    {
+     "fy": "2019-20",
+     "be": 12644.0,
+     "re": 9638.22,
+     "actual": 9468.76
+    },
+    {
+     "fy": "2020-21",
+     "be": 12294.1,
+     "re": 7000.01,
+     "actual": 5939.84
+    },
+    {
+     "fy": "2021-22",
+     "be": 12294.1,
+     "re": 8000.0,
+     "actual": 5050.22
+    },
+    {
+     "fy": "2022-23",
+     "be": 9492.0,
+     "re": 7000.0,
+     "actual": 6851.44
+    },
+    {
+     "fy": "2023-24",
+     "be": 12192.0,
+     "re": 9550.0,
+     "actual": 8938.24
+    },
+    {
+     "fy": "2024-25",
+     "be": 12192.0,
+     "re": 9351.42,
+     "actual": 5506.51
+    }
+   ],
+   "worst": {
+    "fy": "2021-22",
+    "be": 12294.1,
+    "re": 8000.0,
+    "actual": 5050.22
+   }
+  },
+  {
+   "name": "Jal Jeevan Mission (tap water)",
+   "be": 289724.56,
+   "actual": 249963.66,
+   "use": 0.8627631016162386,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 5000.0,
+     "re": 6000.0,
+     "actual": 5980.02
+    },
+    {
+     "fy": "2017-18",
+     "be": 6050.0,
+     "re": 7050.0,
+     "actual": 7037.96
+    },
+    {
+     "fy": "2018-19",
+     "be": 7000.0,
+     "re": 5500.0,
+     "actual": 5484.15
+    },
+    {
+     "fy": "2019-20",
+     "be": 10000.66,
+     "re": 10000.66,
+     "actual": 10030.42
+    },
+    {
+     "fy": "2020-21",
+     "be": 11500.0,
+     "re": 11000.0,
+     "actual": 10998.22
+    },
+    {
+     "fy": "2021-22",
+     "be": 50011.0,
+     "re": 45011.0,
+     "actual": 63125.7
+    },
+    {
+     "fy": "2022-23",
+     "be": 60000.0,
+     "re": 55000.0,
+     "actual": 54699.8
+    },
+    {
+     "fy": "2023-24",
+     "be": 70000.0,
+     "re": 70000.0,
+     "actual": 69992.34
+    },
+    {
+     "fy": "2024-25",
+     "be": 70162.9,
+     "re": 22694.0,
+     "actual": 22615.05
+    }
+   ],
+   "worst": {
+    "fy": "2024-25",
+    "be": 70162.9,
+    "re": 22694.0,
+    "actual": 22615.05
+   }
+  },
+  {
+   "name": "Samagra Shiksha (school education)",
+   "be": 301841.3,
+   "actual": 269033.02,
+   "use": 0.8913061930226249,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 26200.0,
+     "re": 26200.0,
+     "actual": 25382.92
+    },
+    {
+     "fy": "2017-18",
+     "be": 27330.0,
+     "re": 27414.9,
+     "actual": 27517.04
+    },
+    {
+     "fy": "2018-19",
+     "be": 30341.81,
+     "re": 30292.81,
+     "actual": 29015.12
+    },
+    {
+     "fy": "2019-20",
+     "be": 36322.0,
+     "re": 36274.4,
+     "actual": 32376.52
+    },
+    {
+     "fy": "2020-21",
+     "be": 38750.5,
+     "re": 27957.32,
+     "actual": 27834.57
+    },
+    {
+     "fy": "2021-22",
+     "be": 31050.16,
+     "re": 30000.0,
+     "actual": 25060.89
+    },
+    {
+     "fy": "2022-23",
+     "be": 37383.36,
+     "re": 32151.66,
+     "actual": 32514.68
+    },
+    {
+     "fy": "2023-24",
+     "be": 37453.47,
+     "re": 33000.0,
+     "actual": 32829.7
+    },
+    {
+     "fy": "2024-25",
+     "be": 37010.0,
+     "re": 37010.0,
+     "actual": 36501.58
+    }
+   ],
+   "worst": {
+    "fy": "2020-21",
+    "be": 38750.5,
+    "re": 27957.32,
+    "actual": 27834.57
+   }
+  },
+  {
+   "name": "PM Gram Sadak Yojana (rural roads)",
+   "be": 160500.0,
+   "actual": 143929.31,
+   "use": 0.8967558255451713,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 19000.0,
+     "re": 19000.0,
+     "actual": 17922.87
+    },
+    {
+     "fy": "2017-18",
+     "be": 19000.0,
+     "re": 16900.0,
+     "actual": 16862.12
+    },
+    {
+     "fy": "2018-19",
+     "be": 19000.0,
+     "re": 15500.0,
+     "actual": 15414.14
+    },
+    {
+     "fy": "2019-20",
+     "be": 19000.0,
+     "re": 14070.07,
+     "actual": 14017.48
+    },
+    {
+     "fy": "2020-21",
+     "be": 19500.0,
+     "re": 13706.23,
+     "actual": 13687.5
+    },
+    {
+     "fy": "2021-22",
+     "be": 15000.0,
+     "re": 14000.0,
+     "actual": 13991.66
+    },
+    {
+     "fy": "2022-23",
+     "be": 19000.0,
+     "re": 19000.0,
+     "actual": 18783.03
+    },
+    {
+     "fy": "2023-24",
+     "be": 19000.0,
+     "re": 17000.0,
+     "actual": 15379.59
+    },
+    {
+     "fy": "2024-25",
+     "be": 12000.0,
+     "re": 14500.0,
+     "actual": 17870.92
+    }
+   ],
+   "worst": {
+    "fy": "2020-21",
+    "be": 19500.0,
+    "re": 13706.23,
+    "actual": 13687.5
+   }
+  },
+  {
+   "name": "PM-Kisan (cash to farmers)",
+   "be": 403000.0,
+   "actual": 363585.74,
+   "use": 0.9021978660049628,
+   "series": [
+    {
+     "fy": "2018-19",
+     "be": 0.0,
+     "re": 20000.0,
+     "actual": 1241.13
+    },
+    {
+     "fy": "2019-20",
+     "be": 75000.0,
+     "re": 54370.15,
+     "actual": 48713.84
+    },
+    {
+     "fy": "2020-21",
+     "be": 75000.0,
+     "re": 65000.0,
+     "actual": 60989.9
+    },
+    {
+     "fy": "2021-22",
+     "be": 65000.0,
+     "re": 67500.0,
+     "actual": 66825.11
+    },
+    {
+     "fy": "2022-23",
+     "be": 68000.0,
+     "re": 60000.0,
+     "actual": 58253.82
+    },
+    {
+     "fy": "2023-24",
+     "be": 60000.0,
+     "re": 60000.0,
+     "actual": 61440.74
+    },
+    {
+     "fy": "2024-25",
+     "be": 60000.0,
+     "re": 63500.0,
+     "actual": 66121.2
+    }
+   ],
+   "worst": {
+    "fy": "2019-20",
+    "be": 75000.0,
+    "re": 54370.15,
+    "actual": 48713.84
+   }
+  },
+  {
+   "name": "PM Awas Yojana \u2013 Gramin (rural housing)",
+   "be": 245987.14,
+   "actual": 224452.07,
+   "use": 0.9124544884744787,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 15000.0,
+     "re": 16000.0,
+     "actual": 16070.84
+    },
+    {
+     "fy": "2017-18",
+     "be": 23000.0,
+     "re": 23000.0,
+     "actual": 22572.29
+    },
+    {
+     "fy": "2018-19",
+     "be": 21000.0,
+     "re": 19900.0,
+     "actual": 19307.94
+    },
+    {
+     "fy": "2019-20",
+     "be": 19000.0,
+     "re": 18475.0,
+     "actual": 18116.02
+    },
+    {
+     "fy": "2020-21",
+     "be": 19500.0,
+     "re": 19500.0,
+     "actual": 19269.14
+    },
+    {
+     "fy": "2021-22",
+     "be": 19500.0,
+     "re": 20389.84,
+     "actual": 30056.87
+    },
+    {
+     "fy": "2022-23",
+     "be": 20000.0,
+     "re": 48422.0,
+     "actual": 44962.21
+    },
+    {
+     "fy": "2023-24",
+     "be": 54487.0,
+     "re": 32000.01,
+     "actual": 21770.19
+    },
+    {
+     "fy": "2024-25",
+     "be": 54500.14,
+     "re": 32426.33,
+     "actual": 32326.57
+    }
+   ],
+   "worst": {
+    "fy": "2023-24",
+    "be": 54487.0,
+    "re": 32000.01,
+    "actual": 21770.19
+   }
+  },
+  {
+   "name": "PM Fasal Bima Yojana (crop insurance)",
+   "be": 116920.0,
+   "actual": 110475.72,
+   "use": 0.9448829969209717,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 5500.0,
+     "re": 13240.04,
+     "actual": 11051.55
+    },
+    {
+     "fy": "2017-18",
+     "be": 9000.0,
+     "re": 10698.0,
+     "actual": 9419.22
+    },
+    {
+     "fy": "2018-19",
+     "be": 13000.0,
+     "re": 12975.7,
+     "actual": 11937.02
+    },
+    {
+     "fy": "2019-20",
+     "be": 14000.0,
+     "re": 13640.85,
+     "actual": 12639.22
+    },
+    {
+     "fy": "2020-21",
+     "be": 15695.0,
+     "re": 15306.55,
+     "actual": 14161.48
+    },
+    {
+     "fy": "2021-22",
+     "be": 16000.0,
+     "re": 15989.39,
+     "actual": 13549.24
+    },
+    {
+     "fy": "2022-23",
+     "be": 15500.0,
+     "re": 12375.76,
+     "actual": 10296.03
+    },
+    {
+     "fy": "2023-24",
+     "be": 13625.0,
+     "re": 15000.0,
+     "actual": 12948.5
+    },
+    {
+     "fy": "2024-25",
+     "be": 14600.0,
+     "re": 15864.0,
+     "actual": 14473.46
+    }
+   ],
+   "worst": {
+    "fy": "2022-23",
+    "be": 15500.0,
+    "re": 12375.76,
+    "actual": 10296.03
+   }
+  },
+  {
+   "name": "PM POSHAN (school meals)",
+   "be": 98001.14,
+   "actual": 93271.88,
+   "use": 0.9517428062571518,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 9700.0,
+     "re": 9700.0,
+     "actual": 10389.84
+    },
+    {
+     "fy": "2017-18",
+     "be": 10000.0,
+     "re": 10000.0,
+     "actual": 9140.96
+    },
+    {
+     "fy": "2018-19",
+     "be": 10500.0,
+     "re": 9949.04,
+     "actual": 9891.25
+    },
+    {
+     "fy": "2019-20",
+     "be": 11000.0,
+     "re": 9912.21,
+     "actual": 9698.99
+    },
+    {
+     "fy": "2020-21",
+     "be": 11000.0,
+     "re": 12900.0,
+     "actual": 12878.15
+    },
+    {
+     "fy": "2021-22",
+     "be": 11500.0,
+     "re": 10233.75,
+     "actual": 10230.98
+    },
+    {
+     "fy": "2022-23",
+     "be": 10233.75,
+     "re": 12800.0,
+     "actual": 12680.97
+    },
+    {
+     "fy": "2023-24",
+     "be": 11600.0,
+     "re": 10000.0,
+     "actual": 8457.73
+    },
+    {
+     "fy": "2024-25",
+     "be": 12467.39,
+     "re": 10000.0,
+     "actual": 9903.01
+    }
+   ],
+   "worst": {
+    "fy": "2023-24",
+    "be": 11600.0,
+    "re": 10000.0,
+    "actual": 8457.73
+   }
+  },
+  {
+   "name": "Anganwadi & Poshan 2.0 (child nutrition)",
+   "be": 168069.2,
+   "actual": 160162.8,
+   "use": 0.9529574722792753,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 14000.0,
+     "re": 14560.6,
+     "actual": 14433.18
+    },
+    {
+     "fy": "2017-18",
+     "be": 15245.19,
+     "re": 15245.19,
+     "actual": 15155.4
+    },
+    {
+     "fy": "2018-19",
+     "be": 16334.88,
+     "re": 17890.19,
+     "actual": 16814.72
+    },
+    {
+     "fy": "2019-20",
+     "be": 19834.37,
+     "re": 17704.5,
+     "actual": 16893.54
+    },
+    {
+     "fy": "2020-21",
+     "be": 20532.38,
+     "re": 17252.31,
+     "actual": 15784.42
+    },
+    {
+     "fy": "2021-22",
+     "be": 20105.0,
+     "re": 19999.55,
+     "actual": 18381.77
+    },
+    {
+     "fy": "2022-23",
+     "be": 20263.07,
+     "re": 20263.07,
+     "actual": 19876.11
+    },
+    {
+     "fy": "2023-24",
+     "be": 20554.31,
+     "re": 21523.13,
+     "actual": 21809.64
+    },
+    {
+     "fy": "2024-25",
+     "be": 21200.0,
+     "re": 20070.9,
+     "actual": 21014.02
+    }
+   ],
+   "worst": {
+    "fy": "2020-21",
+    "be": 20532.38,
+    "re": 17252.31,
+    "actual": 15784.42
+   }
+  },
+  {
+   "name": "AMRUT (urban water & sewerage)",
+   "be": 56200.0,
+   "actual": 53840.97,
+   "use": 0.9580243772241993,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 0.0,
+     "re": 0.0,
+     "actual": 4864.41
+    },
+    {
+     "fy": "2017-18",
+     "be": 5000.0,
+     "re": 4998.61,
+     "actual": 4936.15
+    },
+    {
+     "fy": "2018-19",
+     "be": 6000.0,
+     "re": 6400.0,
+     "actual": 6182.83
+    },
+    {
+     "fy": "2019-20",
+     "be": 7300.0,
+     "re": 6392.0,
+     "actual": 6391.52
+    },
+    {
+     "fy": "2020-21",
+     "be": 7300.0,
+     "re": 6450.0,
+     "actual": 6448.35
+    },
+    {
+     "fy": "2021-22",
+     "be": 7300.0,
+     "re": 7300.0,
+     "actual": 7280.38
+    },
+    {
+     "fy": "2022-23",
+     "be": 7300.0,
+     "re": 6500.0,
+     "actual": 6499.87
+    },
+    {
+     "fy": "2023-24",
+     "be": 8000.0,
+     "re": 5200.0,
+     "actual": 5590.84
+    },
+    {
+     "fy": "2024-25",
+     "be": 8000.0,
+     "re": 6000.0,
+     "actual": 5646.62
+    }
+   ],
+   "worst": {
+    "fy": "2023-24",
+    "be": 8000.0,
+    "re": 5200.0,
+    "actual": 5590.84
+   }
+  },
+  {
+   "name": "Smart Cities Mission",
+   "be": 46719.0,
+   "actual": 46701.770000000004,
+   "use": 0.9996311992979303,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 0.0,
+     "re": 0.0,
+     "actual": 4412.29
+    },
+    {
+     "fy": "2017-18",
+     "be": 4000.0,
+     "re": 4000.0,
+     "actual": 4526.42
+    },
+    {
+     "fy": "2018-19",
+     "be": 6169.0,
+     "re": 6169.04,
+     "actual": 5902.1
+    },
+    {
+     "fy": "2019-20",
+     "be": 6450.0,
+     "re": 3450.0,
+     "actual": 3207.16
+    },
+    {
+     "fy": "2020-21",
+     "be": 6450.0,
+     "re": 3400.0,
+     "actual": 3305.26
+    },
+    {
+     "fy": "2021-22",
+     "be": 6450.0,
+     "re": 6600.0,
+     "actual": 6587.64
+    },
+    {
+     "fy": "2022-23",
+     "be": 6800.0,
+     "re": 8800.0,
+     "actual": 8652.92
+    },
+    {
+     "fy": "2023-24",
+     "be": 8000.0,
+     "re": 8000.0,
+     "actual": 7982.36
+    },
+    {
+     "fy": "2024-25",
+     "be": 2400.0,
+     "re": 2000.0,
+     "actual": 2125.62
+    }
+   ],
+   "worst": {
+    "fy": "2019-20",
+    "be": 6450.0,
+    "re": 3450.0,
+    "actual": 3207.16
+   }
+  },
+  {
+   "name": "Scholarships for SC students",
+   "be": 17859.739999999998,
+   "actual": 19116.09,
+   "use": 1.0703453689695372,
+   "series": [
+    {
+     "fy": "2021-22",
+     "be": 4140.62,
+     "re": 4921.59,
+     "actual": 2548.96
+    },
+    {
+     "fy": "2022-23",
+     "be": 0.0,
+     "re": 0.0,
+     "actual": 4601.12
+    },
+    {
+     "fy": "2023-24",
+     "be": 6859.14,
+     "re": 5830.0,
+     "actual": 5922.86
+    },
+    {
+     "fy": "2024-25",
+     "be": 6859.98,
+     "re": 5950.0,
+     "actual": 6043.15
+    }
+   ],
+   "worst": {
+    "fy": "2021-22",
+    "be": 4140.62,
+    "re": 4921.59,
+    "actual": 2548.96
+   }
+  },
+  {
+   "name": "Food subsidy",
+   "be": 1390012.98,
+   "actual": 1729031.8800000001,
+   "use": 1.243896211674225,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 130334.61,
+     "re": 130672.96,
+     "actual": 105672.96
+    },
+    {
+     "fy": "2017-18",
+     "be": 145138.6,
+     "re": 139981.69,
+     "actual": 99981.69
+    },
+    {
+     "fy": "2018-19",
+     "be": 169123.0,
+     "re": 171098.0,
+     "actual": 101127.49
+    },
+    {
+     "fy": "2019-20",
+     "be": 184000.0,
+     "re": 108508.35,
+     "actual": 108508.35
+    },
+    {
+     "fy": "2020-21",
+     "be": 115319.68,
+     "re": 422414.77,
+     "actual": 541126.77
+    },
+    {
+     "fy": "2021-22",
+     "be": 242616.0,
+     "re": 286219.11,
+     "actual": 288718.54
+    },
+    {
+     "fy": "2022-23",
+     "be": 206481.09,
+     "re": 286978.5,
+     "actual": 272501.69
+    },
+    {
+     "fy": "2023-24",
+     "be": 197000.0,
+     "re": 211912.0,
+     "actual": 211394.39
+    }
+   ],
+   "worst": {
+    "fy": "2019-20",
+    "be": 184000.0,
+    "re": 108508.35,
+    "actual": 108508.35
+   }
+  },
+  {
+   "name": "MGNREGA (rural jobs guarantee)",
+   "be": 555000.0,
+   "actual": 712314.2,
+   "use": 1.283449009009009,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 38500.0,
+     "re": 47499.0,
+     "actual": 48214.95
+    },
+    {
+     "fy": "2017-18",
+     "be": 48000.0,
+     "re": 55000.0,
+     "actual": 55166.04
+    },
+    {
+     "fy": "2018-19",
+     "be": 55000.0,
+     "re": 61084.09,
+     "actual": 61815.09
+    },
+    {
+     "fy": "2019-20",
+     "be": 60000.0,
+     "re": 71001.81,
+     "actual": 71686.7
+    },
+    {
+     "fy": "2020-21",
+     "be": 61500.0,
+     "re": 111500.0,
+     "actual": 111169.53
+    },
+    {
+     "fy": "2021-22",
+     "be": 73000.0,
+     "re": 98000.0,
+     "actual": 98467.85
+    },
+    {
+     "fy": "2022-23",
+     "be": 73000.0,
+     "re": 89400.0,
+     "actual": 90805.93
+    },
+    {
+     "fy": "2023-24",
+     "be": 60000.0,
+     "re": 86000.0,
+     "actual": 89153.71
+    },
+    {
+     "fy": "2024-25",
+     "be": 86000.0,
+     "re": 86000.0,
+     "actual": 85834.4
+    }
+   ],
+   "worst": {
+    "fy": "2024-25",
+    "be": 86000.0,
+    "re": 86000.0,
+    "actual": 85834.4
+   }
+  },
+  {
+   "name": "PM Awas Yojana \u2013 Urban",
+   "be": 123749.71,
+   "actual": 163610.65,
+   "use": 1.3221093609027446,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 5075.0,
+     "re": 4936.1,
+     "actual": 4880.85
+    },
+    {
+     "fy": "2017-18",
+     "be": 6042.81,
+     "re": 6042.51,
+     "actual": 8591.31
+    },
+    {
+     "fy": "2018-19",
+     "be": 6505.0,
+     "re": 6505.01,
+     "actual": 6134.62
+    },
+    {
+     "fy": "2019-20",
+     "be": 6853.26,
+     "re": 6853.26,
+     "actual": 6847.63
+    },
+    {
+     "fy": "2020-21",
+     "be": 8000.0,
+     "re": 21000.0,
+     "actual": 20990.7
+    },
+    {
+     "fy": "2021-22",
+     "be": 8000.0,
+     "re": 27000.0,
+     "actual": 59963.04
+    },
+    {
+     "fy": "2022-23",
+     "be": 28000.0,
+     "re": 28708.01,
+     "actual": 28652.74
+    },
+    {
+     "fy": "2023-24",
+     "be": 25103.03,
+     "re": 22103.03,
+     "actual": 21684.33
+    },
+    {
+     "fy": "2024-25",
+     "be": 30170.61,
+     "re": 15170.0,
+     "actual": 5865.43
+    }
+   ],
+   "worst": {
+    "fy": "2024-25",
+    "be": 30170.61,
+    "re": 15170.0,
+    "actual": 5865.43
+   }
+  },
+  {
+   "name": "Fertiliser subsidy",
+   "be": 885247.47,
+   "actual": 1175938.32,
+   "use": 1.3283724154557597,
+   "series": [
+    {
+     "fy": "2016-17",
+     "be": 70000.0,
+     "re": 70000.01,
+     "actual": 66312.93
+    },
+    {
+     "fy": "2017-18",
+     "be": 70000.0,
+     "re": 64999.8,
+     "actual": 66467.57
+    },
+    {
+     "fy": "2018-19",
+     "be": 70090.35,
+     "re": 70085.7,
+     "actual": 70604.8
+    },
+    {
+     "fy": "2019-20",
+     "be": 79996.0,
+     "re": 79997.85,
+     "actual": 81124.33
+    },
+    {
+     "fy": "2020-21",
+     "be": 71309.0,
+     "re": 133947.3,
+     "actual": 127921.74
+    },
+    {
+     "fy": "2021-22",
+     "be": 79529.68,
+     "re": 140122.32,
+     "actual": 153758.1
+    },
+    {
+     "fy": "2022-23",
+     "be": 105222.32,
+     "re": 225220.16,
+     "actual": 251339.36
+    },
+    {
+     "fy": "2023-24",
+     "be": 175100.12,
+     "re": 188894.0,
+     "actual": 188291.62
+    },
+    {
+     "fy": "2024-25",
+     "be": 164000.0,
+     "re": 171310.5,
+     "actual": 170117.87
+    }
+   ],
+   "worst": {
+    "fy": "2016-17",
+    "be": 70000.0,
+    "re": 70000.01,
+    "actual": 66312.93
+   }
+  }
+ ],
+ "schemes": {
+  "per_year": [
+   {
+    "fy": "2016-17",
+    "schemes": 444,
+    "under75": 0.2072072072072072,
+    "over110": 0.21621621621621623
+   },
+   {
+    "fy": "2017-18",
+    "schemes": 492,
+    "under75": 0.20121951219512196,
+    "over110": 0.21544715447154472
+   },
+   {
+    "fy": "2018-19",
+    "schemes": 522,
+    "under75": 0.2164750957854406,
+    "over110": 0.16666666666666666
+   },
+   {
+    "fy": "2019-20",
+    "schemes": 552,
+    "under75": 0.22282608695652173,
+    "over110": 0.16666666666666666
+   },
+   {
+    "fy": "2020-21",
+    "schemes": 563,
+    "under75": 0.44760213143872113,
+    "over110": 0.1349911190053286
+   },
+   {
+    "fy": "2021-22",
+    "schemes": 550,
+    "under75": 0.3236363636363636,
+    "over110": 0.20363636363636364
+   },
+   {
+    "fy": "2022-23",
+    "schemes": 538,
+    "under75": 0.34944237918215615,
+    "over110": 0.17657992565055763
+   },
+   {
+    "fy": "2023-24",
+    "schemes": 551,
+    "under75": 0.30490018148820325,
+    "over110": 0.1560798548094374
+   },
+   {
+    "fy": "2024-25",
+    "schemes": 563,
+    "under75": 0.3019538188277087,
+    "over110": 0.13676731793960922
+   }
+  ],
+  "lines": 4775,
+  "under_half": 717,
+  "under_half_gap": 739069.63
+ },
+ "publicity": {
+  "series": [
+   {
+    "fy": "2016-17",
+    "be": 668.1700000000001,
+    "actual": 554.5899999999999
+   },
+   {
+    "fy": "2017-18",
+    "be": 754.5899999999999,
+    "actual": 686.5500000000001
+   },
+   {
+    "fy": "2018-19",
+    "be": 884.24,
+    "actual": 810.19
+   },
+   {
+    "fy": "2019-20",
+    "be": 898.3,
+    "actual": 628.3500000000001
+   },
+   {
+    "fy": "2020-21",
+    "be": 861.55,
+    "actual": 255.61
+   },
+   {
+    "fy": "2021-22",
+    "be": 811.1400000000001,
+    "actual": 117.55999999999999
+   },
+   {
+    "fy": "2022-23",
+    "be": 528.6700000000001,
+    "actual": 425.04999999999995
+   },
+   {
+    "fy": "2023-24",
+    "be": 573.5699999999999,
+    "actual": 583.9
+   },
+   {
+    "fy": "2024-25",
+    "be": 479.49,
+    "actual": 387.11
+   }
+  ],
+  "lines": [
+   "Ministry Of Ayush: Information, Education and Communication",
+   "Ministry Of Chemicals And Fertilisers: Consumer Awareness Publicity and Price Monitoring",
+   "Ministry Of Consumer Affairs, Food And Public Distribution: Consumer Awareness (Advertising and Publicity)",
+   "Ministry Of Development Of North Eastern Region: Capacity Building and Publicity",
+   "Ministry Of Finance: Pradhan Mantri Jeevan Jyoti Bima Yojna and Pradhan Mantri Suraksha Bima Yojna (Publicity and Awareness)",
+   "Ministry Of Finance: Publicity and awareness for Pradhan Mantri Mudra",
+   "Ministry Of Finance: Publicity and awareness for Pradhan Mantri Mudra Yojana (PMMY) and other initiatives by MUDRA Ltd.",
+   "Ministry Of Finance: Publicity and awareness for Stand-Up India and other",
+   "Ministry Of Finance: Publicity and awareness for Stand-Up India and other initiatives by SIDBI",
+   "Ministry Of Home Affairs: Civic Action Programme and Media Plan",
+   "Ministry Of Information And Broadcasting: Development Communication and Information Dissemination",
+   "Ministry Of Information And Broadcasting: Mass Communication",
+   "Ministry Of Micro, Small And Medium Enterprises: Information, Education and Communication",
+   "Ministry Of Micro, Small And Medium Enterprises: Studies, Publicity & International Cooperation (SPIC)",
+   "Ministry Of New And Renewable Energy: Information and Public Advertising (I&PA)",
+   "Ministry Of New And Renewable Energy: Information, Education and Communication",
+   "Ministry Of New And Renewable Energy: Information, Education and Communications",
+   "Ministry Of Panchayati Raj: Media and Publicity",
+   "Ministry Of Tourism: Domestic Promotion and Publicity including Market Development Assistance",
+   "Ministry Of Tourism: Overseas Promotion and Publicity including Market Development Assistance",
+   "Ministry Of Women And Child Development: Information and Mass Communication"
+  ]
+ },
+ "allocation": {
+  "budget": "2026-27",
+  "total": 5347314.809999999,
+  "categories": [
+   {
+    "name": "Interest on past borrowing",
+    "crore": 1403971.79,
+    "squares": 26
+   },
+   {
+    "name": "Defence",
+    "crore": 784678.2799999999,
+    "squares": 15
+   },
+   {
+    "name": "Roads and railways",
+    "crore": 591252.6200000001,
+    "squares": 11
+   },
+   {
+    "name": "Transfers to states",
+    "crore": 442339.7,
+    "squares": 8
+   },
+   {
+    "name": "Food and fertiliser subsidies",
+    "crore": 405991.7299999999,
+    "squares": 8
+   },
+   {
+    "name": "Rural development and farming",
+    "crore": 337551.92,
+    "squares": 6
+   },
+   {
+    "name": "Police and home affairs",
+    "crore": 207077.3499999999,
+    "squares": 4
+   },
+   {
+    "name": "Health and education",
+    "crore": 245819.89999999997,
+    "squares": 5
+   },
+   {
+    "name": "Pensions",
+    "crore": 97500.00000000001,
+    "squares": 2
+   },
+   {
+    "name": "Everything else",
+    "crore": 831131.5199999985,
+    "squares": 15
+   }
+  ]
+ },
+ "grand": {
+  "years": [
+   "2005-06",
+   "2024-25",
+   20
+  ],
+  "budgeted": 41772988.0,
+  "spent": 42348310.0,
+  "capex_unspent": 192655.0,
+  "disinvestment_missing": 548265.0,
+  "tax_missing": 438541.0,
+  "extra_borrowing": 1481783.0,
+  "ministry_years": [
+   "2016-17",
+   "2024-25"
+  ],
+  "ministry_budgeted": 29115519.97,
+  "ministry_spent": 29672955.06,
+  "never_spent": 1705303.62,
+  "beyond_budget": 2262738.71
+ },
+ "waterfall": {
+  "fy": "2024-25",
+  "be": 4820512.0,
+  "actual": 4652867.0,
+  "total": -167645.0,
+  "spending": [
+   {
+    "demand": "Department of Drinking Water and Sanitation",
+    "value": -51537.42999999999,
+    "why": {
+     "scheme": "Jal Jeevan Mission (JJM) / National Rural Drinking Water Mission",
+     "be": 70162.9,
+     "actual": 22615.05
+    }
+   },
+   {
+    "demand": "Interest Payments",
+    "value": -47365.689999999944,
+    "why": {
+     "scheme": "Interest on Internal Debt",
+     "be": 857482.79,
+     "actual": 807174.66
+    }
+   },
+   {
+    "demand": "Ministry of Housing and Urban Affairs",
+    "value": -29321.420000000006,
+    "why": {
+     "scheme": "PMAY-Urban",
+     "be": 30170.61,
+     "actual": 5815.43
+    }
+   },
+   {
+    "demand": "Department of Economic Affairs",
+    "value": -26946.730000000003,
+    "why": {
+     "scheme": "Other Expenditure",
+     "be": 62817.66,
+     "actual": 226.42
+    }
+   },
+   {
+    "demand": "Transfers to States",
+    "value": -23831.840000000026,
+    "why": {
+     "scheme": "Special Assistance",
+     "be": 20000.0,
+     "actual": 3350.0
+    }
+   },
+   {
+    "demand": "Ministry of Micro, Small and Medium Enterprises",
+    "value": -13906.980000000001,
+    "why": {
+     "scheme": "Guarantee Emergency Credit Line (GECL) facility to eligible MSME borrowers",
+     "be": 9812.93,
+     "actual": 0.0
+    }
+   },
+   {
+    "demand": "Capital Outlay on Defence Services",
+    "value": -12231.600000000006,
+    "why": {
+     "scheme": "Other Equipments",
+     "be": 62198.02,
+     "actual": 52204.54
+    }
+   },
+   {
+    "demand": "Ministry of Labour and Employment",
+    "value": -11123.45,
+    "why": {
+     "scheme": "New Employment Generation Scheme",
+     "be": 10000.0,
+     "actual": 0.16
+    }
+   },
+   {
+    "demand": "61 other departments that underspent",
+    "value": -75909.14999999998,
+    "why": null
+   },
+   {
+    "demand": "Ministry of Road Transport and Highways",
+    "value": 21460.349999999977,
+    "why": {
+     "scheme": "Road Works",
+     "be": 109093.19,
+     "actual": 130965.3
+    }
+   },
+   {
+    "demand": "Department of Fertilisers",
+    "value": 17642.570000000007,
+    "why": {
+     "scheme": "Additional Transfer to Reserve fund",
+     "be": 0.0,
+     "actual": 11600.0
+    }
+   },
+   {
+    "demand": "Defence Pensions",
+    "value": 16448.649999999994,
+    "why": {
+     "scheme": "Pensions and other Retirement Benefits",
+     "be": 149180.8,
+     "actual": 157622.45
+    }
+   },
+   {
+    "demand": "29 other departments that overspent",
+    "value": 68978.04000000004,
+    "why": null
+   }
+  ],
+  "funding": [
+   {
+    "demand": "Tax came in below plan",
+    "value": -83460.0
+   },
+   {
+    "demand": "Asset sales came in below plan",
+    "value": -32798.0
+   },
+   {
+    "demand": "Other income came in below plan",
+    "value": -12504.0
+   },
+   {
+    "demand": "Borrowed less than planned",
+    "value": -38881.0
+   }
+  ],
+  "gross_under": -292174.29,
+  "gross_over": 124529.61000000002
+ }
+}

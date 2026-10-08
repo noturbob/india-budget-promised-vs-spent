@@ -1,0 +1,39 @@
+# Hand transcription of page 174 (printed page no. 166) of data/raw/expenditure_budget/2022-23.pdf,
+# Demand No. 46, Department of Health and Family Welfare. That page has no text layer (its text is
+# drawn as vector outlines), so pdftotext returns only the heading "NHM (NUHM & NRHM)".
+# Transcribed from the rendered page on 2026-10-07. Columns: Actual 2020-21, BE 2021-22, RE 2021-22,
+# BE 2022-23, each Revenue / Capital / Total, in Rs crore. "..." = nil, as printed.
+# Check: these lines close the gap between the demand's lines and its Grand Total exactly
+# (1507.09 in Actual 2020-21, 29460.23 in BE 2022-23).
+           50.14   Strengthening National Programme Management of the NRHM      121.59 ... 121.59    150.00 ... 150.00    140.00 ... 140.00    ... ... ...
+           50.15   Janasankhya Sthirtha Kosh (JSK)                              20.44 ... 20.44    ... ... ...    ... ... ...    ... ... ...
+           Total- National Rural Health Mission                                 30328.97 ... 30328.97    30100.00 ... 30100.00    27850.00 ... 27850.00    ... ... ...
+     51.   National Urban Health Mission
+           51.01   Other Health System for activities covered under NUHM (NIF)  168.15 ... 168.15    750.00 ... 750.00    375.00 ... 375.00    ... ... ...
+           51.02   Other Health System for activities covered under NUHM (GBS)  531.75 ... 531.75    ... ... ...    ... ... ...    ... ... ...
+           51.03   Ayushman Bharat - Health and Wellness Centres (NIF)          249.97 ... 249.97    250.00 ... 250.00    125.00 ... 125.00    ... ... ...
+           Total- National Urban Health Mission                                 949.87 ... 949.87    1000.00 ... 1000.00    500.00 ... 500.00    ... ... ...
+     52.   Flexible Pool for RCH & Health System Strengthening, National Health Programme and National Urban Health Mission
+           52.01   Gross Budgetary Support (GBS)                                ... ... ...    ... ... ...    ... ... ...    17798.75 ... 17798.75
+                                                                                ... ... ...    ... ... ...    ... ... ...    -3459.00 ... -3459.00
+                                                                         Net    ... ... ...    ... ... ...    ... ... ...    14339.75 ... 14339.75
+           52.02   Support from National Investment Funds (NIF)                 ... ... ...    ... ... ...    ... ... ...    2138.98 ... 2138.98
+           52.03   Support from PMSSN                                           ... ... ...    ... ... ...    ... ... ...    5838.00 ... 5838.00
+           Total- Flexible Pool for RCH & Health System Strengthening, National Health Programme and National Urban Health Mission    ... ... ...    ... ... ...    ... ... ...    22316.73 ... 22316.73
+NHM (NUHM & NRHM)
+     53.   Infrastructure Maintenance
+           53.01   Gross Budgetary Support (GBS)                                ... ... ...    ... ... ...    ... ... ...    2343.00 ... 2343.00
+           53.02   Support from PMSSN                                           ... ... ...    ... ... ...    ... ... ...    4000.00 ... 4000.00
+           Total- Infrastructure Maintenance                                    ... ... ...    ... ... ...    ... ... ...    6343.00 ... 6343.00
+     54.   Strengthening National Programme Management of the NRHM              ... ... ...    ... ... ...    ... ... ...    200.00 ... 200.00
+     55.   Strengthening of State Drug Regulatory System                        114.67 ... 114.67    175.00 ... 175.00    65.00 ... 65.00    100.00 ... 100.00
+     56.   Tertiary Care Programmes
+           56.01   National Mental Health Programme                             20.46 ... 20.46    40.00 ... 40.00    29.00 ... 29.00    40.00 ... 40.00
+           56.02   Capacity Building for Trauma Centres                         20.34 ... 20.34    60.00 ... 60.00    40.41 ... 40.41    49.60 ... 49.60
+           56.03   National Programme for prevention and control of Cancer, Diabetes, Cardio-vascular Disease and Stroke    139.16 ... 139.16    175.00 ... 175.00    146.88 ... 146.88    175.00 ... 175.00
+           56.04   National Programme for Health Care for the Elderly           14.35 ... 14.35    105.00 ... 105.00    97.12 ... 97.12    98.79 ... 98.79
+           56.05   National Programme for Control of Blindness                  4.91 ... 4.91    10.50 ... 10.50    4.09 ... 4.09    8.00 ... 8.00
+           56.06   Telemedicine                                                 44.71 ... 44.71    45.00 ... 45.00    45.00 ... 45.00    45.00 ... 45.00
+           56.07   Tobacco Control Programme and Drug De-addiction Programme    56.59 ... 56.59    60.00 5.00 65.00    63.64 5.00 68.64    79.11 5.00 84.11
+           Total- Tertiary Care Programmes                                      300.52 ... 300.52    495.50 5.00 500.50    426.14 5.00 431.14    495.50 5.00 500.50
+     57.   Human Resources for Health and Medical Education
