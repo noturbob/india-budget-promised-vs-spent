@@ -1,14 +1,16 @@
-"""Turn the processed tables into year-by-year panels of BE, RE and Actual.
+"""Link each ministry and scheme across budget documents into year-by-year panels of BE, RE and Actual.
 
-In:  data/processed/macro_totals.csv, data/processed/scheme_lines.csv
-Out: data/analysis/macro_by_year.csv     one row per fiscal year x metric
-     data/analysis/ministry_by_year.csv  one row per fiscal year x demand (ministry/department)
+In:  data/processed/scheme_lines.csv
+Out: data/analysis/ministry_by_year.csv  one row per fiscal year x demand (ministry/department)
      data/analysis/scheme_by_year.csv    one row per fiscal year x scheme
 
 For a fiscal year t, the Expenditure Budget of t+1 prints BE(t) and RE(t), and the one of t+2
 prints Actual(t). Lines are linked across those two documents by name within the same demand,
 anchored on a number both print: BE(t+1). Using t+1's BE (not t's own document) means figures are
 already restated for any reorganisation between the two budgets.
+
+This matching stays in Python: it walks each document's lines in order and falls back from name to
+amount, which is a loop, not a query. Everything computed from these panels is in sql/.
 Run: python3 analysis/panels.py
 """
 import csv
@@ -57,24 +59,6 @@ def ministry_name(raw: str) -> str:
 
 def norm(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", "", s.lower())
-
-
-def macro_panel() -> list[dict]:
-    vals: dict[tuple, dict] = defaultdict(dict)
-    for r in csv.DictReader(open(ROOT / "data/processed/macro_totals.csv")):
-        if not r["value_crore"]:
-            continue
-        fy, est = r["fiscal_year"], r["estimate"]
-        if est == "BE" and r["budget"] != fy:  # a year's BE as announced in its own budget
-            continue
-        if est == "RE" and int(r["budget"][:4]) != int(fy[:4]) + 1:
-            continue
-        vals[(fy, r["metric"])][est] = float(r["value_crore"])
-    out = []
-    for (fy, metric), v in sorted(vals.items()):
-        out.append({"fiscal_year": fy, "government": term(fy), "metric": metric,
-                    "be": v.get("BE"), "re": v.get("RE"), "actual": v.get("Actual")})
-    return out
 
 
 def scheme_groups() -> dict[str, list[dict]]:
@@ -184,7 +168,6 @@ def write(name: str, rows: list[dict]) -> None:
 
 
 if __name__ == "__main__":
-    write("macro_by_year.csv", macro_panel())
     ministries, schemes, coverage = panels()
     write("ministry_by_year.csv", ministries)
     write("scheme_by_year.csv", schemes)

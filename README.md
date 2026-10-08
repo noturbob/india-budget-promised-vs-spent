@@ -64,8 +64,9 @@ All money in ₹ crore; 1 lakh crore = ₹1,00,000 crore.
 flowchart LR
   A["32 official PDFs & pages<br>indiabudget.gov.in"] --> B["pipeline/<br>download · checksum · extract"]
   B --> C["data/processed/<br>macro_totals · scheme_lines"]
-  C --> D["analysis/<br>link BE → RE → Actual<br>per ministry & scheme"]
-  D --> E["app/data/story.json"]
+  C --> D["analysis/panels.py<br>link BE → RE → Actual<br>per ministry & scheme"]
+  D --> S["sql/*.sql<br>every number, in DuckDB"]
+  S --> E["app/data/story.json"]
   E --> F["Story app<br>Next.js + GSAP"]
 ```
 
@@ -75,17 +76,23 @@ flowchart LR
 - **The pipeline refuses to produce wrong numbers.** Every statement must satisfy the budget's own accounting
   identities, every ministry must add up to its printed total, and the two kinds of document must agree with
   each other to the crore. If any check fails, no CSV is written. The full list is below.
+- **Every number is computed in SQL.** Once the documents are linked, each question is one file in `sql/`,
+  run with DuckDB: the yearly panel, each government's scorecard, the ministry ranking, how often schemes
+  underspend, the ₹100 grid (with largest-remainder rounding in window functions), the grand total and the
+  waterfall. Each chart on the site has a **"Show the SQL"** panel with the exact query behind it.
+- **Only one step stays in Python:** matching each scheme from one year's document to the next. It walks the
+  printed lines in order and falls back from name to amount, which is a loop, not a query.
 - **The story app reads one file,** `app/data/story.json`, so every figure on the site can be traced back to
-  a line of analysis code and a page of a government PDF.
+  a SQL query and a page of a government PDF.
 
-**Built with:** Python (standard library only) and `pdftotext` for the pipeline; Next.js, TypeScript,
-Tailwind CSS and GSAP for the story.
+**Built with:** SQL (DuckDB) for the analysis; Python and `pdftotext` for extraction and checks; Next.js,
+TypeScript, Tailwind CSS and GSAP for the story.
 
 ## Run it yourself
 
 ```bash
-pipeline/run_all.sh                                   # Python 3.10+ and poppler's pdftotext; no pip packages
-python3 analysis/panels.py && python3 analysis/findings.py
+uv sync                                  # DuckDB, the only Python dependency
+pipeline/run_all.sh                      # download, extract (needs poppler's pdftotext), link, run sql/
 cd app && pnpm install && pnpm dev
 ```
 
@@ -102,9 +109,19 @@ cd app && pnpm install && pnpm dev
 │   ├── 03_extract_schemes.py   Expenditure Budget → data/processed/scheme_lines.csv
 │   └── run_all.sh              rebuilds data/ end to end; fails if any check fails
 ├── analysis/                   code; run after the pipeline
-│   ├── panels.py               links documents into per-year BE/RE/Actual panels → data/analysis/*_by_year.csv
+│   ├── panels.py               links ministries and schemes across documents → data/analysis/{ministry,scheme}_by_year.csv
 │   ├── flagships.py            name patterns that define the 21 flagship schemes (auditable list)
-│   └── findings.py             every number the story uses → app/data/story.json, flagship_by_year.csv
+│   └── findings.py             runs sql/ with DuckDB and writes app/data/story.json
+├── sql/                        every number in the story, one question per file
+│   ├── 00_sources.sql          views over the CSVs, and the year → government rule
+│   ├── 01_macro_by_year.sql    BE, RE and Actual for every headline metric and year
+│   ├── 02_government_scorecard.sql   median gaps per government
+│   ├── 03_ministries.sql, 04_ministry_explorer.sql   ranking and year-by-year drill-down
+│   ├── 05_underspending.sql, 06_underspending_totals.sql   how often programmes underspend
+│   ├── 07_publicity.sql        publicity and advertising lines
+│   ├── 08_every_100_rupees.sql the ₹100 grid, largest-remainder rounding
+│   ├── 09_the_bill.sql         the grand total
+│   └── 10_waterfall_spending.sql, 11_waterfall_funding.sql   the latest year, traced
 ├── app/                        the story app (Next.js + GSAP); reads only app/data/story.json
 │   ├── app/page.tsx            the chapters, all copy and numbers computed from story.json
 │   ├── components/             Hero, GapLine, GovStepper, Waffle, MinistrySankey, ReadoutChart, GrandTotal, TallyFooter, charts/
@@ -126,7 +143,7 @@ cd app && pnpm install && pnpm dev
         └── flagship_by_year.csv    21 flagship schemes, all their budget lines combined
 ```
 
-Rebuild everything: `pipeline/run_all.sh` (needs Python 3.10+ and `pdftotext` from poppler; no pip packages).
+Rebuild everything: `pipeline/run_all.sh` (needs Python 3.12+, `uv` for DuckDB, and `pdftotext` from poppler).
 
 ## Sources: what was used for what
 
@@ -229,7 +246,7 @@ Each script exits with an error if any of these checks fails, so the CSVs only e
 - **Governments.** Each fiscal year is assigned to the government that presented its budget: UPA-1 to
   2008-09, UPA-2 to 2013-14, NDA-1 to 2018-19, NDA-2 to 2023-24, NDA-3 after.
 
-Run: `python3 analysis/panels.py && python3 analysis/findings.py`
+Run: `python3 analysis/panels.py && uv run python analysis/findings.py`
 
 ## The story app
 

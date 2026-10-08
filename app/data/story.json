@@ -1838,62 +1838,6 @@
   }
  ],
  "explorer": {
-  "Ministry of Agriculture and Farmers Welfare": [
-   {
-    "fy": "2016-17",
-    "be": 44485.200000000004,
-    "re": 48072.5,
-    "actual": 44499.71000000001
-   },
-   {
-    "fy": "2017-18",
-    "be": 51026.0,
-    "re": 50263.74,
-    "actual": 46361.74
-   },
-   {
-    "fy": "2018-19",
-    "be": 54500.0,
-    "re": 75752.73,
-    "actual": 53620.44
-   },
-   {
-    "fy": "2019-20",
-    "be": 138563.97,
-    "re": 109750.17,
-    "actual": 101774.98999999999
-   },
-   {
-    "fy": "2020-21",
-    "be": 142762.34999999998,
-    "re": 124520.3,
-    "actual": 115826.6
-   },
-   {
-    "fy": "2021-22",
-    "be": 131531.19,
-    "re": 126807.86,
-    "actual": 122835.56999999999
-   },
-   {
-    "fy": "2022-23",
-    "be": 132513.62,
-    "re": 118913.42,
-    "actual": 108276.73
-   },
-   {
-    "fy": "2023-24",
-    "be": 125035.79,
-    "re": 126665.56000000001,
-    "actual": 118146.55
-   },
-   {
-    "fy": "2024-25",
-    "be": 132469.86000000002,
-    "re": 141351.56,
-    "actual": 139744.0
-   }
-  ],
   "Department of Atomic Energy": [
    {
     "fy": "2016-17",
@@ -1948,6 +1892,118 @@
     "be": 24968.98,
     "re": 24450.66,
     "actual": 25092.58
+   }
+  ],
+  "Department of Space": [
+   {
+    "fy": "2016-17",
+    "be": 7509.14,
+    "re": 8045.28,
+    "actual": 7988.87
+   },
+   {
+    "fy": "2017-18",
+    "be": 9093.71,
+    "re": 9155.52,
+    "actual": 9127.16
+   },
+   {
+    "fy": "2018-19",
+    "be": 10783.42,
+    "re": 11200.0,
+    "actual": 11188.37
+   },
+   {
+    "fy": "2019-20",
+    "be": 12473.26,
+    "re": 13139.26,
+    "actual": 13017.61
+   },
+   {
+    "fy": "2020-21",
+    "be": 13479.47,
+    "re": 9500.0,
+    "actual": 9474.41
+   },
+   {
+    "fy": "2021-22",
+    "be": 13949.09,
+    "re": 12642.0,
+    "actual": 12473.84
+   },
+   {
+    "fy": "2022-23",
+    "be": 13700.0,
+    "re": 10530.04,
+    "actual": 10139.43
+   },
+   {
+    "fy": "2023-24",
+    "be": 12543.91,
+    "re": 11070.07,
+    "actual": 10704.07
+   },
+   {
+    "fy": "2024-25",
+    "be": 13042.75,
+    "re": 11725.75,
+    "actual": 10949.4
+   }
+  ],
+  "Ministry of Agriculture and Farmers Welfare": [
+   {
+    "fy": "2016-17",
+    "be": 44485.200000000004,
+    "re": 48072.5,
+    "actual": 44499.71000000001
+   },
+   {
+    "fy": "2017-18",
+    "be": 51026.0,
+    "re": 50263.74,
+    "actual": 46361.74
+   },
+   {
+    "fy": "2018-19",
+    "be": 54500.0,
+    "re": 75752.73,
+    "actual": 53620.44
+   },
+   {
+    "fy": "2019-20",
+    "be": 138563.97,
+    "re": 109750.17,
+    "actual": 101774.98999999999
+   },
+   {
+    "fy": "2020-21",
+    "be": 142762.34999999998,
+    "re": 124520.3,
+    "actual": 115826.6
+   },
+   {
+    "fy": "2021-22",
+    "be": 131531.19,
+    "re": 126807.86,
+    "actual": 122835.56999999999
+   },
+   {
+    "fy": "2022-23",
+    "be": 132513.62,
+    "re": 118913.42,
+    "actual": 108276.73
+   },
+   {
+    "fy": "2023-24",
+    "be": 125035.79,
+    "re": 126665.56000000001,
+    "actual": 118146.55
+   },
+   {
+    "fy": "2024-25",
+    "be": 132469.86000000002,
+    "re": 141351.56,
+    "actual": 139744.0
    }
   ],
   "Ministry of Ayush": [
@@ -2566,62 +2622,6 @@
     "actual": 3370.62
    }
   ],
-  "Ministry of Jal Shakti": [
-   {
-    "fy": "2016-17",
-    "be": 20210.91,
-    "re": 21267.26,
-    "actual": 21189.83
-   },
-   {
-    "fy": "2017-18",
-    "be": 26897.79,
-    "re": 31671.18,
-    "actual": 29252.24
-   },
-   {
-    "fy": "2018-19",
-    "be": 31216.6,
-    "re": 27605.49,
-    "actual": 25833.620000000003
-   },
-   {
-    "fy": "2019-20",
-    "be": 28261.59,
-    "re": 25878.21,
-    "actual": 25682.86
-   },
-   {
-    "fy": "2020-21",
-    "be": 30478.489999999998,
-    "re": 24285.59,
-    "actual": 23199.39
-   },
-   {
-    "fy": "2021-22",
-    "be": 69053.01999999999,
-    "re": 69045.6,
-    "actual": 83466.85
-   },
-   {
-    "fy": "2022-23",
-    "be": 86189.0,
-    "re": 74029.12,
-    "actual": 71617.56
-   },
-   {
-    "fy": "2023-24",
-    "be": 97277.67,
-    "re": 96549.56999999999,
-    "actual": 95108.97
-   },
-   {
-    "fy": "2024-25",
-    "be": 98713.78,
-    "re": 51557.56,
-    "actual": 46719.9
-   }
-  ],
   "Ministry of Earth Sciences": [
    {
     "fy": "2016-17",
@@ -2676,6 +2676,62 @@
     "be": 3064.8,
     "re": 3632.78,
     "actual": 3371.17
+   }
+  ],
+  "Ministry of Education": [
+   {
+    "fy": "2016-17",
+    "be": 72394.0,
+    "re": 73599.24,
+    "actual": 72015.76000000001
+   },
+   {
+    "fy": "2017-18",
+    "be": 79685.95,
+    "re": 81868.70999999999,
+    "actual": 80214.67000000001
+   },
+   {
+    "fy": "2018-19",
+    "be": 85010.29000000001,
+    "re": 83625.86,
+    "actual": 80344.84
+   },
+   {
+    "fy": "2019-20",
+    "be": 94853.64,
+    "re": 94853.64,
+    "actual": 89436.56
+   },
+   {
+    "fy": "2020-21",
+    "be": 99311.51999999999,
+    "re": 85089.07,
+    "actual": 84219.4
+   },
+   {
+    "fy": "2021-22",
+    "be": 93224.31,
+    "re": 88001.51999999999,
+    "actual": 80352.42000000001
+   },
+   {
+    "fy": "2022-23",
+    "be": 104277.72,
+    "re": 99881.13,
+    "actual": 97196.36
+   },
+   {
+    "fy": "2023-24",
+    "be": 112899.47,
+    "re": 129718.28,
+    "actual": 123364.95999999999
+   },
+   {
+    "fy": "2024-25",
+    "be": 120627.87,
+    "re": 114053.54999999999,
+    "actual": 110735.76999999999
    }
   ],
   "Ministry of Electronics and Information Technology": [
@@ -2902,6 +2958,50 @@
     "actual": 1773337.1
    }
   ],
+  "Ministry of Fisheries, Animal Husbandry and Dairying": [
+   {
+    "fy": "2018-19",
+    "be": 3100.0,
+    "re": 3273.01,
+    "actual": 3170.8
+   },
+   {
+    "fy": "2019-20",
+    "be": 3737.0,
+    "re": 3490.0,
+    "actual": 3363.11
+   },
+   {
+    "fy": "2020-21",
+    "be": 4114.13,
+    "re": 3556.81,
+    "actual": 3346.17
+   },
+   {
+    "fy": "2021-22",
+    "be": 4322.82,
+    "re": 4121.04,
+    "actual": 3943.08
+   },
+   {
+    "fy": "2022-23",
+    "be": 6037.3099999999995,
+    "re": 4729.35,
+    "actual": 3609.9900000000002
+   },
+   {
+    "fy": "2023-24",
+    "be": 6576.620000000001,
+    "re": 5614.93,
+    "actual": 4487.92
+   },
+   {
+    "fy": "2024-25",
+    "be": 7137.68,
+    "re": 5505.72,
+    "actual": 3986.3100000000004
+   }
+  ],
   "Ministry of Food Processing Industries": [
    {
     "fy": "2016-17",
@@ -3126,60 +3226,54 @@
     "actual": 224585.19999999998
    }
   ],
-  "Ministry of Education": [
-   {
-    "fy": "2016-17",
-    "be": 72394.0,
-    "re": 73599.24,
-    "actual": 72015.76000000001
-   },
+  "Ministry of Housing and Urban Affairs": [
    {
     "fy": "2017-18",
-    "be": 79685.95,
-    "re": 81868.70999999999,
-    "actual": 80214.67000000001
+    "be": 40617.84,
+    "re": 40753.84,
+    "actual": 40061.02
    },
    {
     "fy": "2018-19",
-    "be": 85010.29000000001,
-    "re": 83625.86,
-    "actual": 80344.84
+    "be": 41765.13,
+    "re": 42965.13,
+    "actual": 40611.87
    },
    {
     "fy": "2019-20",
-    "be": 94853.64,
-    "re": 94853.64,
-    "actual": 89436.56
+    "be": 48032.17,
+    "re": 42266.72,
+    "actual": 42054.36
    },
    {
     "fy": "2020-21",
-    "be": 99311.51999999999,
-    "re": 85089.07,
-    "actual": 84219.4
+    "be": 50039.9,
+    "re": 46790.99,
+    "actual": 46700.96
    },
    {
     "fy": "2021-22",
-    "be": 93224.31,
-    "re": 88001.51999999999,
-    "actual": 80352.42000000001
+    "be": 54581.0,
+    "re": 73850.26,
+    "actual": 106840.46
    },
    {
     "fy": "2022-23",
-    "be": 104277.72,
-    "re": 99881.13,
-    "actual": 97196.36
+    "be": 76549.46,
+    "re": 74545.64,
+    "actual": 77310.23
    },
    {
     "fy": "2023-24",
-    "be": 112899.47,
-    "re": 129718.28,
-    "actual": 123364.95999999999
+    "be": 76431.6,
+    "re": 69270.72,
+    "actual": 68564.88
    },
    {
     "fy": "2024-25",
-    "be": 120627.87,
-    "re": 114053.54999999999,
-    "actual": 110735.76999999999
+    "be": 82576.57,
+    "re": 63669.93,
+    "actual": 53255.15
    }
   ],
   "Ministry of Information and Broadcasting": [
@@ -3236,6 +3330,62 @@
     "be": 4342.55,
     "re": 4626.71,
     "actual": 4301.82
+   }
+  ],
+  "Ministry of Jal Shakti": [
+   {
+    "fy": "2016-17",
+    "be": 20210.91,
+    "re": 21267.26,
+    "actual": 21189.83
+   },
+   {
+    "fy": "2017-18",
+    "be": 26897.79,
+    "re": 31671.18,
+    "actual": 29252.24
+   },
+   {
+    "fy": "2018-19",
+    "be": 31216.6,
+    "re": 27605.49,
+    "actual": 25833.620000000003
+   },
+   {
+    "fy": "2019-20",
+    "be": 28261.59,
+    "re": 25878.21,
+    "actual": 25682.86
+   },
+   {
+    "fy": "2020-21",
+    "be": 30478.489999999998,
+    "re": 24285.59,
+    "actual": 23199.39
+   },
+   {
+    "fy": "2021-22",
+    "be": 69053.01999999999,
+    "re": 69045.6,
+    "actual": 83466.85
+   },
+   {
+    "fy": "2022-23",
+    "be": 86189.0,
+    "re": 74029.12,
+    "actual": 71617.56
+   },
+   {
+    "fy": "2023-24",
+    "be": 97277.67,
+    "re": 96549.56999999999,
+    "actual": 95108.97
+   },
+   {
+    "fy": "2024-25",
+    "be": 98713.78,
+    "re": 51557.56,
+    "actual": 46719.9
    }
   ],
   "Ministry of Labour and Employment": [
@@ -3798,6 +3948,62 @@
     "actual": 280.43
    }
   ],
+  "Ministry of Ports, Shipping and Waterways": [
+   {
+    "fy": "2016-17",
+    "be": 1531.0,
+    "re": 1454.0,
+    "actual": 1329.68
+   },
+   {
+    "fy": "2017-18",
+    "be": 1773.0,
+    "re": 1568.21,
+    "actual": 1489.28
+   },
+   {
+    "fy": "2018-19",
+    "be": 1881.13,
+    "re": 1938.76,
+    "actual": 1813.22
+   },
+   {
+    "fy": "2019-20",
+    "be": 1902.56,
+    "re": 1523.4,
+    "actual": 1569.08
+   },
+   {
+    "fy": "2020-21",
+    "be": 1800.0,
+    "re": 1433.65,
+    "actual": 1387.7
+   },
+   {
+    "fy": "2021-22",
+    "be": 1702.35,
+    "re": 1585.37,
+    "actual": 1527.55
+   },
+   {
+    "fy": "2022-23",
+    "be": 1709.5,
+    "re": 1793.37,
+    "actual": 1687.7
+   },
+   {
+    "fy": "2023-24",
+    "be": 2218.74,
+    "re": 2395.12,
+    "actual": 2230.63
+   },
+   {
+    "fy": "2024-25",
+    "be": 2377.49,
+    "re": 2858.54,
+    "actual": 2837.58
+   }
+  ],
   "Ministry of Power": [
    {
     "fy": "2016-17",
@@ -3852,62 +4058,6 @@
     "be": 20502.0,
     "re": 19845.0,
     "actual": 19713.78
-   }
-  ],
-  "The President, Parliament, Union Public Service Commission and The Secretariat of The Vice President": [
-   {
-    "fy": "2016-17",
-    "be": 1275.6999999999998,
-    "re": 1323.66,
-    "actual": 1222.24
-   },
-   {
-    "fy": "2017-18",
-    "be": 1352.1499999999999,
-    "re": 1345.3999999999999,
-    "actual": 1249.82
-   },
-   {
-    "fy": "2018-19",
-    "be": 1526.1399999999999,
-    "re": 1579.0400000000002,
-    "actual": 1432.52
-   },
-   {
-    "fy": "2019-20",
-    "be": 1593.25,
-    "re": 1569.26,
-    "actual": 1411.18
-   },
-   {
-    "fy": "2020-21",
-    "be": 1641.0,
-    "re": 1426.11,
-    "actual": 1265.3
-   },
-   {
-    "fy": "2021-22",
-    "be": 1687.5700000000002,
-    "re": 1499.48,
-    "actual": 1353.3500000000001
-   },
-   {
-    "fy": "2022-23",
-    "be": 1649.63,
-    "re": 1652.18,
-    "actual": 1508.1
-   },
-   {
-    "fy": "2023-24",
-    "be": 1785.86,
-    "re": 1744.3999999999999,
-    "actual": 1636.0100000000002
-   },
-   {
-    "fy": "2024-25",
-    "be": 1884.92,
-    "re": 1846.46,
-    "actual": 1669.74
    }
   ],
   "Ministry of Railways": [
@@ -4134,62 +4284,6 @@
     "actual": 13197.759999999998
    }
   ],
-  "Ministry of Ports, Shipping and Waterways": [
-   {
-    "fy": "2016-17",
-    "be": 1531.0,
-    "re": 1454.0,
-    "actual": 1329.68
-   },
-   {
-    "fy": "2017-18",
-    "be": 1773.0,
-    "re": 1568.21,
-    "actual": 1489.28
-   },
-   {
-    "fy": "2018-19",
-    "be": 1881.13,
-    "re": 1938.76,
-    "actual": 1813.22
-   },
-   {
-    "fy": "2019-20",
-    "be": 1902.56,
-    "re": 1523.4,
-    "actual": 1569.08
-   },
-   {
-    "fy": "2020-21",
-    "be": 1800.0,
-    "re": 1433.65,
-    "actual": 1387.7
-   },
-   {
-    "fy": "2021-22",
-    "be": 1702.35,
-    "re": 1585.37,
-    "actual": 1527.55
-   },
-   {
-    "fy": "2022-23",
-    "be": 1709.5,
-    "re": 1793.37,
-    "actual": 1687.7
-   },
-   {
-    "fy": "2023-24",
-    "be": 2218.74,
-    "re": 2395.12,
-    "actual": 2230.63
-   },
-   {
-    "fy": "2024-25",
-    "be": 2377.49,
-    "re": 2858.54,
-    "actual": 2837.58
-   }
-  ],
   "Ministry of Skill Development and Entrepreneurship": [
    {
     "fy": "2016-17",
@@ -4300,62 +4394,6 @@
     "be": 14225.470000000001,
     "re": 11193.67,
     "actual": 10114.85
-   }
-  ],
-  "Department of Space": [
-   {
-    "fy": "2016-17",
-    "be": 7509.14,
-    "re": 8045.28,
-    "actual": 7988.87
-   },
-   {
-    "fy": "2017-18",
-    "be": 9093.71,
-    "re": 9155.52,
-    "actual": 9127.16
-   },
-   {
-    "fy": "2018-19",
-    "be": 10783.42,
-    "re": 11200.0,
-    "actual": 11188.37
-   },
-   {
-    "fy": "2019-20",
-    "be": 12473.26,
-    "re": 13139.26,
-    "actual": 13017.61
-   },
-   {
-    "fy": "2020-21",
-    "be": 13479.47,
-    "re": 9500.0,
-    "actual": 9474.41
-   },
-   {
-    "fy": "2021-22",
-    "be": 13949.09,
-    "re": 12642.0,
-    "actual": 12473.84
-   },
-   {
-    "fy": "2022-23",
-    "be": 13700.0,
-    "re": 10530.04,
-    "actual": 10139.43
-   },
-   {
-    "fy": "2023-24",
-    "be": 12543.91,
-    "re": 11070.07,
-    "actual": 10704.07
-   },
-   {
-    "fy": "2024-25",
-    "be": 13042.75,
-    "re": 11725.75,
-    "actual": 10949.4
    }
   ],
   "Ministry of Statistics and Programme Implementation": [
@@ -4694,98 +4732,60 @@
     "actual": 2710.73
    }
   ],
-  "Ministry of Housing and Urban Affairs": [
+  "The President, Parliament, Union Public Service Commission and The Secretariat of The Vice President": [
+   {
+    "fy": "2016-17",
+    "be": 1275.6999999999998,
+    "re": 1323.66,
+    "actual": 1222.24
+   },
    {
     "fy": "2017-18",
-    "be": 40617.84,
-    "re": 40753.84,
-    "actual": 40061.02
+    "be": 1352.1499999999999,
+    "re": 1345.3999999999999,
+    "actual": 1249.82
    },
    {
     "fy": "2018-19",
-    "be": 41765.13,
-    "re": 42965.13,
-    "actual": 40611.87
+    "be": 1526.1399999999999,
+    "re": 1579.0400000000002,
+    "actual": 1432.52
    },
    {
     "fy": "2019-20",
-    "be": 48032.17,
-    "re": 42266.72,
-    "actual": 42054.36
+    "be": 1593.25,
+    "re": 1569.26,
+    "actual": 1411.18
    },
    {
     "fy": "2020-21",
-    "be": 50039.9,
-    "re": 46790.99,
-    "actual": 46700.96
+    "be": 1641.0,
+    "re": 1426.11,
+    "actual": 1265.3
    },
    {
     "fy": "2021-22",
-    "be": 54581.0,
-    "re": 73850.26,
-    "actual": 106840.46
+    "be": 1687.5700000000002,
+    "re": 1499.48,
+    "actual": 1353.3500000000001
    },
    {
     "fy": "2022-23",
-    "be": 76549.46,
-    "re": 74545.64,
-    "actual": 77310.23
+    "be": 1649.63,
+    "re": 1652.18,
+    "actual": 1508.1
    },
    {
     "fy": "2023-24",
-    "be": 76431.6,
-    "re": 69270.72,
-    "actual": 68564.88
+    "be": 1785.86,
+    "re": 1744.3999999999999,
+    "actual": 1636.0100000000002
    },
    {
     "fy": "2024-25",
-    "be": 82576.57,
-    "re": 63669.93,
-    "actual": 53255.15
-   }
-  ],
-  "Ministry of Fisheries, Animal Husbandry and Dairying": [
-   {
-    "fy": "2018-19",
-    "be": 3100.0,
-    "re": 3273.01,
-    "actual": 3170.8
-   },
-   {
-    "fy": "2019-20",
-    "be": 3737.0,
-    "re": 3490.0,
-    "actual": 3363.11
-   },
-   {
-    "fy": "2020-21",
-    "be": 4114.13,
-    "re": 3556.81,
-    "actual": 3346.17
-   },
-   {
-    "fy": "2021-22",
-    "be": 4322.82,
-    "re": 4121.04,
-    "actual": 3943.08
-   },
-   {
-    "fy": "2022-23",
-    "be": 6037.3099999999995,
-    "re": 4729.35,
-    "actual": 3609.9900000000002
-   },
-   {
-    "fy": "2023-24",
-    "be": 6576.620000000001,
-    "re": 5614.93,
-    "actual": 4487.92
-   },
-   {
-    "fy": "2024-25",
-    "be": 7137.68,
-    "re": 5505.72,
-    "actual": 3986.3100000000004
+    "be": 1884.92,
+    "re": 1846.46,
+    "actual": 1669.74
    }
   ]
  },
@@ -6194,7 +6194,7 @@
   ],
   "lines": 4775,
   "under_half": 717,
-  "under_half_gap": 739069.63
+  "under_half_gap": 739069.6300000006
  },
  "publicity": {
   "series": [
@@ -6309,7 +6309,7 @@
    },
    {
     "name": "Health and education",
-    "crore": 245819.89999999997,
+    "crore": 245819.9,
     "squares": 5
    },
    {
@@ -6319,7 +6319,7 @@
    },
    {
     "name": "Everything else",
-    "crore": 831131.5199999985,
+    "crore": 831131.5199999991,
     "squares": 15
    }
   ]
@@ -6340,10 +6340,10 @@
    "2016-17",
    "2024-25"
   ],
-  "ministry_budgeted": 29115519.97,
-  "ministry_spent": 29672955.06,
-  "never_spent": 1705303.62,
-  "beyond_budget": 2262738.71
+  "ministry_budgeted": 29115519.97000001,
+  "ministry_spent": 29672955.06000001,
+  "never_spent": 1705303.6199999999,
+  "beyond_budget": 2262738.709999999
  },
  "waterfall": {
   "fy": "2024-25",
@@ -6425,7 +6425,7 @@
    },
    {
     "demand": "61 other departments that underspent",
-    "value": -75909.14999999998,
+    "value": -75909.14999999997,
     "why": null
    },
    {
@@ -6479,7 +6479,21 @@
     "value": -38881.0
    }
   ],
-  "gross_under": -292174.29,
-  "gross_over": 124529.61000000002
+  "gross_under": -292174.2899999999,
+  "gross_over": 124529.61000000003
+ },
+ "sql": {
+  "00_sources": "-- The tables every query reads, straight from the CSVs the pipeline wrote.\n-- Run by analysis/findings.py; paths are relative to the project root.\n\nCREATE OR REPLACE VIEW macro_lines AS            -- every headline number from Budget at a Glance\nSELECT * FROM read_csv('data/processed/macro_totals.csv', header = true);\n\nCREATE OR REPLACE VIEW scheme_lines AS           -- every line of every ministry's allocation table\nSELECT * FROM read_csv('data/processed/scheme_lines.csv', header = true, all_varchar = false);\n\n-- The government that presented the budget for a fiscal year such as '2016-17'.\nCREATE OR REPLACE MACRO government(fy) AS\n    CASE WHEN fy[1:4]::INT <= 2008 THEN 'UPA-1'\n         WHEN fy[1:4]::INT <= 2013 THEN 'UPA-2'\n         WHEN fy[1:4]::INT <= 2018 THEN 'NDA-1'\n         WHEN fy[1:4]::INT <= 2023 THEN 'NDA-2'\n         ELSE 'NDA-3' END;\n",
+  "01_macro_by_year": "-- For each fiscal year and headline metric: what the budget promised (BE), the mid-year\n-- revision (RE) and what was actually spent or collected (Actual).\n-- A year's BE is read from its own budget, its RE from the next one, its Actual from the one\n-- two years later. Budget at a Glance prints all three, so each number has exactly one source.\nCREATE OR REPLACE TABLE macro_by_year AS\nWITH picked AS (\n    SELECT fiscal_year, metric, estimate, value_crore\n    FROM macro_lines\n    WHERE value_crore IS NOT NULL\n      AND (   (estimate = 'BE'     AND budget = fiscal_year)\n           OR (estimate = 'RE'     AND budget[1:4]::INT = fiscal_year[1:4]::INT + 1)\n           OR  estimate = 'Actual')\n)\nSELECT fiscal_year,\n       government(fiscal_year)                              AS government,\n       metric,\n       max(value_crore) FILTER (WHERE estimate = 'BE')      AS be,\n       max(value_crore) FILTER (WHERE estimate = 'RE')      AS re,\n       max(value_crore) FILTER (WHERE estimate = 'Actual')  AS actual\nFROM picked\nGROUP BY fiscal_year, metric\nORDER BY fiscal_year, metric;\n\nCOPY macro_by_year TO 'data/analysis/macro_by_year.csv' (HEADER);\n",
+  "02_government_scorecard": "-- How each government's budgets compared with what actually happened.\n-- Deviation = actual / budgeted - 1, per year; the scorecard shows the median year, so one crisis\n-- year (2008-09, 2020-21) doesn't dominate a whole term.\nWITH yr AS (\n    SELECT fiscal_year, government,\n           max(be)     FILTER (WHERE metric = 'total_expenditure')   AS total_be,\n           max(actual) FILTER (WHERE metric = 'total_expenditure')   AS total_actual,\n           max(be)     FILTER (WHERE metric = 'capital_expenditure') AS capex_be,\n           max(actual) FILTER (WHERE metric = 'capital_expenditure') AS capex_actual,\n           max(be)     FILTER (WHERE metric = 'tax_revenue_net')     AS tax_be,\n           max(actual) FILTER (WHERE metric = 'tax_revenue_net')     AS tax_actual,\n           max(be)     FILTER (WHERE metric = 'fiscal_deficit')      AS fd_be,\n           max(actual) FILTER (WHERE metric = 'fiscal_deficit')      AS fd_actual,\n           max(be)     FILTER (WHERE metric = 'other_receipts')      AS disinv_be,      -- mostly asset sales\n           max(actual) FILTER (WHERE metric = 'other_receipts')      AS disinv_actual\n    FROM macro_by_year\n    GROUP BY fiscal_year, government\n)\nSELECT government,\n       list(fiscal_year ORDER BY fiscal_year)                                     AS years,\n       median(total_actual / total_be - 1)                                        AS total_median_dev,\n       median(capex_actual / capex_be - 1) FILTER (WHERE capex_be <> 0)           AS capex_median_dev,\n       median(tax_actual / tax_be - 1)     FILTER (WHERE tax_be <> 0)             AS tax_median_dev,\n       median(fd_actual / fd_be - 1)       FILTER (WHERE fd_be <> 0)              AS fiscal_deficit_median_dev,\n       count(*) FILTER (WHERE capex_be <> 0 AND capex_actual / capex_be - 1 < -0.02) AS capex_short_years,\n       count(*) FILTER (WHERE disinv_be <> 0 AND disinv_actual < disinv_be)       AS disinvestment_missed_years,\n       coalesce(sum(disinv_be), 0)                                                AS disinvestment_be,\n       coalesce(sum(disinv_actual), 0)                                            AS disinvestment_actual\nFROM yr\nWHERE total_be <> 0 AND total_actual IS NOT NULL      -- only years with audited accounts\nGROUP BY government\nORDER BY min(fiscal_year);\n",
+  "03_ministries": "-- Every ministry, all years 2016-17 to 2024-25 combined: how much of its budget it actually used.\n-- Small ministries (under \u20b920,000 crore over the period) are left out of the ranking.\nSELECT ministry,\n       sum(be)                       AS be,\n       sum(re)                       AS re,\n       sum(actual)                   AS actual,\n       sum(actual) / sum(be)         AS use,\n       count(DISTINCT fiscal_year)   AS years\nFROM read_csv('data/analysis/ministry_by_year.csv', header = true)\nGROUP BY ministry\nHAVING sum(be) >= 20000\nORDER BY use;\n",
+  "04_ministry_explorer": "-- Year by year for each ministry, for the drill-down panel (ministries with \u20b95,000 crore+ in total).\nWITH yearly AS (\n    SELECT ministry, fiscal_year AS fy, sum(be) AS be, sum(re) AS re, sum(actual) AS actual\n    FROM read_csv('data/analysis/ministry_by_year.csv', header = true)\n    GROUP BY ministry, fiscal_year\n)\nSELECT *\nFROM yearly\nWHERE ministry IN (SELECT ministry FROM yearly GROUP BY ministry HAVING sum(be) >= 5000)\nORDER BY ministry, fy;\n",
+  "05_underspending": "-- How common is underspending? Each programme line with a budget of \u20b9100 crore or more, per year:\n-- the share that spent under 75% of its budget, and the share that spent over 110%.\n-- Left out: lines that only move money between funds or accounts, and the Finance and Railways\n-- ministries, whose lines are mostly transfers, debt service and commercial accounts.\nCREATE OR REPLACE TABLE programmes AS\nSELECT *, actual / be AS used\nFROM read_csv('data/analysis/scheme_by_year.csv', header = true)\nWHERE be >= 100\n  AND NOT regexp_matches(scheme, '(?i)^(transfer to|amount met|less\\b|support from|interest|repayment|suspense|.*suspense)')\n  AND ministry NOT IN ('MINISTRY OF FINANCE', 'MINISTRY OF RAILWAYS');\n\nSELECT fiscal_year                                   AS fy,\n       count(*)                                      AS schemes,\n       avg(CASE WHEN used < 0.75 THEN 1 ELSE 0 END)  AS under75,\n       avg(CASE WHEN used > 1.10 THEN 1 ELSE 0 END)  AS over110\nFROM programmes\nGROUP BY fiscal_year\nORDER BY fiscal_year;\n",
+  "06_underspending_totals": "-- Across all years: how many programme-years spent less than half their budget, and how much\n-- money that left unspent.\nSELECT count(*)                                               AS lines,\n       count(*) FILTER (WHERE actual < 0.5 * be)              AS under_half,\n       coalesce(sum(be - actual) FILTER (WHERE actual < 0.5 * be), 0) AS under_half_gap\nFROM programmes;\n",
+  "07_publicity": "-- Government publicity and advertising lines, found by name, budgeted vs spent each year.\nCREATE OR REPLACE TABLE publicity AS\nSELECT *\nFROM read_csv('data/analysis/scheme_by_year.csv', header = true)\nWHERE regexp_matches(scheme, '(?i)publicity|advertis|information dissemination|information,? education and communication|mass communication|media plan|media and publicity');\n\nSELECT fiscal_year AS fy, sum(be) AS be, sum(actual) AS actual\nFROM publicity\nGROUP BY fiscal_year\nORDER BY fiscal_year;\n",
+  "08_every_100_rupees": "-- Where every \u20b9100 of the newest budget goes: each budget line is put in the first plain-English\n-- bucket whose rule it matches, then the buckets are drawn as 100 squares. Squares are rounded\n-- down, and the leftover squares go to the buckets with the largest remainders, so they total 100.\nWITH latest AS (\n    SELECT max(budget) AS budget FROM scheme_lines\n), bucketed AS (\n    SELECT CASE\n             WHEN demand = 'Interest Payments'                                   THEN 1\n             WHEN ministry LIKE '%DEFENCE%'                                      THEN 2\n             WHEN ministry LIKE '%ROAD TRANSPORT%' OR ministry LIKE '%RAILWAYS%' THEN 3\n             WHEN demand LIKE 'Transfers to%'                                    THEN 4\n             WHEN demand IN ('Department of Food and Public Distribution', 'Department of Fertilisers') THEN 5\n             WHEN ministry LIKE '%RURAL DEVELOPMENT%' OR ministry LIKE '%AGRICULTURE%' THEN 6\n             WHEN ministry LIKE '%HOME AFFAIRS%'                                 THEN 7\n             WHEN ministry LIKE '%HEALTH%' OR ministry LIKE '%EDUCATION%'        THEN 8\n             WHEN demand = 'Pensions'                                            THEN 9\n             ELSE 10 END AS bucket,\n           be_total\n    FROM scheme_lines\n    WHERE budget = (SELECT budget FROM latest)\n      AND row_type IN ('item', 'sub', 'unlabelled', 'other')     -- leaf lines only, never subtotals\n), names(bucket, name) AS (\n    VALUES (1, 'Interest on past borrowing'), (2, 'Defence'), (3, 'Roads and railways'), (4, 'Transfers to states'),\n           (5, 'Food and fertiliser subsidies'), (6, 'Rural development and farming'), (7, 'Police and home affairs'),\n           (8, 'Health and education'), (9, 'Pensions'), (10, 'Everything else')\n), sums AS (\n    SELECT n.bucket, n.name, coalesce(sum(b.be_total), 0) AS crore\n    FROM names n LEFT JOIN bucketed b USING (bucket)\n    GROUP BY n.bucket, n.name\n), shares AS (\n    SELECT *, 100 * crore / sum(crore) OVER () AS exact, floor(100 * crore / sum(crore) OVER ())::INT AS floor_squares\n    FROM sums\n), ranked AS (\n    SELECT *, row_number() OVER (ORDER BY exact - floor_squares DESC, bucket) AS remainder_rank,\n              100 - sum(floor_squares) OVER () AS leftover\n    FROM shares\n)\nSELECT (SELECT budget FROM latest)                                      AS budget,\n       name,\n       crore,\n       floor_squares + CASE WHEN remainder_rank <= leftover THEN 1 ELSE 0 END AS squares\nFROM ranked\nORDER BY bucket;\n",
+  "09_the_bill": "-- The grand total. Part one: twenty years of headline numbers, every year with audited accounts.\n-- Part two: inside the ministries (2016-17 onward), money promised but never spent, and money\n-- spent beyond the budget, counted ministry by ministry and year by year so they don't cancel out.\nWITH yr AS (\n    SELECT fiscal_year, metric, be, actual\n    FROM macro_by_year\n    WHERE fiscal_year IN (SELECT fiscal_year FROM macro_by_year\n                          WHERE metric = 'total_expenditure' AND be <> 0 AND actual IS NOT NULL)\n      AND be <> 0\n), headline AS (\n    SELECT min(fiscal_year)                                                         AS first_year,\n           max(fiscal_year)                                                         AS last_year,\n           count(DISTINCT fiscal_year)                                              AS n_years,\n           sum(be)     FILTER (WHERE metric = 'total_expenditure')                  AS budgeted,\n           sum(actual) FILTER (WHERE metric = 'total_expenditure')                  AS spent,\n           sum(be - coalesce(actual, 0)) FILTER (WHERE metric = 'capital_expenditure') AS capex_unspent,\n           sum(be - coalesce(actual, 0)) FILTER (WHERE metric = 'other_receipts')   AS disinvestment_missing,\n           sum(be - coalesce(actual, 0)) FILTER (WHERE metric = 'tax_revenue_net')  AS tax_missing,\n           sum(coalesce(actual, 0) - be) FILTER (WHERE metric = 'fiscal_deficit')   AS extra_borrowing\n    FROM yr\n), ministries AS (\n    SELECT min(fiscal_year)                      AS first_year,\n           max(fiscal_year)                      AS last_year,\n           sum(be)                               AS budgeted,\n           sum(actual)                           AS spent,\n           sum(greatest(be - actual, 0))         AS never_spent,\n           sum(greatest(actual - be, 0))         AS beyond_budget\n    FROM read_csv('data/analysis/ministry_by_year.csv', header = true)\n)\nSELECT h.*, m.first_year AS ministry_first_year, m.last_year AS ministry_last_year,\n       m.budgeted AS ministry_budgeted, m.spent AS ministry_spent, m.never_spent, m.beyond_budget\nFROM headline h, ministries m;\n",
+  "10_waterfall_spending": "-- The latest audited year, traced: how spending got from the budget to the actual.\n-- Every department's gap (actual - budget) adds up exactly to the headline gap. The eight biggest\n-- shortfalls and three biggest overruns are shown on their own, each with the scheme that drove\n-- most of it; the rest are grouped.\nWITH ministry AS (\n    SELECT * FROM read_csv('data/analysis/ministry_by_year.csv', header = true)\n), scheme AS (\n    SELECT * FROM read_csv('data/analysis/scheme_by_year.csv', header = true)\n), latest AS (\n    SELECT max(fiscal_year) AS fy FROM ministry\n), gaps AS (\n    SELECT demand, actual - be AS gap,\n           row_number() OVER (PARTITION BY actual - be < 0 ORDER BY abs(actual - be) DESC) AS size_rank\n    FROM ministry\n    WHERE fiscal_year = (SELECT fy FROM latest) AND actual <> be\n), drivers AS (            -- the scheme with the biggest gap in the same direction as its department's\n    SELECT g.demand,\n           CASE WHEN g.gap < 0 THEN arg_min(s.scheme, s.actual - s.be) ELSE arg_max(s.scheme, s.actual - s.be) END AS scheme,\n           CASE WHEN g.gap < 0 THEN arg_min(s.be, s.actual - s.be)     ELSE arg_max(s.be, s.actual - s.be)     END AS be,\n           CASE WHEN g.gap < 0 THEN arg_min(s.actual, s.actual - s.be) ELSE arg_max(s.actual, s.actual - s.be) END AS actual\n    FROM gaps g JOIN scheme s ON s.demand = g.demand AND s.fiscal_year = (SELECT fy FROM latest)\n    GROUP BY g.demand, g.gap\n), steps AS (\n    SELECT 1 AS part, size_rank AS ord, g.demand AS label, gap AS value, d.scheme, d.be, d.actual\n    FROM gaps g LEFT JOIN drivers d USING (demand)\n    WHERE gap < 0 AND size_rank <= 8\n    UNION ALL\n    SELECT 2, 99, (count(*) || ' other departments that underspent'), sum(gap), NULL, NULL, NULL\n    FROM gaps WHERE gap < 0 AND size_rank > 8\n    UNION ALL\n    SELECT 3, size_rank, g.demand, gap, d.scheme, d.be, d.actual\n    FROM gaps g LEFT JOIN drivers d USING (demand)\n    WHERE gap > 0 AND size_rank <= 3\n    UNION ALL\n    SELECT 4, 99, (count(*) || ' other departments that overspent'), sum(gap), NULL, NULL, NULL\n    FROM gaps WHERE gap > 0 AND size_rank > 3\n)\nSELECT (SELECT fy FROM latest) AS fy, label, value, scheme, be, actual\nFROM steps\nORDER BY part, ord;\n",
+  "11_waterfall_funding": "-- The same year, from the other side of the books: spending fell short because income fell short\n-- and the government borrowed less. These four steps add up to the same headline gap.\nWITH latest AS (\n    SELECT max(fiscal_year) AS fy FROM read_csv('data/analysis/ministry_by_year.csv', header = true)\n), gap AS (\n    SELECT metric, actual - be AS gap, be, actual\n    FROM macro_by_year\n    WHERE fiscal_year = (SELECT fy FROM latest)\n)\nSELECT label, value FROM (\n    SELECT 1 AS ord, 'Tax came in below plan' AS label,          (SELECT gap FROM gap WHERE metric = 'tax_revenue_net') AS value\n    UNION ALL SELECT 2, 'Asset sales came in below plan',        (SELECT gap FROM gap WHERE metric = 'other_receipts')\n    UNION ALL SELECT 3, 'Other income came in below plan',       (SELECT sum(gap) FROM gap WHERE metric IN ('non_tax_revenue', 'recoveries_of_loans'))\n    UNION ALL SELECT 4, 'Borrowed less than planned',            (SELECT gap FROM gap WHERE metric = 'fiscal_deficit')\n)\nORDER BY ord;\n"
  }
 }

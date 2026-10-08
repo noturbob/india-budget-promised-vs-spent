@@ -8,6 +8,7 @@ import { GovStepper, type Gov } from "@/components/GovStepper";
 import { Waffle } from "@/components/Waffle";
 import { MinistrySankey } from "@/components/MinistrySankey";
 import { ReadoutChart } from "@/components/ReadoutChart";
+import { SqlPanel } from "@/components/SqlPanel";
 import { GrandTotal } from "@/components/GrandTotal";
 import { TallyFooter } from "@/components/TallyFooter";
 import { ChapterNav } from "@/components/ChapterNav";
@@ -232,6 +233,7 @@ export default function Home() {
             In {within5} of {points.length} years, spending landed within 5% of the budget. The two big misses were emergencies,
             not slips. The real story is <I>inside</I> the total: what gets cut, what never arrives, and who spends what they&apos;re given.
           </Reveal>
+          <SqlPanel files={["00_sources", "01_macro_by_year"]} className="mt-48" />
         </div>
 
         <div data-chapter="Capex">
@@ -243,6 +245,7 @@ export default function Home() {
               <Caption>Actual capital spending vs budget, by fiscal year</Caption>
               <Bars rows={capex} fmt={(v) => pct(v)} signed label="Capital spending, actual vs budget, by year" />
             </Card>
+            <SqlPanel files={["01_macro_by_year"]} className="mt-24" />
           </Chapter>
         </div>
 
@@ -255,11 +258,18 @@ export default function Home() {
                 x={dis.map((y) => y.fy)} be={dis.map((y) => y.other_receipts.be!)} actual={dis.map((y) => y.other_receipts.actual!)}
                 actualName="actually raised" gapName="Never came" />
             </Card>
+            <SqlPanel files={["01_macro_by_year"]} className="mt-24" />
           </Chapter>
         </div>
 
-        <div data-chapter="Governments"><GovStepper govs={govs} /></div>
-        <div data-chapter="Every ₹100"><Waffle fy={alloc.budget} total={alloc.total} cats={cats} /></div>
+        <div data-chapter="Governments">
+          <GovStepper govs={govs} />
+          <div className="mx-auto max-w-[1200px] px-16 pb-64 sm:px-32"><SqlPanel files={["02_government_scorecard"]} className="" /></div>
+        </div>
+        <div data-chapter="Every ₹100">
+          <Waffle fy={alloc.budget} total={alloc.total} cats={cats} />
+          <div className="mx-auto max-w-[1200px] px-16 pb-64 sm:px-32"><SqlPanel files={["08_every_100_rupees"]} className="" /></div>
+        </div>
 
         <div data-chapter="Ministries">
           <Chapter id="ministries" stamp="Ministries" title={<>Where every ministry&apos;s money <I>went.</I></>}
@@ -267,6 +277,7 @@ export default function Home() {
               money that was never spent into one pool; saffron ribbons bring in money spent beyond the budget. Hover a ribbon, click
               it to open that ministry, or pick a year.</>}>
             <MinistrySankey data={story.explorer} initial="Ministry of Rural Development" />
+            <SqlPanel files={["04_ministry_explorer", "03_ministries"]} className="mt-32" />
           </Chapter>
         </div>
 
@@ -317,6 +328,7 @@ export default function Home() {
                 label="Share of programmes spending under 75% of budget, by year" every={1} height={260}
                 tone={(r) => (r.label >= "2020-21" ? "hi" : "base")} labelled={under75.map((y) => y.fy)} />
             </Card>
+            <SqlPanel files={["05_underspending", "06_underspending_totals"]} className="mt-24" />
           </Chapter>
         </div>
 
@@ -344,6 +356,7 @@ export default function Home() {
                   { label: "Extra borrowing", value: crore(g.extra_borrowing), note: "How much more the government borrowed than its budgets planned." },
                 ] },
               ]} />
+            <SqlPanel files={["09_the_bill"]} className="mt-32" />
           </Chapter>
         </div>
 
@@ -368,6 +381,7 @@ export default function Home() {
                   ₹{Math.abs(Math.round(wf.total - wf.funding.reduce((t, x) => t + x.value, 0)))} crore, from rounding in the budget documents.)
                 </p>
               </Card>
+              <SqlPanel files={["10_waterfall_spending", "11_waterfall_funding"]} className="" />
             </div>
             <Reveal className="prose-col mt-48 text-[22px] font-light leading-[1.5]">
               No rupees went missing. What went missing was what the money was meant to buy: {crore(gapOf(0))} less on the rural
@@ -412,6 +426,7 @@ export default function Home() {
                 </Reveal>
               ))}
             </div>
+            <SqlPanel files={["07_publicity"]} className="mt-48" />
           </Chapter>
         </div>
 
@@ -428,7 +443,8 @@ export default function Home() {
               <p>
                 Every extraction is checked: accounting identities for every statement, each ministry&apos;s lines against its grand total,
                 and the two document series against each other, which agree to the crore for all ten overlapping years. One page with no
-                text layer was transcribed by hand. Code, raw files and checks are in the project repository.
+                text layer was transcribed by hand. Every number on this page is then computed in SQL (DuckDB), one question per file;
+                open &ldquo;Show the SQL&rdquo; under any chart to read the query behind it. Code, raw files and checks are in the project repository.
               </p>
             </div>
             <div className="mt-64 flex flex-wrap items-center gap-x-32 gap-y-12 border-t pt-32 text-[15px] text-almost-white/75" style={{ borderColor: "var(--hair)" }}>

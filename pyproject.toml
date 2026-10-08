@@ -1,0 +1,6 @@
+[project]
+name = "india-budget-promised-vs-spent"
+version = "0.1.0"
+description = "India's Union Budget: what was promised vs what was spent"
+requires-python = ">=3.12"
+dependencies = ["duckdb>=1.1"]
