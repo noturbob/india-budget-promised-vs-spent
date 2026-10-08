@@ -431,6 +431,12 @@ export default function Home() {
                 text layer was transcribed by hand. Code, raw files and checks are in the project repository.
               </p>
             </div>
+            <div className="mt-64 flex flex-wrap items-center gap-x-32 gap-y-12 border-t pt-32 text-[15px] text-almost-white/75" style={{ borderColor: "var(--hair)" }}>
+              <p>Made by <span className="text-almost-white">Bobby Anthene</span></p>
+              <a className="underline underline-offset-4 hover:text-almost-white" href="https://github.com/noturbob" target="_blank" rel="noreferrer">GitHub</a>
+              <a className="underline underline-offset-4 hover:text-almost-white" href="mailto:bobbyanthene@gmail.com">bobbyanthene@gmail.com</a>
+              <a className="underline underline-offset-4 hover:text-almost-white" href="https://github.com/noturbob/india-budget-promised-vs-spent" target="_blank" rel="noreferrer">Source code and data</a>
+            </div>
           </div>
         </section>
       </main>
